@@ -1,0 +1,18 @@
+{
+  "download_date": "2025-10-18 22:43:41",
+  "total_records": 70774,
+  "total_size_mb": 5.0,
+  "datasets": {
+    "agmarknet_prices": "Historical commodity prices (2019-2024)",
+    "weather_data": "Daily weather for agricultural districts",
+    "enam_transactions": "Electronic market transactions",
+    "district_crops": "District-wise crop production data",
+    "policy_schemes": "Agricultural schemes and policies"
+  },
+  "coverage": {
+    "states": 13,
+    "districts": 50,
+    "crops": 32,
+    "years": "2019-2024"
+  }
+}

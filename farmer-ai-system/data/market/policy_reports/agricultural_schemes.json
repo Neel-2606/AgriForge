@@ -1,0 +1,37 @@
+[
+  {
+    "scheme_name": "PM-KISAN",
+    "description": "Direct income support to farmers",
+    "beneficiary_amount": 6000,
+    "frequency": "Annual",
+    "eligibility": "Small and marginal farmers",
+    "launch_year": 2019
+  },
+  {
+    "scheme_name": "Pradhan Mantri Fasal Bima Yojana",
+    "description": "Crop insurance scheme",
+    "coverage": "All crops",
+    "premium_subsidy": "Up to 90%",
+    "launch_year": 2016
+  },
+  {
+    "scheme_name": "Soil Health Card Scheme",
+    "description": "Soil testing and health cards",
+    "target": "All farmers",
+    "frequency": "Every 3 years",
+    "launch_year": 2015
+  },
+  {
+    "scheme_name": "National Agriculture Market (eNAM)",
+    "description": "Online trading platform",
+    "markets_covered": 1000,
+    "launch_year": 2016
+  },
+  {
+    "scheme_name": "Paramparagat Krishi Vikas Yojana",
+    "description": "Organic farming promotion",
+    "cluster_size": "50 hectares",
+    "support_amount": 50000,
+    "launch_year": 2015
+  }
+]

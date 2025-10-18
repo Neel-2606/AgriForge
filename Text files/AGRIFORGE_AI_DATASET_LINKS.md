@@ -120,11 +120,10 @@ D:\SIH\farmer-ai-system\data\
 
 ## 🎤 B. SPEECH MODEL DATASETS (≤22 GB)
 
-### 📂 `data/speech/indicvoices/`
-**Dataset**: AI4Bharat IndicVoices (PRIMARY SOURCE)  
-**📥 Download**: https://huggingface.co/datasets/ai4bharat/indicvoices_r  
-**Research**: IIT Madras AI4Bharat Initiative  
-**Size**: ~15-18 GB (all 10 languages)  
+#### 1. Mozilla Common Voice (Indic Languages) (~15GB, ~200 hours)
+**📥 Source**: https://commonvoice.mozilla.org/datasets
+**📂 Extract to**: `data/speech/common_voice/`
+
 
 **Language Coverage**:
 - Hindi (hi): ~2.0 GB

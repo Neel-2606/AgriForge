@@ -1,0 +1,2401 @@
+year,state,district,crop,area_hectares,production_tonnes,yield_tonnes_per_hectare,irrigated_area_hectares,rainfed_area_hectares
+2019,Punjab,Ludhiana,Rice,32197.2,80493.0,2.5,22538.0,9659.2
+2020,Punjab,Ludhiana,Rice,32197.2,80493.0,2.5,22538.0,9659.2
+2021,Punjab,Ludhiana,Rice,32197.2,80493.0,2.5,22538.0,9659.2
+2022,Punjab,Ludhiana,Rice,32197.2,80493.0,2.5,22538.0,9659.2
+2023,Punjab,Ludhiana,Rice,32197.2,80493.0,2.5,22538.0,9659.2
+2024,Punjab,Ludhiana,Rice,32197.2,80493.0,2.5,22538.0,9659.2
+2019,Punjab,Ludhiana,Wheat,21018.0,67257.6,3.2,14712.6,6305.4
+2020,Punjab,Ludhiana,Wheat,21018.0,67257.6,3.2,14712.6,6305.4
+2021,Punjab,Ludhiana,Wheat,21018.0,67257.6,3.2,14712.6,6305.4
+2022,Punjab,Ludhiana,Wheat,21018.0,67257.6,3.2,14712.6,6305.4
+2023,Punjab,Ludhiana,Wheat,21018.0,67257.6,3.2,14712.6,6305.4
+2024,Punjab,Ludhiana,Wheat,21018.0,67257.6,3.2,14712.6,6305.4
+2019,Punjab,Ludhiana,Cotton,43423.2,21711.6,0.5,30396.2,13027.0
+2020,Punjab,Ludhiana,Cotton,43423.2,21711.6,0.5,30396.2,13027.0
+2021,Punjab,Ludhiana,Cotton,43423.2,21711.6,0.5,30396.2,13027.0
+2022,Punjab,Ludhiana,Cotton,43423.2,21711.6,0.5,30396.2,13027.0
+2023,Punjab,Ludhiana,Cotton,43423.2,21711.6,0.5,30396.2,13027.0
+2024,Punjab,Ludhiana,Cotton,43423.2,21711.6,0.5,30396.2,13027.0
+2019,Punjab,Ludhiana,Sugarcane,9109.5,637665.0,70.0,6376.6,2732.8
+2020,Punjab,Ludhiana,Sugarcane,9109.5,637665.0,70.0,6376.6,2732.8
+2021,Punjab,Ludhiana,Sugarcane,9109.5,637665.0,70.0,6376.6,2732.8
+2022,Punjab,Ludhiana,Sugarcane,9109.5,637665.0,70.0,6376.6,2732.8
+2023,Punjab,Ludhiana,Sugarcane,9109.5,637665.0,70.0,6376.6,2732.8
+2024,Punjab,Ludhiana,Sugarcane,9109.5,637665.0,70.0,6376.6,2732.8
+2019,Punjab,Ludhiana,Soybean,20157.3,22173.0,1.1,14110.1,6047.2
+2020,Punjab,Ludhiana,Soybean,20157.3,22173.0,1.1,14110.1,6047.2
+2021,Punjab,Ludhiana,Soybean,20157.3,22173.0,1.1,14110.1,6047.2
+2022,Punjab,Ludhiana,Soybean,20157.3,22173.0,1.1,14110.1,6047.2
+2023,Punjab,Ludhiana,Soybean,20157.3,22173.0,1.1,14110.1,6047.2
+2024,Punjab,Ludhiana,Soybean,20157.3,22173.0,1.1,14110.1,6047.2
+2019,Punjab,Ludhiana,Maize,23636.9,66183.3,2.8,16545.8,7091.1
+2020,Punjab,Ludhiana,Maize,23636.9,66183.3,2.8,16545.8,7091.1
+2021,Punjab,Ludhiana,Maize,23636.9,66183.3,2.8,16545.8,7091.1
+2022,Punjab,Ludhiana,Maize,23636.9,66183.3,2.8,16545.8,7091.1
+2023,Punjab,Ludhiana,Maize,23636.9,66183.3,2.8,16545.8,7091.1
+2024,Punjab,Ludhiana,Maize,23636.9,66183.3,2.8,16545.8,7091.1
+2019,Punjab,Ludhiana,Groundnut,22752.0,31852.8,1.4,15926.4,6825.6
+2020,Punjab,Ludhiana,Groundnut,22752.0,31852.8,1.4,15926.4,6825.6
+2021,Punjab,Ludhiana,Groundnut,22752.0,31852.8,1.4,15926.4,6825.6
+2022,Punjab,Ludhiana,Groundnut,22752.0,31852.8,1.4,15926.4,6825.6
+2023,Punjab,Ludhiana,Groundnut,22752.0,31852.8,1.4,15926.4,6825.6
+2024,Punjab,Ludhiana,Groundnut,22752.0,31852.8,1.4,15926.4,6825.6
+2019,Punjab,Ludhiana,Onion,5982.2,107679.6,18.0,4187.5,1794.7
+2020,Punjab,Ludhiana,Onion,5982.2,107679.6,18.0,4187.5,1794.7
+2021,Punjab,Ludhiana,Onion,5982.2,107679.6,18.0,4187.5,1794.7
+2022,Punjab,Ludhiana,Onion,5982.2,107679.6,18.0,4187.5,1794.7
+2023,Punjab,Ludhiana,Onion,5982.2,107679.6,18.0,4187.5,1794.7
+2024,Punjab,Ludhiana,Onion,5982.2,107679.6,18.0,4187.5,1794.7
+2019,Punjab,Amritsar,Rice,20102.4,50256.0,2.5,14071.7,6030.7
+2020,Punjab,Amritsar,Rice,20102.4,50256.0,2.5,14071.7,6030.7
+2021,Punjab,Amritsar,Rice,20102.4,50256.0,2.5,14071.7,6030.7
+2022,Punjab,Amritsar,Rice,20102.4,50256.0,2.5,14071.7,6030.7
+2023,Punjab,Amritsar,Rice,20102.4,50256.0,2.5,14071.7,6030.7
+2024,Punjab,Amritsar,Rice,20102.4,50256.0,2.5,14071.7,6030.7
+2019,Punjab,Amritsar,Wheat,15603.0,49929.6,3.2,10922.1,4680.9
+2020,Punjab,Amritsar,Wheat,15603.0,49929.6,3.2,10922.1,4680.9
+2021,Punjab,Amritsar,Wheat,15603.0,49929.6,3.2,10922.1,4680.9
+2022,Punjab,Amritsar,Wheat,15603.0,49929.6,3.2,10922.1,4680.9
+2023,Punjab,Amritsar,Wheat,15603.0,49929.6,3.2,10922.1,4680.9
+2024,Punjab,Amritsar,Wheat,15603.0,49929.6,3.2,10922.1,4680.9
+2019,Punjab,Amritsar,Cotton,25764.8,12882.4,0.5,18035.4,7729.4
+2020,Punjab,Amritsar,Cotton,25764.8,12882.4,0.5,18035.4,7729.4
+2021,Punjab,Amritsar,Cotton,25764.8,12882.4,0.5,18035.4,7729.4
+2022,Punjab,Amritsar,Cotton,25764.8,12882.4,0.5,18035.4,7729.4
+2023,Punjab,Amritsar,Cotton,25764.8,12882.4,0.5,18035.4,7729.4
+2024,Punjab,Amritsar,Cotton,25764.8,12882.4,0.5,18035.4,7729.4
+2019,Punjab,Amritsar,Sugarcane,6520.8,456456.0,70.0,4564.6,1956.2
+2020,Punjab,Amritsar,Sugarcane,6520.8,456456.0,70.0,4564.6,1956.2
+2021,Punjab,Amritsar,Sugarcane,6520.8,456456.0,70.0,4564.6,1956.2
+2022,Punjab,Amritsar,Sugarcane,6520.8,456456.0,70.0,4564.6,1956.2
+2023,Punjab,Amritsar,Sugarcane,6520.8,456456.0,70.0,4564.6,1956.2
+2024,Punjab,Amritsar,Sugarcane,6520.8,456456.0,70.0,4564.6,1956.2
+2019,Punjab,Amritsar,Soybean,51198.3,56318.1,1.1,35838.8,15359.5
+2020,Punjab,Amritsar,Soybean,51198.3,56318.1,1.1,35838.8,15359.5
+2021,Punjab,Amritsar,Soybean,51198.3,56318.1,1.1,35838.8,15359.5
+2022,Punjab,Amritsar,Soybean,51198.3,56318.1,1.1,35838.8,15359.5
+2023,Punjab,Amritsar,Soybean,51198.3,56318.1,1.1,35838.8,15359.5
+2024,Punjab,Amritsar,Soybean,51198.3,56318.1,1.1,35838.8,15359.5
+2019,Punjab,Amritsar,Maize,16744.0,46883.2,2.8,11720.8,5023.2
+2020,Punjab,Amritsar,Maize,16744.0,46883.2,2.8,11720.8,5023.2
+2021,Punjab,Amritsar,Maize,16744.0,46883.2,2.8,11720.8,5023.2
+2022,Punjab,Amritsar,Maize,16744.0,46883.2,2.8,11720.8,5023.2
+2023,Punjab,Amritsar,Maize,16744.0,46883.2,2.8,11720.8,5023.2
+2024,Punjab,Amritsar,Maize,16744.0,46883.2,2.8,11720.8,5023.2
+2019,Punjab,Amritsar,Groundnut,9675.6,13545.8,1.4,6772.9,2902.7
+2020,Punjab,Amritsar,Groundnut,9675.6,13545.8,1.4,6772.9,2902.7
+2021,Punjab,Amritsar,Groundnut,9675.6,13545.8,1.4,6772.9,2902.7
+2022,Punjab,Amritsar,Groundnut,9675.6,13545.8,1.4,6772.9,2902.7
+2023,Punjab,Amritsar,Groundnut,9675.6,13545.8,1.4,6772.9,2902.7
+2024,Punjab,Amritsar,Groundnut,9675.6,13545.8,1.4,6772.9,2902.7
+2019,Punjab,Amritsar,Onion,10012.4,180223.2,18.0,7008.7,3003.7
+2020,Punjab,Amritsar,Onion,10012.4,180223.2,18.0,7008.7,3003.7
+2021,Punjab,Amritsar,Onion,10012.4,180223.2,18.0,7008.7,3003.7
+2022,Punjab,Amritsar,Onion,10012.4,180223.2,18.0,7008.7,3003.7
+2023,Punjab,Amritsar,Onion,10012.4,180223.2,18.0,7008.7,3003.7
+2024,Punjab,Amritsar,Onion,10012.4,180223.2,18.0,7008.7,3003.7
+2019,Punjab,Jalandhar,Rice,37004.4,92511.0,2.5,25903.1,11101.3
+2020,Punjab,Jalandhar,Rice,37004.4,92511.0,2.5,25903.1,11101.3
+2021,Punjab,Jalandhar,Rice,37004.4,92511.0,2.5,25903.1,11101.3
+2022,Punjab,Jalandhar,Rice,37004.4,92511.0,2.5,25903.1,11101.3
+2023,Punjab,Jalandhar,Rice,37004.4,92511.0,2.5,25903.1,11101.3
+2024,Punjab,Jalandhar,Rice,37004.4,92511.0,2.5,25903.1,11101.3
+2019,Punjab,Jalandhar,Wheat,28046.0,89747.2,3.2,19632.2,8413.8
+2020,Punjab,Jalandhar,Wheat,28046.0,89747.2,3.2,19632.2,8413.8
+2021,Punjab,Jalandhar,Wheat,28046.0,89747.2,3.2,19632.2,8413.8
+2022,Punjab,Jalandhar,Wheat,28046.0,89747.2,3.2,19632.2,8413.8
+2023,Punjab,Jalandhar,Wheat,28046.0,89747.2,3.2,19632.2,8413.8
+2024,Punjab,Jalandhar,Wheat,28046.0,89747.2,3.2,19632.2,8413.8
+2019,Punjab,Jalandhar,Cotton,42586.4,21293.2,0.5,29810.5,12775.9
+2020,Punjab,Jalandhar,Cotton,42586.4,21293.2,0.5,29810.5,12775.9
+2021,Punjab,Jalandhar,Cotton,42586.4,21293.2,0.5,29810.5,12775.9
+2022,Punjab,Jalandhar,Cotton,42586.4,21293.2,0.5,29810.5,12775.9
+2023,Punjab,Jalandhar,Cotton,42586.4,21293.2,0.5,29810.5,12775.9
+2024,Punjab,Jalandhar,Cotton,42586.4,21293.2,0.5,29810.5,12775.9
+2019,Punjab,Jalandhar,Sugarcane,6477.9,453453.0,70.0,4534.5,1943.4
+2020,Punjab,Jalandhar,Sugarcane,6477.9,453453.0,70.0,4534.5,1943.4
+2021,Punjab,Jalandhar,Sugarcane,6477.9,453453.0,70.0,4534.5,1943.4
+2022,Punjab,Jalandhar,Sugarcane,6477.9,453453.0,70.0,4534.5,1943.4
+2023,Punjab,Jalandhar,Sugarcane,6477.9,453453.0,70.0,4534.5,1943.4
+2024,Punjab,Jalandhar,Sugarcane,6477.9,453453.0,70.0,4534.5,1943.4
+2019,Punjab,Jalandhar,Soybean,49867.2,54853.9,1.1,34907.0,14960.2
+2020,Punjab,Jalandhar,Soybean,49867.2,54853.9,1.1,34907.0,14960.2
+2021,Punjab,Jalandhar,Soybean,49867.2,54853.9,1.1,34907.0,14960.2
+2022,Punjab,Jalandhar,Soybean,49867.2,54853.9,1.1,34907.0,14960.2
+2023,Punjab,Jalandhar,Soybean,49867.2,54853.9,1.1,34907.0,14960.2
+2024,Punjab,Jalandhar,Soybean,49867.2,54853.9,1.1,34907.0,14960.2
+2019,Punjab,Jalandhar,Maize,25679.5,71902.6,2.8,17975.6,7703.8
+2020,Punjab,Jalandhar,Maize,25679.5,71902.6,2.8,17975.6,7703.8
+2021,Punjab,Jalandhar,Maize,25679.5,71902.6,2.8,17975.6,7703.8
+2022,Punjab,Jalandhar,Maize,25679.5,71902.6,2.8,17975.6,7703.8
+2023,Punjab,Jalandhar,Maize,25679.5,71902.6,2.8,17975.6,7703.8
+2024,Punjab,Jalandhar,Maize,25679.5,71902.6,2.8,17975.6,7703.8
+2019,Punjab,Jalandhar,Groundnut,20988.6,29384.0,1.4,14692.0,6296.6
+2020,Punjab,Jalandhar,Groundnut,20988.6,29384.0,1.4,14692.0,6296.6
+2021,Punjab,Jalandhar,Groundnut,20988.6,29384.0,1.4,14692.0,6296.6
+2022,Punjab,Jalandhar,Groundnut,20988.6,29384.0,1.4,14692.0,6296.6
+2023,Punjab,Jalandhar,Groundnut,20988.6,29384.0,1.4,14692.0,6296.6
+2024,Punjab,Jalandhar,Groundnut,20988.6,29384.0,1.4,14692.0,6296.6
+2019,Punjab,Jalandhar,Onion,9475.0,170550.0,18.0,6632.5,2842.5
+2020,Punjab,Jalandhar,Onion,9475.0,170550.0,18.0,6632.5,2842.5
+2021,Punjab,Jalandhar,Onion,9475.0,170550.0,18.0,6632.5,2842.5
+2022,Punjab,Jalandhar,Onion,9475.0,170550.0,18.0,6632.5,2842.5
+2023,Punjab,Jalandhar,Onion,9475.0,170550.0,18.0,6632.5,2842.5
+2024,Punjab,Jalandhar,Onion,9475.0,170550.0,18.0,6632.5,2842.5
+2019,Punjab,Patiala,Rice,52310.4,130776.0,2.5,36617.3,15693.1
+2020,Punjab,Patiala,Rice,52310.4,130776.0,2.5,36617.3,15693.1
+2021,Punjab,Patiala,Rice,52310.4,130776.0,2.5,36617.3,15693.1
+2022,Punjab,Patiala,Rice,52310.4,130776.0,2.5,36617.3,15693.1
+2023,Punjab,Patiala,Rice,52310.4,130776.0,2.5,36617.3,15693.1
+2024,Punjab,Patiala,Rice,52310.4,130776.0,2.5,36617.3,15693.1
+2019,Punjab,Patiala,Wheat,34183.0,109385.6,3.2,23928.1,10254.9
+2020,Punjab,Patiala,Wheat,34183.0,109385.6,3.2,23928.1,10254.9
+2021,Punjab,Patiala,Wheat,34183.0,109385.6,3.2,23928.1,10254.9
+2022,Punjab,Patiala,Wheat,34183.0,109385.6,3.2,23928.1,10254.9
+2023,Punjab,Patiala,Wheat,34183.0,109385.6,3.2,23928.1,10254.9
+2024,Punjab,Patiala,Wheat,34183.0,109385.6,3.2,23928.1,10254.9
+2019,Punjab,Patiala,Cotton,47652.8,23826.4,0.5,33357.0,14295.8
+2020,Punjab,Patiala,Cotton,47652.8,23826.4,0.5,33357.0,14295.8
+2021,Punjab,Patiala,Cotton,47652.8,23826.4,0.5,33357.0,14295.8
+2022,Punjab,Patiala,Cotton,47652.8,23826.4,0.5,33357.0,14295.8
+2023,Punjab,Patiala,Cotton,47652.8,23826.4,0.5,33357.0,14295.8
+2024,Punjab,Patiala,Cotton,47652.8,23826.4,0.5,33357.0,14295.8
+2019,Punjab,Patiala,Sugarcane,13900.2,973014.0,70.0,9730.1,4170.1
+2020,Punjab,Patiala,Sugarcane,13900.2,973014.0,70.0,9730.1,4170.1
+2021,Punjab,Patiala,Sugarcane,13900.2,973014.0,70.0,9730.1,4170.1
+2022,Punjab,Patiala,Sugarcane,13900.2,973014.0,70.0,9730.1,4170.1
+2023,Punjab,Patiala,Sugarcane,13900.2,973014.0,70.0,9730.1,4170.1
+2024,Punjab,Patiala,Sugarcane,13900.2,973014.0,70.0,9730.1,4170.1
+2019,Punjab,Patiala,Soybean,27976.5,30774.2,1.1,19583.5,8392.9
+2020,Punjab,Patiala,Soybean,27976.5,30774.2,1.1,19583.5,8392.9
+2021,Punjab,Patiala,Soybean,27976.5,30774.2,1.1,19583.5,8392.9
+2022,Punjab,Patiala,Soybean,27976.5,30774.2,1.1,19583.5,8392.9
+2023,Punjab,Patiala,Soybean,27976.5,30774.2,1.1,19583.5,8392.9
+2024,Punjab,Patiala,Soybean,27976.5,30774.2,1.1,19583.5,8392.9
+2019,Punjab,Patiala,Maize,32424.0,90787.2,2.8,22696.8,9727.2
+2020,Punjab,Patiala,Maize,32424.0,90787.2,2.8,22696.8,9727.2
+2021,Punjab,Patiala,Maize,32424.0,90787.2,2.8,22696.8,9727.2
+2022,Punjab,Patiala,Maize,32424.0,90787.2,2.8,22696.8,9727.2
+2023,Punjab,Patiala,Maize,32424.0,90787.2,2.8,22696.8,9727.2
+2024,Punjab,Patiala,Maize,32424.0,90787.2,2.8,22696.8,9727.2
+2019,Punjab,Patiala,Groundnut,11647.8,16306.9,1.4,8153.5,3494.3
+2020,Punjab,Patiala,Groundnut,11647.8,16306.9,1.4,8153.5,3494.3
+2021,Punjab,Patiala,Groundnut,11647.8,16306.9,1.4,8153.5,3494.3
+2022,Punjab,Patiala,Groundnut,11647.8,16306.9,1.4,8153.5,3494.3
+2023,Punjab,Patiala,Groundnut,11647.8,16306.9,1.4,8153.5,3494.3
+2024,Punjab,Patiala,Groundnut,11647.8,16306.9,1.4,8153.5,3494.3
+2019,Punjab,Patiala,Onion,2337.2,42069.6,18.0,1636.0,701.2
+2020,Punjab,Patiala,Onion,2337.2,42069.6,18.0,1636.0,701.2
+2021,Punjab,Patiala,Onion,2337.2,42069.6,18.0,1636.0,701.2
+2022,Punjab,Patiala,Onion,2337.2,42069.6,18.0,1636.0,701.2
+2023,Punjab,Patiala,Onion,2337.2,42069.6,18.0,1636.0,701.2
+2024,Punjab,Patiala,Onion,2337.2,42069.6,18.0,1636.0,701.2
+2019,Punjab,Bathinda,Rice,26468.4,66171.0,2.5,18527.9,7940.5
+2020,Punjab,Bathinda,Rice,26468.4,66171.0,2.5,18527.9,7940.5
+2021,Punjab,Bathinda,Rice,26468.4,66171.0,2.5,18527.9,7940.5
+2022,Punjab,Bathinda,Rice,26468.4,66171.0,2.5,18527.9,7940.5
+2023,Punjab,Bathinda,Rice,26468.4,66171.0,2.5,18527.9,7940.5
+2024,Punjab,Bathinda,Rice,26468.4,66171.0,2.5,18527.9,7940.5
+2019,Punjab,Bathinda,Wheat,54361.0,173955.2,3.2,38052.7,16308.3
+2020,Punjab,Bathinda,Wheat,54361.0,173955.2,3.2,38052.7,16308.3
+2021,Punjab,Bathinda,Wheat,54361.0,173955.2,3.2,38052.7,16308.3
+2022,Punjab,Bathinda,Wheat,54361.0,173955.2,3.2,38052.7,16308.3
+2023,Punjab,Bathinda,Wheat,54361.0,173955.2,3.2,38052.7,16308.3
+2024,Punjab,Bathinda,Wheat,54361.0,173955.2,3.2,38052.7,16308.3
+2019,Punjab,Bathinda,Cotton,47924.8,23962.4,0.5,33547.4,14377.4
+2020,Punjab,Bathinda,Cotton,47924.8,23962.4,0.5,33547.4,14377.4
+2021,Punjab,Bathinda,Cotton,47924.8,23962.4,0.5,33547.4,14377.4
+2022,Punjab,Bathinda,Cotton,47924.8,23962.4,0.5,33547.4,14377.4
+2023,Punjab,Bathinda,Cotton,47924.8,23962.4,0.5,33547.4,14377.4
+2024,Punjab,Bathinda,Cotton,47924.8,23962.4,0.5,33547.4,14377.4
+2019,Punjab,Bathinda,Sugarcane,15326.4,1072848.0,70.0,10728.5,4597.9
+2020,Punjab,Bathinda,Sugarcane,15326.4,1072848.0,70.0,10728.5,4597.9
+2021,Punjab,Bathinda,Sugarcane,15326.4,1072848.0,70.0,10728.5,4597.9
+2022,Punjab,Bathinda,Sugarcane,15326.4,1072848.0,70.0,10728.5,4597.9
+2023,Punjab,Bathinda,Sugarcane,15326.4,1072848.0,70.0,10728.5,4597.9
+2024,Punjab,Bathinda,Sugarcane,15326.4,1072848.0,70.0,10728.5,4597.9
+2019,Punjab,Bathinda,Soybean,47321.1,52053.2,1.1,33124.8,14196.3
+2020,Punjab,Bathinda,Soybean,47321.1,52053.2,1.1,33124.8,14196.3
+2021,Punjab,Bathinda,Soybean,47321.1,52053.2,1.1,33124.8,14196.3
+2022,Punjab,Bathinda,Soybean,47321.1,52053.2,1.1,33124.8,14196.3
+2023,Punjab,Bathinda,Soybean,47321.1,52053.2,1.1,33124.8,14196.3
+2024,Punjab,Bathinda,Soybean,47321.1,52053.2,1.1,33124.8,14196.3
+2019,Punjab,Bathinda,Maize,15191.4,42535.9,2.8,10634.0,4557.4
+2020,Punjab,Bathinda,Maize,15191.4,42535.9,2.8,10634.0,4557.4
+2021,Punjab,Bathinda,Maize,15191.4,42535.9,2.8,10634.0,4557.4
+2022,Punjab,Bathinda,Maize,15191.4,42535.9,2.8,10634.0,4557.4
+2023,Punjab,Bathinda,Maize,15191.4,42535.9,2.8,10634.0,4557.4
+2024,Punjab,Bathinda,Maize,15191.4,42535.9,2.8,10634.0,4557.4
+2019,Punjab,Bathinda,Groundnut,11345.4,15883.6,1.4,7941.8,3403.6
+2020,Punjab,Bathinda,Groundnut,11345.4,15883.6,1.4,7941.8,3403.6
+2021,Punjab,Bathinda,Groundnut,11345.4,15883.6,1.4,7941.8,3403.6
+2022,Punjab,Bathinda,Groundnut,11345.4,15883.6,1.4,7941.8,3403.6
+2023,Punjab,Bathinda,Groundnut,11345.4,15883.6,1.4,7941.8,3403.6
+2024,Punjab,Bathinda,Groundnut,11345.4,15883.6,1.4,7941.8,3403.6
+2019,Punjab,Bathinda,Onion,6381.6,114868.8,18.0,4467.1,1914.5
+2020,Punjab,Bathinda,Onion,6381.6,114868.8,18.0,4467.1,1914.5
+2021,Punjab,Bathinda,Onion,6381.6,114868.8,18.0,4467.1,1914.5
+2022,Punjab,Bathinda,Onion,6381.6,114868.8,18.0,4467.1,1914.5
+2023,Punjab,Bathinda,Onion,6381.6,114868.8,18.0,4467.1,1914.5
+2024,Punjab,Bathinda,Onion,6381.6,114868.8,18.0,4467.1,1914.5
+2019,Haryana,Karnal,Rice,58662.0,146655.0,2.5,41063.4,17598.6
+2020,Haryana,Karnal,Rice,58662.0,146655.0,2.5,41063.4,17598.6
+2021,Haryana,Karnal,Rice,58662.0,146655.0,2.5,41063.4,17598.6
+2022,Haryana,Karnal,Rice,58662.0,146655.0,2.5,41063.4,17598.6
+2023,Haryana,Karnal,Rice,58662.0,146655.0,2.5,41063.4,17598.6
+2024,Haryana,Karnal,Rice,58662.0,146655.0,2.5,41063.4,17598.6
+2019,Haryana,Karnal,Wheat,30235.0,96752.0,3.2,21164.5,9070.5
+2020,Haryana,Karnal,Wheat,30235.0,96752.0,3.2,21164.5,9070.5
+2021,Haryana,Karnal,Wheat,30235.0,96752.0,3.2,21164.5,9070.5
+2022,Haryana,Karnal,Wheat,30235.0,96752.0,3.2,21164.5,9070.5
+2023,Haryana,Karnal,Wheat,30235.0,96752.0,3.2,21164.5,9070.5
+2024,Haryana,Karnal,Wheat,30235.0,96752.0,3.2,21164.5,9070.5
+2019,Haryana,Karnal,Cotton,46774.4,23387.2,0.5,32742.1,14032.3
+2020,Haryana,Karnal,Cotton,46774.4,23387.2,0.5,32742.1,14032.3
+2021,Haryana,Karnal,Cotton,46774.4,23387.2,0.5,32742.1,14032.3
+2022,Haryana,Karnal,Cotton,46774.4,23387.2,0.5,32742.1,14032.3
+2023,Haryana,Karnal,Cotton,46774.4,23387.2,0.5,32742.1,14032.3
+2024,Haryana,Karnal,Cotton,46774.4,23387.2,0.5,32742.1,14032.3
+2019,Haryana,Karnal,Sugarcane,13074.0,915180.0,70.0,9151.8,3922.2
+2020,Haryana,Karnal,Sugarcane,13074.0,915180.0,70.0,9151.8,3922.2
+2021,Haryana,Karnal,Sugarcane,13074.0,915180.0,70.0,9151.8,3922.2
+2022,Haryana,Karnal,Sugarcane,13074.0,915180.0,70.0,9151.8,3922.2
+2023,Haryana,Karnal,Sugarcane,13074.0,915180.0,70.0,9151.8,3922.2
+2024,Haryana,Karnal,Sugarcane,13074.0,915180.0,70.0,9151.8,3922.2
+2019,Haryana,Karnal,Soybean,20134.8,22148.3,1.1,14094.4,6040.4
+2020,Haryana,Karnal,Soybean,20134.8,22148.3,1.1,14094.4,6040.4
+2021,Haryana,Karnal,Soybean,20134.8,22148.3,1.1,14094.4,6040.4
+2022,Haryana,Karnal,Soybean,20134.8,22148.3,1.1,14094.4,6040.4
+2023,Haryana,Karnal,Soybean,20134.8,22148.3,1.1,14094.4,6040.4
+2024,Haryana,Karnal,Soybean,20134.8,22148.3,1.1,14094.4,6040.4
+2019,Haryana,Karnal,Maize,35104.3,98292.0,2.8,24573.0,10531.3
+2020,Haryana,Karnal,Maize,35104.3,98292.0,2.8,24573.0,10531.3
+2021,Haryana,Karnal,Maize,35104.3,98292.0,2.8,24573.0,10531.3
+2022,Haryana,Karnal,Maize,35104.3,98292.0,2.8,24573.0,10531.3
+2023,Haryana,Karnal,Maize,35104.3,98292.0,2.8,24573.0,10531.3
+2024,Haryana,Karnal,Maize,35104.3,98292.0,2.8,24573.0,10531.3
+2019,Haryana,Karnal,Groundnut,7298.4,10217.8,1.4,5108.9,2189.5
+2020,Haryana,Karnal,Groundnut,7298.4,10217.8,1.4,5108.9,2189.5
+2021,Haryana,Karnal,Groundnut,7298.4,10217.8,1.4,5108.9,2189.5
+2022,Haryana,Karnal,Groundnut,7298.4,10217.8,1.4,5108.9,2189.5
+2023,Haryana,Karnal,Groundnut,7298.4,10217.8,1.4,5108.9,2189.5
+2024,Haryana,Karnal,Groundnut,7298.4,10217.8,1.4,5108.9,2189.5
+2019,Haryana,Karnal,Onion,9371.8,168692.4,18.0,6560.3,2811.5
+2020,Haryana,Karnal,Onion,9371.8,168692.4,18.0,6560.3,2811.5
+2021,Haryana,Karnal,Onion,9371.8,168692.4,18.0,6560.3,2811.5
+2022,Haryana,Karnal,Onion,9371.8,168692.4,18.0,6560.3,2811.5
+2023,Haryana,Karnal,Onion,9371.8,168692.4,18.0,6560.3,2811.5
+2024,Haryana,Karnal,Onion,9371.8,168692.4,18.0,6560.3,2811.5
+2019,Haryana,Hisar,Rice,31093.2,77733.0,2.5,21765.2,9328.0
+2020,Haryana,Hisar,Rice,31093.2,77733.0,2.5,21765.2,9328.0
+2021,Haryana,Hisar,Rice,31093.2,77733.0,2.5,21765.2,9328.0
+2022,Haryana,Hisar,Rice,31093.2,77733.0,2.5,21765.2,9328.0
+2023,Haryana,Hisar,Rice,31093.2,77733.0,2.5,21765.2,9328.0
+2024,Haryana,Hisar,Rice,31093.2,77733.0,2.5,21765.2,9328.0
+2019,Haryana,Hisar,Wheat,53192.0,170214.4,3.2,37234.4,15957.6
+2020,Haryana,Hisar,Wheat,53192.0,170214.4,3.2,37234.4,15957.6
+2021,Haryana,Hisar,Wheat,53192.0,170214.4,3.2,37234.4,15957.6
+2022,Haryana,Hisar,Wheat,53192.0,170214.4,3.2,37234.4,15957.6
+2023,Haryana,Hisar,Wheat,53192.0,170214.4,3.2,37234.4,15957.6
+2024,Haryana,Hisar,Wheat,53192.0,170214.4,3.2,37234.4,15957.6
+2019,Haryana,Hisar,Cotton,18555.2,9277.6,0.5,12988.6,5566.6
+2020,Haryana,Hisar,Cotton,18555.2,9277.6,0.5,12988.6,5566.6
+2021,Haryana,Hisar,Cotton,18555.2,9277.6,0.5,12988.6,5566.6
+2022,Haryana,Hisar,Cotton,18555.2,9277.6,0.5,12988.6,5566.6
+2023,Haryana,Hisar,Cotton,18555.2,9277.6,0.5,12988.6,5566.6
+2024,Haryana,Hisar,Cotton,18555.2,9277.6,0.5,12988.6,5566.6
+2019,Haryana,Hisar,Sugarcane,9013.2,630924.0,70.0,6309.2,2704.0
+2020,Haryana,Hisar,Sugarcane,9013.2,630924.0,70.0,6309.2,2704.0
+2021,Haryana,Hisar,Sugarcane,9013.2,630924.0,70.0,6309.2,2704.0
+2022,Haryana,Hisar,Sugarcane,9013.2,630924.0,70.0,6309.2,2704.0
+2023,Haryana,Hisar,Sugarcane,9013.2,630924.0,70.0,6309.2,2704.0
+2024,Haryana,Hisar,Sugarcane,9013.2,630924.0,70.0,6309.2,2704.0
+2019,Haryana,Hisar,Soybean,11891.7,13080.9,1.1,8324.2,3567.5
+2020,Haryana,Hisar,Soybean,11891.7,13080.9,1.1,8324.2,3567.5
+2021,Haryana,Hisar,Soybean,11891.7,13080.9,1.1,8324.2,3567.5
+2022,Haryana,Hisar,Soybean,11891.7,13080.9,1.1,8324.2,3567.5
+2023,Haryana,Hisar,Soybean,11891.7,13080.9,1.1,8324.2,3567.5
+2024,Haryana,Hisar,Soybean,11891.7,13080.9,1.1,8324.2,3567.5
+2019,Haryana,Hisar,Maize,39865.7,111624.0,2.8,27906.0,11959.7
+2020,Haryana,Hisar,Maize,39865.7,111624.0,2.8,27906.0,11959.7
+2021,Haryana,Hisar,Maize,39865.7,111624.0,2.8,27906.0,11959.7
+2022,Haryana,Hisar,Maize,39865.7,111624.0,2.8,27906.0,11959.7
+2023,Haryana,Hisar,Maize,39865.7,111624.0,2.8,27906.0,11959.7
+2024,Haryana,Hisar,Maize,39865.7,111624.0,2.8,27906.0,11959.7
+2019,Haryana,Hisar,Groundnut,31359.6,43903.4,1.4,21951.7,9407.9
+2020,Haryana,Hisar,Groundnut,31359.6,43903.4,1.4,21951.7,9407.9
+2021,Haryana,Hisar,Groundnut,31359.6,43903.4,1.4,21951.7,9407.9
+2022,Haryana,Hisar,Groundnut,31359.6,43903.4,1.4,21951.7,9407.9
+2023,Haryana,Hisar,Groundnut,31359.6,43903.4,1.4,21951.7,9407.9
+2024,Haryana,Hisar,Groundnut,31359.6,43903.4,1.4,21951.7,9407.9
+2019,Haryana,Hisar,Onion,4394.4,79099.2,18.0,3076.1,1318.3
+2020,Haryana,Hisar,Onion,4394.4,79099.2,18.0,3076.1,1318.3
+2021,Haryana,Hisar,Onion,4394.4,79099.2,18.0,3076.1,1318.3
+2022,Haryana,Hisar,Onion,4394.4,79099.2,18.0,3076.1,1318.3
+2023,Haryana,Hisar,Onion,4394.4,79099.2,18.0,3076.1,1318.3
+2024,Haryana,Hisar,Onion,4394.4,79099.2,18.0,3076.1,1318.3
+2019,Haryana,Sirsa,Rice,19084.8,47712.0,2.5,13359.4,5725.4
+2020,Haryana,Sirsa,Rice,19084.8,47712.0,2.5,13359.4,5725.4
+2021,Haryana,Sirsa,Rice,19084.8,47712.0,2.5,13359.4,5725.4
+2022,Haryana,Sirsa,Rice,19084.8,47712.0,2.5,13359.4,5725.4
+2023,Haryana,Sirsa,Rice,19084.8,47712.0,2.5,13359.4,5725.4
+2024,Haryana,Sirsa,Rice,19084.8,47712.0,2.5,13359.4,5725.4
+2019,Haryana,Sirsa,Wheat,15391.0,49251.2,3.2,10773.7,4617.3
+2020,Haryana,Sirsa,Wheat,15391.0,49251.2,3.2,10773.7,4617.3
+2021,Haryana,Sirsa,Wheat,15391.0,49251.2,3.2,10773.7,4617.3
+2022,Haryana,Sirsa,Wheat,15391.0,49251.2,3.2,10773.7,4617.3
+2023,Haryana,Sirsa,Wheat,15391.0,49251.2,3.2,10773.7,4617.3
+2024,Haryana,Sirsa,Wheat,15391.0,49251.2,3.2,10773.7,4617.3
+2019,Haryana,Sirsa,Cotton,31203.2,15601.6,0.5,21842.2,9361.0
+2020,Haryana,Sirsa,Cotton,31203.2,15601.6,0.5,21842.2,9361.0
+2021,Haryana,Sirsa,Cotton,31203.2,15601.6,0.5,21842.2,9361.0
+2022,Haryana,Sirsa,Cotton,31203.2,15601.6,0.5,21842.2,9361.0
+2023,Haryana,Sirsa,Cotton,31203.2,15601.6,0.5,21842.2,9361.0
+2024,Haryana,Sirsa,Cotton,31203.2,15601.6,0.5,21842.2,9361.0
+2019,Haryana,Sirsa,Sugarcane,9723.0,680610.0,70.0,6806.1,2916.9
+2020,Haryana,Sirsa,Sugarcane,9723.0,680610.0,70.0,6806.1,2916.9
+2021,Haryana,Sirsa,Sugarcane,9723.0,680610.0,70.0,6806.1,2916.9
+2022,Haryana,Sirsa,Sugarcane,9723.0,680610.0,70.0,6806.1,2916.9
+2023,Haryana,Sirsa,Sugarcane,9723.0,680610.0,70.0,6806.1,2916.9
+2024,Haryana,Sirsa,Sugarcane,9723.0,680610.0,70.0,6806.1,2916.9
+2019,Haryana,Sirsa,Soybean,45544.5,50099.0,1.1,31881.1,13663.4
+2020,Haryana,Sirsa,Soybean,45544.5,50099.0,1.1,31881.1,13663.4
+2021,Haryana,Sirsa,Soybean,45544.5,50099.0,1.1,31881.1,13663.4
+2022,Haryana,Sirsa,Soybean,45544.5,50099.0,1.1,31881.1,13663.4
+2023,Haryana,Sirsa,Soybean,45544.5,50099.0,1.1,31881.1,13663.4
+2024,Haryana,Sirsa,Soybean,45544.5,50099.0,1.1,31881.1,13663.4
+2019,Haryana,Sirsa,Maize,21485.1,60158.3,2.8,15039.6,6445.5
+2020,Haryana,Sirsa,Maize,21485.1,60158.3,2.8,15039.6,6445.5
+2021,Haryana,Sirsa,Maize,21485.1,60158.3,2.8,15039.6,6445.5
+2022,Haryana,Sirsa,Maize,21485.1,60158.3,2.8,15039.6,6445.5
+2023,Haryana,Sirsa,Maize,21485.1,60158.3,2.8,15039.6,6445.5
+2024,Haryana,Sirsa,Maize,21485.1,60158.3,2.8,15039.6,6445.5
+2019,Haryana,Sirsa,Groundnut,33526.8,46937.5,1.4,23468.8,10058.0
+2020,Haryana,Sirsa,Groundnut,33526.8,46937.5,1.4,23468.8,10058.0
+2021,Haryana,Sirsa,Groundnut,33526.8,46937.5,1.4,23468.8,10058.0
+2022,Haryana,Sirsa,Groundnut,33526.8,46937.5,1.4,23468.8,10058.0
+2023,Haryana,Sirsa,Groundnut,33526.8,46937.5,1.4,23468.8,10058.0
+2024,Haryana,Sirsa,Groundnut,33526.8,46937.5,1.4,23468.8,10058.0
+2019,Haryana,Sirsa,Onion,11010.4,198187.2,18.0,7707.3,3303.1
+2020,Haryana,Sirsa,Onion,11010.4,198187.2,18.0,7707.3,3303.1
+2021,Haryana,Sirsa,Onion,11010.4,198187.2,18.0,7707.3,3303.1
+2022,Haryana,Sirsa,Onion,11010.4,198187.2,18.0,7707.3,3303.1
+2023,Haryana,Sirsa,Onion,11010.4,198187.2,18.0,7707.3,3303.1
+2024,Haryana,Sirsa,Onion,11010.4,198187.2,18.0,7707.3,3303.1
+2019,Haryana,Kurukshetra,Rice,37646.4,94116.0,2.5,26352.5,11293.9
+2020,Haryana,Kurukshetra,Rice,37646.4,94116.0,2.5,26352.5,11293.9
+2021,Haryana,Kurukshetra,Rice,37646.4,94116.0,2.5,26352.5,11293.9
+2022,Haryana,Kurukshetra,Rice,37646.4,94116.0,2.5,26352.5,11293.9
+2023,Haryana,Kurukshetra,Rice,37646.4,94116.0,2.5,26352.5,11293.9
+2024,Haryana,Kurukshetra,Rice,37646.4,94116.0,2.5,26352.5,11293.9
+2019,Haryana,Kurukshetra,Wheat,52725.0,168720.0,3.2,36907.5,15817.5
+2020,Haryana,Kurukshetra,Wheat,52725.0,168720.0,3.2,36907.5,15817.5
+2021,Haryana,Kurukshetra,Wheat,52725.0,168720.0,3.2,36907.5,15817.5
+2022,Haryana,Kurukshetra,Wheat,52725.0,168720.0,3.2,36907.5,15817.5
+2023,Haryana,Kurukshetra,Wheat,52725.0,168720.0,3.2,36907.5,15817.5
+2024,Haryana,Kurukshetra,Wheat,52725.0,168720.0,3.2,36907.5,15817.5
+2019,Haryana,Kurukshetra,Cotton,28763.2,14381.6,0.5,20134.2,8629.0
+2020,Haryana,Kurukshetra,Cotton,28763.2,14381.6,0.5,20134.2,8629.0
+2021,Haryana,Kurukshetra,Cotton,28763.2,14381.6,0.5,20134.2,8629.0
+2022,Haryana,Kurukshetra,Cotton,28763.2,14381.6,0.5,20134.2,8629.0
+2023,Haryana,Kurukshetra,Cotton,28763.2,14381.6,0.5,20134.2,8629.0
+2024,Haryana,Kurukshetra,Cotton,28763.2,14381.6,0.5,20134.2,8629.0
+2019,Haryana,Kurukshetra,Sugarcane,12835.5,898485.0,70.0,8984.8,3850.6
+2020,Haryana,Kurukshetra,Sugarcane,12835.5,898485.0,70.0,8984.8,3850.6
+2021,Haryana,Kurukshetra,Sugarcane,12835.5,898485.0,70.0,8984.8,3850.6
+2022,Haryana,Kurukshetra,Sugarcane,12835.5,898485.0,70.0,8984.8,3850.6
+2023,Haryana,Kurukshetra,Sugarcane,12835.5,898485.0,70.0,8984.8,3850.6
+2024,Haryana,Kurukshetra,Sugarcane,12835.5,898485.0,70.0,8984.8,3850.6
+2019,Haryana,Kurukshetra,Soybean,20510.1,22561.1,1.1,14357.1,6153.0
+2020,Haryana,Kurukshetra,Soybean,20510.1,22561.1,1.1,14357.1,6153.0
+2021,Haryana,Kurukshetra,Soybean,20510.1,22561.1,1.1,14357.1,6153.0
+2022,Haryana,Kurukshetra,Soybean,20510.1,22561.1,1.1,14357.1,6153.0
+2023,Haryana,Kurukshetra,Soybean,20510.1,22561.1,1.1,14357.1,6153.0
+2024,Haryana,Kurukshetra,Soybean,20510.1,22561.1,1.1,14357.1,6153.0
+2019,Haryana,Kurukshetra,Maize,11097.8,31073.8,2.8,7768.5,3329.3
+2020,Haryana,Kurukshetra,Maize,11097.8,31073.8,2.8,7768.5,3329.3
+2021,Haryana,Kurukshetra,Maize,11097.8,31073.8,2.8,7768.5,3329.3
+2022,Haryana,Kurukshetra,Maize,11097.8,31073.8,2.8,7768.5,3329.3
+2023,Haryana,Kurukshetra,Maize,11097.8,31073.8,2.8,7768.5,3329.3
+2024,Haryana,Kurukshetra,Maize,11097.8,31073.8,2.8,7768.5,3329.3
+2019,Haryana,Kurukshetra,Groundnut,16213.8,22699.3,1.4,11349.7,4864.1
+2020,Haryana,Kurukshetra,Groundnut,16213.8,22699.3,1.4,11349.7,4864.1
+2021,Haryana,Kurukshetra,Groundnut,16213.8,22699.3,1.4,11349.7,4864.1
+2022,Haryana,Kurukshetra,Groundnut,16213.8,22699.3,1.4,11349.7,4864.1
+2023,Haryana,Kurukshetra,Groundnut,16213.8,22699.3,1.4,11349.7,4864.1
+2024,Haryana,Kurukshetra,Groundnut,16213.8,22699.3,1.4,11349.7,4864.1
+2019,Haryana,Kurukshetra,Onion,4044.0,72792.0,18.0,2830.8,1213.2
+2020,Haryana,Kurukshetra,Onion,4044.0,72792.0,18.0,2830.8,1213.2
+2021,Haryana,Kurukshetra,Onion,4044.0,72792.0,18.0,2830.8,1213.2
+2022,Haryana,Kurukshetra,Onion,4044.0,72792.0,18.0,2830.8,1213.2
+2023,Haryana,Kurukshetra,Onion,4044.0,72792.0,18.0,2830.8,1213.2
+2024,Haryana,Kurukshetra,Onion,4044.0,72792.0,18.0,2830.8,1213.2
+2019,Haryana,Panipat,Rice,12886.8,32217.0,2.5,9020.8,3866.0
+2020,Haryana,Panipat,Rice,12886.8,32217.0,2.5,9020.8,3866.0
+2021,Haryana,Panipat,Rice,12886.8,32217.0,2.5,9020.8,3866.0
+2022,Haryana,Panipat,Rice,12886.8,32217.0,2.5,9020.8,3866.0
+2023,Haryana,Panipat,Rice,12886.8,32217.0,2.5,9020.8,3866.0
+2024,Haryana,Panipat,Rice,12886.8,32217.0,2.5,9020.8,3866.0
+2019,Haryana,Panipat,Wheat,50689.0,162204.8,3.2,35482.3,15206.7
+2020,Haryana,Panipat,Wheat,50689.0,162204.8,3.2,35482.3,15206.7
+2021,Haryana,Panipat,Wheat,50689.0,162204.8,3.2,35482.3,15206.7
+2022,Haryana,Panipat,Wheat,50689.0,162204.8,3.2,35482.3,15206.7
+2023,Haryana,Panipat,Wheat,50689.0,162204.8,3.2,35482.3,15206.7
+2024,Haryana,Panipat,Wheat,50689.0,162204.8,3.2,35482.3,15206.7
+2019,Haryana,Panipat,Cotton,28562.4,14281.2,0.5,19993.7,8568.7
+2020,Haryana,Panipat,Cotton,28562.4,14281.2,0.5,19993.7,8568.7
+2021,Haryana,Panipat,Cotton,28562.4,14281.2,0.5,19993.7,8568.7
+2022,Haryana,Panipat,Cotton,28562.4,14281.2,0.5,19993.7,8568.7
+2023,Haryana,Panipat,Cotton,28562.4,14281.2,0.5,19993.7,8568.7
+2024,Haryana,Panipat,Cotton,28562.4,14281.2,0.5,19993.7,8568.7
+2019,Haryana,Panipat,Sugarcane,13912.5,973875.0,70.0,9738.8,4173.8
+2020,Haryana,Panipat,Sugarcane,13912.5,973875.0,70.0,9738.8,4173.8
+2021,Haryana,Panipat,Sugarcane,13912.5,973875.0,70.0,9738.8,4173.8
+2022,Haryana,Panipat,Sugarcane,13912.5,973875.0,70.0,9738.8,4173.8
+2023,Haryana,Panipat,Sugarcane,13912.5,973875.0,70.0,9738.8,4173.8
+2024,Haryana,Panipat,Sugarcane,13912.5,973875.0,70.0,9738.8,4173.8
+2019,Haryana,Panipat,Soybean,24194.7,26614.2,1.1,16936.3,7258.4
+2020,Haryana,Panipat,Soybean,24194.7,26614.2,1.1,16936.3,7258.4
+2021,Haryana,Panipat,Soybean,24194.7,26614.2,1.1,16936.3,7258.4
+2022,Haryana,Panipat,Soybean,24194.7,26614.2,1.1,16936.3,7258.4
+2023,Haryana,Panipat,Soybean,24194.7,26614.2,1.1,16936.3,7258.4
+2024,Haryana,Panipat,Soybean,24194.7,26614.2,1.1,16936.3,7258.4
+2019,Haryana,Panipat,Maize,32905.6,92135.7,2.8,23033.9,9871.7
+2020,Haryana,Panipat,Maize,32905.6,92135.7,2.8,23033.9,9871.7
+2021,Haryana,Panipat,Maize,32905.6,92135.7,2.8,23033.9,9871.7
+2022,Haryana,Panipat,Maize,32905.6,92135.7,2.8,23033.9,9871.7
+2023,Haryana,Panipat,Maize,32905.6,92135.7,2.8,23033.9,9871.7
+2024,Haryana,Panipat,Maize,32905.6,92135.7,2.8,23033.9,9871.7
+2019,Haryana,Panipat,Groundnut,28140.0,39396.0,1.4,19698.0,8442.0
+2020,Haryana,Panipat,Groundnut,28140.0,39396.0,1.4,19698.0,8442.0
+2021,Haryana,Panipat,Groundnut,28140.0,39396.0,1.4,19698.0,8442.0
+2022,Haryana,Panipat,Groundnut,28140.0,39396.0,1.4,19698.0,8442.0
+2023,Haryana,Panipat,Groundnut,28140.0,39396.0,1.4,19698.0,8442.0
+2024,Haryana,Panipat,Groundnut,28140.0,39396.0,1.4,19698.0,8442.0
+2019,Haryana,Panipat,Onion,5866.2,105591.6,18.0,4106.3,1759.9
+2020,Haryana,Panipat,Onion,5866.2,105591.6,18.0,4106.3,1759.9
+2021,Haryana,Panipat,Onion,5866.2,105591.6,18.0,4106.3,1759.9
+2022,Haryana,Panipat,Onion,5866.2,105591.6,18.0,4106.3,1759.9
+2023,Haryana,Panipat,Onion,5866.2,105591.6,18.0,4106.3,1759.9
+2024,Haryana,Panipat,Onion,5866.2,105591.6,18.0,4106.3,1759.9
+2019,Uttar Pradesh,Meerut,Rice,35749.2,89373.0,2.5,25024.4,10724.8
+2020,Uttar Pradesh,Meerut,Rice,35749.2,89373.0,2.5,25024.4,10724.8
+2021,Uttar Pradesh,Meerut,Rice,35749.2,89373.0,2.5,25024.4,10724.8
+2022,Uttar Pradesh,Meerut,Rice,35749.2,89373.0,2.5,25024.4,10724.8
+2023,Uttar Pradesh,Meerut,Rice,35749.2,89373.0,2.5,25024.4,10724.8
+2024,Uttar Pradesh,Meerut,Rice,35749.2,89373.0,2.5,25024.4,10724.8
+2019,Uttar Pradesh,Meerut,Wheat,38499.0,123196.8,3.2,26949.3,11549.7
+2020,Uttar Pradesh,Meerut,Wheat,38499.0,123196.8,3.2,26949.3,11549.7
+2021,Uttar Pradesh,Meerut,Wheat,38499.0,123196.8,3.2,26949.3,11549.7
+2022,Uttar Pradesh,Meerut,Wheat,38499.0,123196.8,3.2,26949.3,11549.7
+2023,Uttar Pradesh,Meerut,Wheat,38499.0,123196.8,3.2,26949.3,11549.7
+2024,Uttar Pradesh,Meerut,Wheat,38499.0,123196.8,3.2,26949.3,11549.7
+2019,Uttar Pradesh,Meerut,Cotton,31820.8,15910.4,0.5,22274.6,9546.2
+2020,Uttar Pradesh,Meerut,Cotton,31820.8,15910.4,0.5,22274.6,9546.2
+2021,Uttar Pradesh,Meerut,Cotton,31820.8,15910.4,0.5,22274.6,9546.2
+2022,Uttar Pradesh,Meerut,Cotton,31820.8,15910.4,0.5,22274.6,9546.2
+2023,Uttar Pradesh,Meerut,Cotton,31820.8,15910.4,0.5,22274.6,9546.2
+2024,Uttar Pradesh,Meerut,Cotton,31820.8,15910.4,0.5,22274.6,9546.2
+2019,Uttar Pradesh,Meerut,Sugarcane,4334.7,303429.0,70.0,3034.3,1300.4
+2020,Uttar Pradesh,Meerut,Sugarcane,4334.7,303429.0,70.0,3034.3,1300.4
+2021,Uttar Pradesh,Meerut,Sugarcane,4334.7,303429.0,70.0,3034.3,1300.4
+2022,Uttar Pradesh,Meerut,Sugarcane,4334.7,303429.0,70.0,3034.3,1300.4
+2023,Uttar Pradesh,Meerut,Sugarcane,4334.7,303429.0,70.0,3034.3,1300.4
+2024,Uttar Pradesh,Meerut,Sugarcane,4334.7,303429.0,70.0,3034.3,1300.4
+2019,Uttar Pradesh,Meerut,Soybean,15029.1,16532.0,1.1,10520.4,4508.7
+2020,Uttar Pradesh,Meerut,Soybean,15029.1,16532.0,1.1,10520.4,4508.7
+2021,Uttar Pradesh,Meerut,Soybean,15029.1,16532.0,1.1,10520.4,4508.7
+2022,Uttar Pradesh,Meerut,Soybean,15029.1,16532.0,1.1,10520.4,4508.7
+2023,Uttar Pradesh,Meerut,Soybean,15029.1,16532.0,1.1,10520.4,4508.7
+2024,Uttar Pradesh,Meerut,Soybean,15029.1,16532.0,1.1,10520.4,4508.7
+2019,Uttar Pradesh,Meerut,Maize,13204.8,36973.4,2.8,9243.4,3961.4
+2020,Uttar Pradesh,Meerut,Maize,13204.8,36973.4,2.8,9243.4,3961.4
+2021,Uttar Pradesh,Meerut,Maize,13204.8,36973.4,2.8,9243.4,3961.4
+2022,Uttar Pradesh,Meerut,Maize,13204.8,36973.4,2.8,9243.4,3961.4
+2023,Uttar Pradesh,Meerut,Maize,13204.8,36973.4,2.8,9243.4,3961.4
+2024,Uttar Pradesh,Meerut,Maize,13204.8,36973.4,2.8,9243.4,3961.4
+2019,Uttar Pradesh,Meerut,Groundnut,10230.6,14322.8,1.4,7161.4,3069.2
+2020,Uttar Pradesh,Meerut,Groundnut,10230.6,14322.8,1.4,7161.4,3069.2
+2021,Uttar Pradesh,Meerut,Groundnut,10230.6,14322.8,1.4,7161.4,3069.2
+2022,Uttar Pradesh,Meerut,Groundnut,10230.6,14322.8,1.4,7161.4,3069.2
+2023,Uttar Pradesh,Meerut,Groundnut,10230.6,14322.8,1.4,7161.4,3069.2
+2024,Uttar Pradesh,Meerut,Groundnut,10230.6,14322.8,1.4,7161.4,3069.2
+2019,Uttar Pradesh,Meerut,Onion,9202.2,165639.6,18.0,6441.5,2760.7
+2020,Uttar Pradesh,Meerut,Onion,9202.2,165639.6,18.0,6441.5,2760.7
+2021,Uttar Pradesh,Meerut,Onion,9202.2,165639.6,18.0,6441.5,2760.7
+2022,Uttar Pradesh,Meerut,Onion,9202.2,165639.6,18.0,6441.5,2760.7
+2023,Uttar Pradesh,Meerut,Onion,9202.2,165639.6,18.0,6441.5,2760.7
+2024,Uttar Pradesh,Meerut,Onion,9202.2,165639.6,18.0,6441.5,2760.7
+2019,Uttar Pradesh,Muzaffarnagar,Rice,14881.2,37203.0,2.5,10416.8,4464.4
+2020,Uttar Pradesh,Muzaffarnagar,Rice,14881.2,37203.0,2.5,10416.8,4464.4
+2021,Uttar Pradesh,Muzaffarnagar,Rice,14881.2,37203.0,2.5,10416.8,4464.4
+2022,Uttar Pradesh,Muzaffarnagar,Rice,14881.2,37203.0,2.5,10416.8,4464.4
+2023,Uttar Pradesh,Muzaffarnagar,Rice,14881.2,37203.0,2.5,10416.8,4464.4
+2024,Uttar Pradesh,Muzaffarnagar,Rice,14881.2,37203.0,2.5,10416.8,4464.4
+2019,Uttar Pradesh,Muzaffarnagar,Wheat,33151.0,106083.2,3.2,23205.7,9945.3
+2020,Uttar Pradesh,Muzaffarnagar,Wheat,33151.0,106083.2,3.2,23205.7,9945.3
+2021,Uttar Pradesh,Muzaffarnagar,Wheat,33151.0,106083.2,3.2,23205.7,9945.3
+2022,Uttar Pradesh,Muzaffarnagar,Wheat,33151.0,106083.2,3.2,23205.7,9945.3
+2023,Uttar Pradesh,Muzaffarnagar,Wheat,33151.0,106083.2,3.2,23205.7,9945.3
+2024,Uttar Pradesh,Muzaffarnagar,Wheat,33151.0,106083.2,3.2,23205.7,9945.3
+2019,Uttar Pradesh,Muzaffarnagar,Cotton,11899.2,5949.6,0.5,8329.4,3569.8
+2020,Uttar Pradesh,Muzaffarnagar,Cotton,11899.2,5949.6,0.5,8329.4,3569.8
+2021,Uttar Pradesh,Muzaffarnagar,Cotton,11899.2,5949.6,0.5,8329.4,3569.8
+2022,Uttar Pradesh,Muzaffarnagar,Cotton,11899.2,5949.6,0.5,8329.4,3569.8
+2023,Uttar Pradesh,Muzaffarnagar,Cotton,11899.2,5949.6,0.5,8329.4,3569.8
+2024,Uttar Pradesh,Muzaffarnagar,Cotton,11899.2,5949.6,0.5,8329.4,3569.8
+2019,Uttar Pradesh,Muzaffarnagar,Sugarcane,5041.2,352884.0,70.0,3528.8,1512.4
+2020,Uttar Pradesh,Muzaffarnagar,Sugarcane,5041.2,352884.0,70.0,3528.8,1512.4
+2021,Uttar Pradesh,Muzaffarnagar,Sugarcane,5041.2,352884.0,70.0,3528.8,1512.4
+2022,Uttar Pradesh,Muzaffarnagar,Sugarcane,5041.2,352884.0,70.0,3528.8,1512.4
+2023,Uttar Pradesh,Muzaffarnagar,Sugarcane,5041.2,352884.0,70.0,3528.8,1512.4
+2024,Uttar Pradesh,Muzaffarnagar,Sugarcane,5041.2,352884.0,70.0,3528.8,1512.4
+2019,Uttar Pradesh,Muzaffarnagar,Soybean,16077.6,17685.4,1.1,11254.3,4823.3
+2020,Uttar Pradesh,Muzaffarnagar,Soybean,16077.6,17685.4,1.1,11254.3,4823.3
+2021,Uttar Pradesh,Muzaffarnagar,Soybean,16077.6,17685.4,1.1,11254.3,4823.3
+2022,Uttar Pradesh,Muzaffarnagar,Soybean,16077.6,17685.4,1.1,11254.3,4823.3
+2023,Uttar Pradesh,Muzaffarnagar,Soybean,16077.6,17685.4,1.1,11254.3,4823.3
+2024,Uttar Pradesh,Muzaffarnagar,Soybean,16077.6,17685.4,1.1,11254.3,4823.3
+2019,Uttar Pradesh,Muzaffarnagar,Maize,8128.4,22759.5,2.8,5689.9,2438.5
+2020,Uttar Pradesh,Muzaffarnagar,Maize,8128.4,22759.5,2.8,5689.9,2438.5
+2021,Uttar Pradesh,Muzaffarnagar,Maize,8128.4,22759.5,2.8,5689.9,2438.5
+2022,Uttar Pradesh,Muzaffarnagar,Maize,8128.4,22759.5,2.8,5689.9,2438.5
+2023,Uttar Pradesh,Muzaffarnagar,Maize,8128.4,22759.5,2.8,5689.9,2438.5
+2024,Uttar Pradesh,Muzaffarnagar,Maize,8128.4,22759.5,2.8,5689.9,2438.5
+2019,Uttar Pradesh,Muzaffarnagar,Groundnut,9369.0,13116.6,1.4,6558.3,2810.7
+2020,Uttar Pradesh,Muzaffarnagar,Groundnut,9369.0,13116.6,1.4,6558.3,2810.7
+2021,Uttar Pradesh,Muzaffarnagar,Groundnut,9369.0,13116.6,1.4,6558.3,2810.7
+2022,Uttar Pradesh,Muzaffarnagar,Groundnut,9369.0,13116.6,1.4,6558.3,2810.7
+2023,Uttar Pradesh,Muzaffarnagar,Groundnut,9369.0,13116.6,1.4,6558.3,2810.7
+2024,Uttar Pradesh,Muzaffarnagar,Groundnut,9369.0,13116.6,1.4,6558.3,2810.7
+2019,Uttar Pradesh,Muzaffarnagar,Onion,3329.6,59932.8,18.0,2330.7,998.9
+2020,Uttar Pradesh,Muzaffarnagar,Onion,3329.6,59932.8,18.0,2330.7,998.9
+2021,Uttar Pradesh,Muzaffarnagar,Onion,3329.6,59932.8,18.0,2330.7,998.9
+2022,Uttar Pradesh,Muzaffarnagar,Onion,3329.6,59932.8,18.0,2330.7,998.9
+2023,Uttar Pradesh,Muzaffarnagar,Onion,3329.6,59932.8,18.0,2330.7,998.9
+2024,Uttar Pradesh,Muzaffarnagar,Onion,3329.6,59932.8,18.0,2330.7,998.9
+2019,Uttar Pradesh,Saharanpur,Rice,28066.8,70167.0,2.5,19646.8,8420.0
+2020,Uttar Pradesh,Saharanpur,Rice,28066.8,70167.0,2.5,19646.8,8420.0
+2021,Uttar Pradesh,Saharanpur,Rice,28066.8,70167.0,2.5,19646.8,8420.0
+2022,Uttar Pradesh,Saharanpur,Rice,28066.8,70167.0,2.5,19646.8,8420.0
+2023,Uttar Pradesh,Saharanpur,Rice,28066.8,70167.0,2.5,19646.8,8420.0
+2024,Uttar Pradesh,Saharanpur,Rice,28066.8,70167.0,2.5,19646.8,8420.0
+2019,Uttar Pradesh,Saharanpur,Wheat,17946.0,57427.2,3.2,12562.2,5383.8
+2020,Uttar Pradesh,Saharanpur,Wheat,17946.0,57427.2,3.2,12562.2,5383.8
+2021,Uttar Pradesh,Saharanpur,Wheat,17946.0,57427.2,3.2,12562.2,5383.8
+2022,Uttar Pradesh,Saharanpur,Wheat,17946.0,57427.2,3.2,12562.2,5383.8
+2023,Uttar Pradesh,Saharanpur,Wheat,17946.0,57427.2,3.2,12562.2,5383.8
+2024,Uttar Pradesh,Saharanpur,Wheat,17946.0,57427.2,3.2,12562.2,5383.8
+2019,Uttar Pradesh,Saharanpur,Cotton,24070.4,12035.2,0.5,16849.3,7221.1
+2020,Uttar Pradesh,Saharanpur,Cotton,24070.4,12035.2,0.5,16849.3,7221.1
+2021,Uttar Pradesh,Saharanpur,Cotton,24070.4,12035.2,0.5,16849.3,7221.1
+2022,Uttar Pradesh,Saharanpur,Cotton,24070.4,12035.2,0.5,16849.3,7221.1
+2023,Uttar Pradesh,Saharanpur,Cotton,24070.4,12035.2,0.5,16849.3,7221.1
+2024,Uttar Pradesh,Saharanpur,Cotton,24070.4,12035.2,0.5,16849.3,7221.1
+2019,Uttar Pradesh,Saharanpur,Sugarcane,14137.5,989625.0,70.0,9896.2,4241.2
+2020,Uttar Pradesh,Saharanpur,Sugarcane,14137.5,989625.0,70.0,9896.2,4241.2
+2021,Uttar Pradesh,Saharanpur,Sugarcane,14137.5,989625.0,70.0,9896.2,4241.2
+2022,Uttar Pradesh,Saharanpur,Sugarcane,14137.5,989625.0,70.0,9896.2,4241.2
+2023,Uttar Pradesh,Saharanpur,Sugarcane,14137.5,989625.0,70.0,9896.2,4241.2
+2024,Uttar Pradesh,Saharanpur,Sugarcane,14137.5,989625.0,70.0,9896.2,4241.2
+2019,Uttar Pradesh,Saharanpur,Soybean,25706.7,28277.4,1.1,17994.7,7712.0
+2020,Uttar Pradesh,Saharanpur,Soybean,25706.7,28277.4,1.1,17994.7,7712.0
+2021,Uttar Pradesh,Saharanpur,Soybean,25706.7,28277.4,1.1,17994.7,7712.0
+2022,Uttar Pradesh,Saharanpur,Soybean,25706.7,28277.4,1.1,17994.7,7712.0
+2023,Uttar Pradesh,Saharanpur,Soybean,25706.7,28277.4,1.1,17994.7,7712.0
+2024,Uttar Pradesh,Saharanpur,Soybean,25706.7,28277.4,1.1,17994.7,7712.0
+2019,Uttar Pradesh,Saharanpur,Maize,35208.6,98584.1,2.8,24646.0,10562.6
+2020,Uttar Pradesh,Saharanpur,Maize,35208.6,98584.1,2.8,24646.0,10562.6
+2021,Uttar Pradesh,Saharanpur,Maize,35208.6,98584.1,2.8,24646.0,10562.6
+2022,Uttar Pradesh,Saharanpur,Maize,35208.6,98584.1,2.8,24646.0,10562.6
+2023,Uttar Pradesh,Saharanpur,Maize,35208.6,98584.1,2.8,24646.0,10562.6
+2024,Uttar Pradesh,Saharanpur,Maize,35208.6,98584.1,2.8,24646.0,10562.6
+2019,Uttar Pradesh,Saharanpur,Groundnut,6624.6,9274.4,1.4,4637.2,1987.4
+2020,Uttar Pradesh,Saharanpur,Groundnut,6624.6,9274.4,1.4,4637.2,1987.4
+2021,Uttar Pradesh,Saharanpur,Groundnut,6624.6,9274.4,1.4,4637.2,1987.4
+2022,Uttar Pradesh,Saharanpur,Groundnut,6624.6,9274.4,1.4,4637.2,1987.4
+2023,Uttar Pradesh,Saharanpur,Groundnut,6624.6,9274.4,1.4,4637.2,1987.4
+2024,Uttar Pradesh,Saharanpur,Groundnut,6624.6,9274.4,1.4,4637.2,1987.4
+2019,Uttar Pradesh,Saharanpur,Onion,6498.0,116964.0,18.0,4548.6,1949.4
+2020,Uttar Pradesh,Saharanpur,Onion,6498.0,116964.0,18.0,4548.6,1949.4
+2021,Uttar Pradesh,Saharanpur,Onion,6498.0,116964.0,18.0,4548.6,1949.4
+2022,Uttar Pradesh,Saharanpur,Onion,6498.0,116964.0,18.0,4548.6,1949.4
+2023,Uttar Pradesh,Saharanpur,Onion,6498.0,116964.0,18.0,4548.6,1949.4
+2024,Uttar Pradesh,Saharanpur,Onion,6498.0,116964.0,18.0,4548.6,1949.4
+2019,Uttar Pradesh,Bareilly,Rice,17378.4,43446.0,2.5,12164.9,5213.5
+2020,Uttar Pradesh,Bareilly,Rice,17378.4,43446.0,2.5,12164.9,5213.5
+2021,Uttar Pradesh,Bareilly,Rice,17378.4,43446.0,2.5,12164.9,5213.5
+2022,Uttar Pradesh,Bareilly,Rice,17378.4,43446.0,2.5,12164.9,5213.5
+2023,Uttar Pradesh,Bareilly,Rice,17378.4,43446.0,2.5,12164.9,5213.5
+2024,Uttar Pradesh,Bareilly,Rice,17378.4,43446.0,2.5,12164.9,5213.5
+2019,Uttar Pradesh,Bareilly,Wheat,38293.0,122537.6,3.2,26805.1,11487.9
+2020,Uttar Pradesh,Bareilly,Wheat,38293.0,122537.6,3.2,26805.1,11487.9
+2021,Uttar Pradesh,Bareilly,Wheat,38293.0,122537.6,3.2,26805.1,11487.9
+2022,Uttar Pradesh,Bareilly,Wheat,38293.0,122537.6,3.2,26805.1,11487.9
+2023,Uttar Pradesh,Bareilly,Wheat,38293.0,122537.6,3.2,26805.1,11487.9
+2024,Uttar Pradesh,Bareilly,Wheat,38293.0,122537.6,3.2,26805.1,11487.9
+2019,Uttar Pradesh,Bareilly,Cotton,37689.6,18844.8,0.5,26382.7,11306.9
+2020,Uttar Pradesh,Bareilly,Cotton,37689.6,18844.8,0.5,26382.7,11306.9
+2021,Uttar Pradesh,Bareilly,Cotton,37689.6,18844.8,0.5,26382.7,11306.9
+2022,Uttar Pradesh,Bareilly,Cotton,37689.6,18844.8,0.5,26382.7,11306.9
+2023,Uttar Pradesh,Bareilly,Cotton,37689.6,18844.8,0.5,26382.7,11306.9
+2024,Uttar Pradesh,Bareilly,Cotton,37689.6,18844.8,0.5,26382.7,11306.9
+2019,Uttar Pradesh,Bareilly,Sugarcane,17842.5,1248975.0,70.0,12489.8,5352.8
+2020,Uttar Pradesh,Bareilly,Sugarcane,17842.5,1248975.0,70.0,12489.8,5352.8
+2021,Uttar Pradesh,Bareilly,Sugarcane,17842.5,1248975.0,70.0,12489.8,5352.8
+2022,Uttar Pradesh,Bareilly,Sugarcane,17842.5,1248975.0,70.0,12489.8,5352.8
+2023,Uttar Pradesh,Bareilly,Sugarcane,17842.5,1248975.0,70.0,12489.8,5352.8
+2024,Uttar Pradesh,Bareilly,Sugarcane,17842.5,1248975.0,70.0,12489.8,5352.8
+2019,Uttar Pradesh,Bareilly,Soybean,13616.1,14977.7,1.1,9531.3,4084.8
+2020,Uttar Pradesh,Bareilly,Soybean,13616.1,14977.7,1.1,9531.3,4084.8
+2021,Uttar Pradesh,Bareilly,Soybean,13616.1,14977.7,1.1,9531.3,4084.8
+2022,Uttar Pradesh,Bareilly,Soybean,13616.1,14977.7,1.1,9531.3,4084.8
+2023,Uttar Pradesh,Bareilly,Soybean,13616.1,14977.7,1.1,9531.3,4084.8
+2024,Uttar Pradesh,Bareilly,Soybean,13616.1,14977.7,1.1,9531.3,4084.8
+2019,Uttar Pradesh,Bareilly,Maize,8629.6,24162.9,2.8,6040.7,2588.9
+2020,Uttar Pradesh,Bareilly,Maize,8629.6,24162.9,2.8,6040.7,2588.9
+2021,Uttar Pradesh,Bareilly,Maize,8629.6,24162.9,2.8,6040.7,2588.9
+2022,Uttar Pradesh,Bareilly,Maize,8629.6,24162.9,2.8,6040.7,2588.9
+2023,Uttar Pradesh,Bareilly,Maize,8629.6,24162.9,2.8,6040.7,2588.9
+2024,Uttar Pradesh,Bareilly,Maize,8629.6,24162.9,2.8,6040.7,2588.9
+2019,Uttar Pradesh,Bareilly,Groundnut,17893.8,25051.3,1.4,12525.7,5368.1
+2020,Uttar Pradesh,Bareilly,Groundnut,17893.8,25051.3,1.4,12525.7,5368.1
+2021,Uttar Pradesh,Bareilly,Groundnut,17893.8,25051.3,1.4,12525.7,5368.1
+2022,Uttar Pradesh,Bareilly,Groundnut,17893.8,25051.3,1.4,12525.7,5368.1
+2023,Uttar Pradesh,Bareilly,Groundnut,17893.8,25051.3,1.4,12525.7,5368.1
+2024,Uttar Pradesh,Bareilly,Groundnut,17893.8,25051.3,1.4,12525.7,5368.1
+2019,Uttar Pradesh,Bareilly,Onion,5195.6,93520.8,18.0,3636.9,1558.7
+2020,Uttar Pradesh,Bareilly,Onion,5195.6,93520.8,18.0,3636.9,1558.7
+2021,Uttar Pradesh,Bareilly,Onion,5195.6,93520.8,18.0,3636.9,1558.7
+2022,Uttar Pradesh,Bareilly,Onion,5195.6,93520.8,18.0,3636.9,1558.7
+2023,Uttar Pradesh,Bareilly,Onion,5195.6,93520.8,18.0,3636.9,1558.7
+2024,Uttar Pradesh,Bareilly,Onion,5195.6,93520.8,18.0,3636.9,1558.7
+2019,Uttar Pradesh,Agra,Rice,60721.2,151803.0,2.5,42504.8,18216.4
+2020,Uttar Pradesh,Agra,Rice,60721.2,151803.0,2.5,42504.8,18216.4
+2021,Uttar Pradesh,Agra,Rice,60721.2,151803.0,2.5,42504.8,18216.4
+2022,Uttar Pradesh,Agra,Rice,60721.2,151803.0,2.5,42504.8,18216.4
+2023,Uttar Pradesh,Agra,Rice,60721.2,151803.0,2.5,42504.8,18216.4
+2024,Uttar Pradesh,Agra,Rice,60721.2,151803.0,2.5,42504.8,18216.4
+2019,Uttar Pradesh,Agra,Wheat,30525.0,97680.0,3.2,21367.5,9157.5
+2020,Uttar Pradesh,Agra,Wheat,30525.0,97680.0,3.2,21367.5,9157.5
+2021,Uttar Pradesh,Agra,Wheat,30525.0,97680.0,3.2,21367.5,9157.5
+2022,Uttar Pradesh,Agra,Wheat,30525.0,97680.0,3.2,21367.5,9157.5
+2023,Uttar Pradesh,Agra,Wheat,30525.0,97680.0,3.2,21367.5,9157.5
+2024,Uttar Pradesh,Agra,Wheat,30525.0,97680.0,3.2,21367.5,9157.5
+2019,Uttar Pradesh,Agra,Cotton,24390.4,12195.2,0.5,17073.3,7317.1
+2020,Uttar Pradesh,Agra,Cotton,24390.4,12195.2,0.5,17073.3,7317.1
+2021,Uttar Pradesh,Agra,Cotton,24390.4,12195.2,0.5,17073.3,7317.1
+2022,Uttar Pradesh,Agra,Cotton,24390.4,12195.2,0.5,17073.3,7317.1
+2023,Uttar Pradesh,Agra,Cotton,24390.4,12195.2,0.5,17073.3,7317.1
+2024,Uttar Pradesh,Agra,Cotton,24390.4,12195.2,0.5,17073.3,7317.1
+2019,Uttar Pradesh,Agra,Sugarcane,3364.8,235536.0,70.0,2355.4,1009.4
+2020,Uttar Pradesh,Agra,Sugarcane,3364.8,235536.0,70.0,2355.4,1009.4
+2021,Uttar Pradesh,Agra,Sugarcane,3364.8,235536.0,70.0,2355.4,1009.4
+2022,Uttar Pradesh,Agra,Sugarcane,3364.8,235536.0,70.0,2355.4,1009.4
+2023,Uttar Pradesh,Agra,Sugarcane,3364.8,235536.0,70.0,2355.4,1009.4
+2024,Uttar Pradesh,Agra,Sugarcane,3364.8,235536.0,70.0,2355.4,1009.4
+2019,Uttar Pradesh,Agra,Soybean,24111.0,26522.1,1.1,16877.7,7233.3
+2020,Uttar Pradesh,Agra,Soybean,24111.0,26522.1,1.1,16877.7,7233.3
+2021,Uttar Pradesh,Agra,Soybean,24111.0,26522.1,1.1,16877.7,7233.3
+2022,Uttar Pradesh,Agra,Soybean,24111.0,26522.1,1.1,16877.7,7233.3
+2023,Uttar Pradesh,Agra,Soybean,24111.0,26522.1,1.1,16877.7,7233.3
+2024,Uttar Pradesh,Agra,Soybean,24111.0,26522.1,1.1,16877.7,7233.3
+2019,Uttar Pradesh,Agra,Maize,31434.9,88017.7,2.8,22004.4,9430.5
+2020,Uttar Pradesh,Agra,Maize,31434.9,88017.7,2.8,22004.4,9430.5
+2021,Uttar Pradesh,Agra,Maize,31434.9,88017.7,2.8,22004.4,9430.5
+2022,Uttar Pradesh,Agra,Maize,31434.9,88017.7,2.8,22004.4,9430.5
+2023,Uttar Pradesh,Agra,Maize,31434.9,88017.7,2.8,22004.4,9430.5
+2024,Uttar Pradesh,Agra,Maize,31434.9,88017.7,2.8,22004.4,9430.5
+2019,Uttar Pradesh,Agra,Groundnut,6571.2,9199.7,1.4,4599.8,1971.4
+2020,Uttar Pradesh,Agra,Groundnut,6571.2,9199.7,1.4,4599.8,1971.4
+2021,Uttar Pradesh,Agra,Groundnut,6571.2,9199.7,1.4,4599.8,1971.4
+2022,Uttar Pradesh,Agra,Groundnut,6571.2,9199.7,1.4,4599.8,1971.4
+2023,Uttar Pradesh,Agra,Groundnut,6571.2,9199.7,1.4,4599.8,1971.4
+2024,Uttar Pradesh,Agra,Groundnut,6571.2,9199.7,1.4,4599.8,1971.4
+2019,Uttar Pradesh,Agra,Onion,7194.2,129495.6,18.0,5035.9,2158.3
+2020,Uttar Pradesh,Agra,Onion,7194.2,129495.6,18.0,5035.9,2158.3
+2021,Uttar Pradesh,Agra,Onion,7194.2,129495.6,18.0,5035.9,2158.3
+2022,Uttar Pradesh,Agra,Onion,7194.2,129495.6,18.0,5035.9,2158.3
+2023,Uttar Pradesh,Agra,Onion,7194.2,129495.6,18.0,5035.9,2158.3
+2024,Uttar Pradesh,Agra,Onion,7194.2,129495.6,18.0,5035.9,2158.3
+2019,Maharashtra,Nashik,Rice,57654.0,144135.0,2.5,40357.8,17296.2
+2020,Maharashtra,Nashik,Rice,57654.0,144135.0,2.5,40357.8,17296.2
+2021,Maharashtra,Nashik,Rice,57654.0,144135.0,2.5,40357.8,17296.2
+2022,Maharashtra,Nashik,Rice,57654.0,144135.0,2.5,40357.8,17296.2
+2023,Maharashtra,Nashik,Rice,57654.0,144135.0,2.5,40357.8,17296.2
+2024,Maharashtra,Nashik,Rice,57654.0,144135.0,2.5,40357.8,17296.2
+2019,Maharashtra,Nashik,Wheat,43245.0,138384.0,3.2,30271.5,12973.5
+2020,Maharashtra,Nashik,Wheat,43245.0,138384.0,3.2,30271.5,12973.5
+2021,Maharashtra,Nashik,Wheat,43245.0,138384.0,3.2,30271.5,12973.5
+2022,Maharashtra,Nashik,Wheat,43245.0,138384.0,3.2,30271.5,12973.5
+2023,Maharashtra,Nashik,Wheat,43245.0,138384.0,3.2,30271.5,12973.5
+2024,Maharashtra,Nashik,Wheat,43245.0,138384.0,3.2,30271.5,12973.5
+2019,Maharashtra,Nashik,Cotton,22857.6,11428.8,0.5,16000.3,6857.3
+2020,Maharashtra,Nashik,Cotton,22857.6,11428.8,0.5,16000.3,6857.3
+2021,Maharashtra,Nashik,Cotton,22857.6,11428.8,0.5,16000.3,6857.3
+2022,Maharashtra,Nashik,Cotton,22857.6,11428.8,0.5,16000.3,6857.3
+2023,Maharashtra,Nashik,Cotton,22857.6,11428.8,0.5,16000.3,6857.3
+2024,Maharashtra,Nashik,Cotton,22857.6,11428.8,0.5,16000.3,6857.3
+2019,Maharashtra,Nashik,Sugarcane,11834.7,828429.0,70.0,8284.3,3550.4
+2020,Maharashtra,Nashik,Sugarcane,11834.7,828429.0,70.0,8284.3,3550.4
+2021,Maharashtra,Nashik,Sugarcane,11834.7,828429.0,70.0,8284.3,3550.4
+2022,Maharashtra,Nashik,Sugarcane,11834.7,828429.0,70.0,8284.3,3550.4
+2023,Maharashtra,Nashik,Sugarcane,11834.7,828429.0,70.0,8284.3,3550.4
+2024,Maharashtra,Nashik,Sugarcane,11834.7,828429.0,70.0,8284.3,3550.4
+2019,Maharashtra,Nashik,Soybean,14111.1,15522.2,1.1,9877.8,4233.3
+2020,Maharashtra,Nashik,Soybean,14111.1,15522.2,1.1,9877.8,4233.3
+2021,Maharashtra,Nashik,Soybean,14111.1,15522.2,1.1,9877.8,4233.3
+2022,Maharashtra,Nashik,Soybean,14111.1,15522.2,1.1,9877.8,4233.3
+2023,Maharashtra,Nashik,Soybean,14111.1,15522.2,1.1,9877.8,4233.3
+2024,Maharashtra,Nashik,Soybean,14111.1,15522.2,1.1,9877.8,4233.3
+2019,Maharashtra,Nashik,Maize,30641.8,85797.0,2.8,21449.3,9192.5
+2020,Maharashtra,Nashik,Maize,30641.8,85797.0,2.8,21449.3,9192.5
+2021,Maharashtra,Nashik,Maize,30641.8,85797.0,2.8,21449.3,9192.5
+2022,Maharashtra,Nashik,Maize,30641.8,85797.0,2.8,21449.3,9192.5
+2023,Maharashtra,Nashik,Maize,30641.8,85797.0,2.8,21449.3,9192.5
+2024,Maharashtra,Nashik,Maize,30641.8,85797.0,2.8,21449.3,9192.5
+2019,Maharashtra,Nashik,Groundnut,26834.4,37568.2,1.4,18784.1,8050.3
+2020,Maharashtra,Nashik,Groundnut,26834.4,37568.2,1.4,18784.1,8050.3
+2021,Maharashtra,Nashik,Groundnut,26834.4,37568.2,1.4,18784.1,8050.3
+2022,Maharashtra,Nashik,Groundnut,26834.4,37568.2,1.4,18784.1,8050.3
+2023,Maharashtra,Nashik,Groundnut,26834.4,37568.2,1.4,18784.1,8050.3
+2024,Maharashtra,Nashik,Groundnut,26834.4,37568.2,1.4,18784.1,8050.3
+2019,Maharashtra,Nashik,Onion,3881.2,69861.6,18.0,2716.8,1164.4
+2020,Maharashtra,Nashik,Onion,3881.2,69861.6,18.0,2716.8,1164.4
+2021,Maharashtra,Nashik,Onion,3881.2,69861.6,18.0,2716.8,1164.4
+2022,Maharashtra,Nashik,Onion,3881.2,69861.6,18.0,2716.8,1164.4
+2023,Maharashtra,Nashik,Onion,3881.2,69861.6,18.0,2716.8,1164.4
+2024,Maharashtra,Nashik,Onion,3881.2,69861.6,18.0,2716.8,1164.4
+2019,Maharashtra,Pune,Rice,71252.4,178131.0,2.5,49876.7,21375.7
+2020,Maharashtra,Pune,Rice,71252.4,178131.0,2.5,49876.7,21375.7
+2021,Maharashtra,Pune,Rice,71252.4,178131.0,2.5,49876.7,21375.7
+2022,Maharashtra,Pune,Rice,71252.4,178131.0,2.5,49876.7,21375.7
+2023,Maharashtra,Pune,Rice,71252.4,178131.0,2.5,49876.7,21375.7
+2024,Maharashtra,Pune,Rice,71252.4,178131.0,2.5,49876.7,21375.7
+2019,Maharashtra,Pune,Wheat,49496.0,158387.2,3.2,34647.2,14848.8
+2020,Maharashtra,Pune,Wheat,49496.0,158387.2,3.2,34647.2,14848.8
+2021,Maharashtra,Pune,Wheat,49496.0,158387.2,3.2,34647.2,14848.8
+2022,Maharashtra,Pune,Wheat,49496.0,158387.2,3.2,34647.2,14848.8
+2023,Maharashtra,Pune,Wheat,49496.0,158387.2,3.2,34647.2,14848.8
+2024,Maharashtra,Pune,Wheat,49496.0,158387.2,3.2,34647.2,14848.8
+2019,Maharashtra,Pune,Cotton,13846.4,6923.2,0.5,9692.5,4153.9
+2020,Maharashtra,Pune,Cotton,13846.4,6923.2,0.5,9692.5,4153.9
+2021,Maharashtra,Pune,Cotton,13846.4,6923.2,0.5,9692.5,4153.9
+2022,Maharashtra,Pune,Cotton,13846.4,6923.2,0.5,9692.5,4153.9
+2023,Maharashtra,Pune,Cotton,13846.4,6923.2,0.5,9692.5,4153.9
+2024,Maharashtra,Pune,Cotton,13846.4,6923.2,0.5,9692.5,4153.9
+2019,Maharashtra,Pune,Sugarcane,13236.9,926583.0,70.0,9265.8,3971.1
+2020,Maharashtra,Pune,Sugarcane,13236.9,926583.0,70.0,9265.8,3971.1
+2021,Maharashtra,Pune,Sugarcane,13236.9,926583.0,70.0,9265.8,3971.1
+2022,Maharashtra,Pune,Sugarcane,13236.9,926583.0,70.0,9265.8,3971.1
+2023,Maharashtra,Pune,Sugarcane,13236.9,926583.0,70.0,9265.8,3971.1
+2024,Maharashtra,Pune,Sugarcane,13236.9,926583.0,70.0,9265.8,3971.1
+2019,Maharashtra,Pune,Soybean,28195.2,31014.7,1.1,19736.6,8458.6
+2020,Maharashtra,Pune,Soybean,28195.2,31014.7,1.1,19736.6,8458.6
+2021,Maharashtra,Pune,Soybean,28195.2,31014.7,1.1,19736.6,8458.6
+2022,Maharashtra,Pune,Soybean,28195.2,31014.7,1.1,19736.6,8458.6
+2023,Maharashtra,Pune,Soybean,28195.2,31014.7,1.1,19736.6,8458.6
+2024,Maharashtra,Pune,Soybean,28195.2,31014.7,1.1,19736.6,8458.6
+2019,Maharashtra,Pune,Maize,31041.5,86916.2,2.8,21729.0,9312.4
+2020,Maharashtra,Pune,Maize,31041.5,86916.2,2.8,21729.0,9312.4
+2021,Maharashtra,Pune,Maize,31041.5,86916.2,2.8,21729.0,9312.4
+2022,Maharashtra,Pune,Maize,31041.5,86916.2,2.8,21729.0,9312.4
+2023,Maharashtra,Pune,Maize,31041.5,86916.2,2.8,21729.0,9312.4
+2024,Maharashtra,Pune,Maize,31041.5,86916.2,2.8,21729.0,9312.4
+2019,Maharashtra,Pune,Groundnut,22962.0,32146.8,1.4,16073.4,6888.6
+2020,Maharashtra,Pune,Groundnut,22962.0,32146.8,1.4,16073.4,6888.6
+2021,Maharashtra,Pune,Groundnut,22962.0,32146.8,1.4,16073.4,6888.6
+2022,Maharashtra,Pune,Groundnut,22962.0,32146.8,1.4,16073.4,6888.6
+2023,Maharashtra,Pune,Groundnut,22962.0,32146.8,1.4,16073.4,6888.6
+2024,Maharashtra,Pune,Groundnut,22962.0,32146.8,1.4,16073.4,6888.6
+2019,Maharashtra,Pune,Onion,4582.4,82483.2,18.0,3207.7,1374.7
+2020,Maharashtra,Pune,Onion,4582.4,82483.2,18.0,3207.7,1374.7
+2021,Maharashtra,Pune,Onion,4582.4,82483.2,18.0,3207.7,1374.7
+2022,Maharashtra,Pune,Onion,4582.4,82483.2,18.0,3207.7,1374.7
+2023,Maharashtra,Pune,Onion,4582.4,82483.2,18.0,3207.7,1374.7
+2024,Maharashtra,Pune,Onion,4582.4,82483.2,18.0,3207.7,1374.7
+2019,Maharashtra,Ahmednagar,Rice,68715.6,171789.0,2.5,48100.9,20614.7
+2020,Maharashtra,Ahmednagar,Rice,68715.6,171789.0,2.5,48100.9,20614.7
+2021,Maharashtra,Ahmednagar,Rice,68715.6,171789.0,2.5,48100.9,20614.7
+2022,Maharashtra,Ahmednagar,Rice,68715.6,171789.0,2.5,48100.9,20614.7
+2023,Maharashtra,Ahmednagar,Rice,68715.6,171789.0,2.5,48100.9,20614.7
+2024,Maharashtra,Ahmednagar,Rice,68715.6,171789.0,2.5,48100.9,20614.7
+2019,Maharashtra,Ahmednagar,Wheat,12611.0,40355.2,3.2,8827.7,3783.3
+2020,Maharashtra,Ahmednagar,Wheat,12611.0,40355.2,3.2,8827.7,3783.3
+2021,Maharashtra,Ahmednagar,Wheat,12611.0,40355.2,3.2,8827.7,3783.3
+2022,Maharashtra,Ahmednagar,Wheat,12611.0,40355.2,3.2,8827.7,3783.3
+2023,Maharashtra,Ahmednagar,Wheat,12611.0,40355.2,3.2,8827.7,3783.3
+2024,Maharashtra,Ahmednagar,Wheat,12611.0,40355.2,3.2,8827.7,3783.3
+2019,Maharashtra,Ahmednagar,Cotton,31695.2,15847.6,0.5,22186.6,9508.6
+2020,Maharashtra,Ahmednagar,Cotton,31695.2,15847.6,0.5,22186.6,9508.6
+2021,Maharashtra,Ahmednagar,Cotton,31695.2,15847.6,0.5,22186.6,9508.6
+2022,Maharashtra,Ahmednagar,Cotton,31695.2,15847.6,0.5,22186.6,9508.6
+2023,Maharashtra,Ahmednagar,Cotton,31695.2,15847.6,0.5,22186.6,9508.6
+2024,Maharashtra,Ahmednagar,Cotton,31695.2,15847.6,0.5,22186.6,9508.6
+2019,Maharashtra,Ahmednagar,Sugarcane,4023.6,281652.0,70.0,2816.5,1207.1
+2020,Maharashtra,Ahmednagar,Sugarcane,4023.6,281652.0,70.0,2816.5,1207.1
+2021,Maharashtra,Ahmednagar,Sugarcane,4023.6,281652.0,70.0,2816.5,1207.1
+2022,Maharashtra,Ahmednagar,Sugarcane,4023.6,281652.0,70.0,2816.5,1207.1
+2023,Maharashtra,Ahmednagar,Sugarcane,4023.6,281652.0,70.0,2816.5,1207.1
+2024,Maharashtra,Ahmednagar,Sugarcane,4023.6,281652.0,70.0,2816.5,1207.1
+2019,Maharashtra,Ahmednagar,Soybean,39687.3,43656.0,1.1,27781.1,11906.2
+2020,Maharashtra,Ahmednagar,Soybean,39687.3,43656.0,1.1,27781.1,11906.2
+2021,Maharashtra,Ahmednagar,Soybean,39687.3,43656.0,1.1,27781.1,11906.2
+2022,Maharashtra,Ahmednagar,Soybean,39687.3,43656.0,1.1,27781.1,11906.2
+2023,Maharashtra,Ahmednagar,Soybean,39687.3,43656.0,1.1,27781.1,11906.2
+2024,Maharashtra,Ahmednagar,Soybean,39687.3,43656.0,1.1,27781.1,11906.2
+2019,Maharashtra,Ahmednagar,Maize,30691.5,85936.2,2.8,21484.0,9207.4
+2020,Maharashtra,Ahmednagar,Maize,30691.5,85936.2,2.8,21484.0,9207.4
+2021,Maharashtra,Ahmednagar,Maize,30691.5,85936.2,2.8,21484.0,9207.4
+2022,Maharashtra,Ahmednagar,Maize,30691.5,85936.2,2.8,21484.0,9207.4
+2023,Maharashtra,Ahmednagar,Maize,30691.5,85936.2,2.8,21484.0,9207.4
+2024,Maharashtra,Ahmednagar,Maize,30691.5,85936.2,2.8,21484.0,9207.4
+2019,Maharashtra,Ahmednagar,Groundnut,27733.8,38827.3,1.4,19413.7,8320.1
+2020,Maharashtra,Ahmednagar,Groundnut,27733.8,38827.3,1.4,19413.7,8320.1
+2021,Maharashtra,Ahmednagar,Groundnut,27733.8,38827.3,1.4,19413.7,8320.1
+2022,Maharashtra,Ahmednagar,Groundnut,27733.8,38827.3,1.4,19413.7,8320.1
+2023,Maharashtra,Ahmednagar,Groundnut,27733.8,38827.3,1.4,19413.7,8320.1
+2024,Maharashtra,Ahmednagar,Groundnut,27733.8,38827.3,1.4,19413.7,8320.1
+2019,Maharashtra,Ahmednagar,Onion,5764.8,103766.4,18.0,4035.4,1729.4
+2020,Maharashtra,Ahmednagar,Onion,5764.8,103766.4,18.0,4035.4,1729.4
+2021,Maharashtra,Ahmednagar,Onion,5764.8,103766.4,18.0,4035.4,1729.4
+2022,Maharashtra,Ahmednagar,Onion,5764.8,103766.4,18.0,4035.4,1729.4
+2023,Maharashtra,Ahmednagar,Onion,5764.8,103766.4,18.0,4035.4,1729.4
+2024,Maharashtra,Ahmednagar,Onion,5764.8,103766.4,18.0,4035.4,1729.4
+2019,Maharashtra,Solapur,Rice,55432.8,138582.0,2.5,38803.0,16629.8
+2020,Maharashtra,Solapur,Rice,55432.8,138582.0,2.5,38803.0,16629.8
+2021,Maharashtra,Solapur,Rice,55432.8,138582.0,2.5,38803.0,16629.8
+2022,Maharashtra,Solapur,Rice,55432.8,138582.0,2.5,38803.0,16629.8
+2023,Maharashtra,Solapur,Rice,55432.8,138582.0,2.5,38803.0,16629.8
+2024,Maharashtra,Solapur,Rice,55432.8,138582.0,2.5,38803.0,16629.8
+2019,Maharashtra,Solapur,Wheat,28170.0,90144.0,3.2,19719.0,8451.0
+2020,Maharashtra,Solapur,Wheat,28170.0,90144.0,3.2,19719.0,8451.0
+2021,Maharashtra,Solapur,Wheat,28170.0,90144.0,3.2,19719.0,8451.0
+2022,Maharashtra,Solapur,Wheat,28170.0,90144.0,3.2,19719.0,8451.0
+2023,Maharashtra,Solapur,Wheat,28170.0,90144.0,3.2,19719.0,8451.0
+2024,Maharashtra,Solapur,Wheat,28170.0,90144.0,3.2,19719.0,8451.0
+2019,Maharashtra,Solapur,Cotton,31605.6,15802.8,0.5,22123.9,9481.7
+2020,Maharashtra,Solapur,Cotton,31605.6,15802.8,0.5,22123.9,9481.7
+2021,Maharashtra,Solapur,Cotton,31605.6,15802.8,0.5,22123.9,9481.7
+2022,Maharashtra,Solapur,Cotton,31605.6,15802.8,0.5,22123.9,9481.7
+2023,Maharashtra,Solapur,Cotton,31605.6,15802.8,0.5,22123.9,9481.7
+2024,Maharashtra,Solapur,Cotton,31605.6,15802.8,0.5,22123.9,9481.7
+2019,Maharashtra,Solapur,Sugarcane,16580.1,1160607.0,70.0,11606.1,4974.0
+2020,Maharashtra,Solapur,Sugarcane,16580.1,1160607.0,70.0,11606.1,4974.0
+2021,Maharashtra,Solapur,Sugarcane,16580.1,1160607.0,70.0,11606.1,4974.0
+2022,Maharashtra,Solapur,Sugarcane,16580.1,1160607.0,70.0,11606.1,4974.0
+2023,Maharashtra,Solapur,Sugarcane,16580.1,1160607.0,70.0,11606.1,4974.0
+2024,Maharashtra,Solapur,Sugarcane,16580.1,1160607.0,70.0,11606.1,4974.0
+2019,Maharashtra,Solapur,Soybean,16579.8,18237.8,1.1,11605.9,4973.9
+2020,Maharashtra,Solapur,Soybean,16579.8,18237.8,1.1,11605.9,4973.9
+2021,Maharashtra,Solapur,Soybean,16579.8,18237.8,1.1,11605.9,4973.9
+2022,Maharashtra,Solapur,Soybean,16579.8,18237.8,1.1,11605.9,4973.9
+2023,Maharashtra,Solapur,Soybean,16579.8,18237.8,1.1,11605.9,4973.9
+2024,Maharashtra,Solapur,Soybean,16579.8,18237.8,1.1,11605.9,4973.9
+2019,Maharashtra,Solapur,Maize,13160.0,36848.0,2.8,9212.0,3948.0
+2020,Maharashtra,Solapur,Maize,13160.0,36848.0,2.8,9212.0,3948.0
+2021,Maharashtra,Solapur,Maize,13160.0,36848.0,2.8,9212.0,3948.0
+2022,Maharashtra,Solapur,Maize,13160.0,36848.0,2.8,9212.0,3948.0
+2023,Maharashtra,Solapur,Maize,13160.0,36848.0,2.8,9212.0,3948.0
+2024,Maharashtra,Solapur,Maize,13160.0,36848.0,2.8,9212.0,3948.0
+2019,Maharashtra,Solapur,Groundnut,33649.2,47108.9,1.4,23554.4,10094.8
+2020,Maharashtra,Solapur,Groundnut,33649.2,47108.9,1.4,23554.4,10094.8
+2021,Maharashtra,Solapur,Groundnut,33649.2,47108.9,1.4,23554.4,10094.8
+2022,Maharashtra,Solapur,Groundnut,33649.2,47108.9,1.4,23554.4,10094.8
+2023,Maharashtra,Solapur,Groundnut,33649.2,47108.9,1.4,23554.4,10094.8
+2024,Maharashtra,Solapur,Groundnut,33649.2,47108.9,1.4,23554.4,10094.8
+2019,Maharashtra,Solapur,Onion,7229.6,130132.8,18.0,5060.7,2168.9
+2020,Maharashtra,Solapur,Onion,7229.6,130132.8,18.0,5060.7,2168.9
+2021,Maharashtra,Solapur,Onion,7229.6,130132.8,18.0,5060.7,2168.9
+2022,Maharashtra,Solapur,Onion,7229.6,130132.8,18.0,5060.7,2168.9
+2023,Maharashtra,Solapur,Onion,7229.6,130132.8,18.0,5060.7,2168.9
+2024,Maharashtra,Solapur,Onion,7229.6,130132.8,18.0,5060.7,2168.9
+2019,Maharashtra,Aurangabad,Rice,55596.0,138990.0,2.5,38917.2,16678.8
+2020,Maharashtra,Aurangabad,Rice,55596.0,138990.0,2.5,38917.2,16678.8
+2021,Maharashtra,Aurangabad,Rice,55596.0,138990.0,2.5,38917.2,16678.8
+2022,Maharashtra,Aurangabad,Rice,55596.0,138990.0,2.5,38917.2,16678.8
+2023,Maharashtra,Aurangabad,Rice,55596.0,138990.0,2.5,38917.2,16678.8
+2024,Maharashtra,Aurangabad,Rice,55596.0,138990.0,2.5,38917.2,16678.8
+2019,Maharashtra,Aurangabad,Wheat,37364.0,119564.8,3.2,26154.8,11209.2
+2020,Maharashtra,Aurangabad,Wheat,37364.0,119564.8,3.2,26154.8,11209.2
+2021,Maharashtra,Aurangabad,Wheat,37364.0,119564.8,3.2,26154.8,11209.2
+2022,Maharashtra,Aurangabad,Wheat,37364.0,119564.8,3.2,26154.8,11209.2
+2023,Maharashtra,Aurangabad,Wheat,37364.0,119564.8,3.2,26154.8,11209.2
+2024,Maharashtra,Aurangabad,Wheat,37364.0,119564.8,3.2,26154.8,11209.2
+2019,Maharashtra,Aurangabad,Cotton,32417.6,16208.8,0.5,22692.3,9725.3
+2020,Maharashtra,Aurangabad,Cotton,32417.6,16208.8,0.5,22692.3,9725.3
+2021,Maharashtra,Aurangabad,Cotton,32417.6,16208.8,0.5,22692.3,9725.3
+2022,Maharashtra,Aurangabad,Cotton,32417.6,16208.8,0.5,22692.3,9725.3
+2023,Maharashtra,Aurangabad,Cotton,32417.6,16208.8,0.5,22692.3,9725.3
+2024,Maharashtra,Aurangabad,Cotton,32417.6,16208.8,0.5,22692.3,9725.3
+2019,Maharashtra,Aurangabad,Sugarcane,17638.8,1234716.0,70.0,12347.2,5291.6
+2020,Maharashtra,Aurangabad,Sugarcane,17638.8,1234716.0,70.0,12347.2,5291.6
+2021,Maharashtra,Aurangabad,Sugarcane,17638.8,1234716.0,70.0,12347.2,5291.6
+2022,Maharashtra,Aurangabad,Sugarcane,17638.8,1234716.0,70.0,12347.2,5291.6
+2023,Maharashtra,Aurangabad,Sugarcane,17638.8,1234716.0,70.0,12347.2,5291.6
+2024,Maharashtra,Aurangabad,Sugarcane,17638.8,1234716.0,70.0,12347.2,5291.6
+2019,Maharashtra,Aurangabad,Soybean,14531.4,15984.5,1.1,10172.0,4359.4
+2020,Maharashtra,Aurangabad,Soybean,14531.4,15984.5,1.1,10172.0,4359.4
+2021,Maharashtra,Aurangabad,Soybean,14531.4,15984.5,1.1,10172.0,4359.4
+2022,Maharashtra,Aurangabad,Soybean,14531.4,15984.5,1.1,10172.0,4359.4
+2023,Maharashtra,Aurangabad,Soybean,14531.4,15984.5,1.1,10172.0,4359.4
+2024,Maharashtra,Aurangabad,Soybean,14531.4,15984.5,1.1,10172.0,4359.4
+2019,Maharashtra,Aurangabad,Maize,7809.9,21867.7,2.8,5466.9,2343.0
+2020,Maharashtra,Aurangabad,Maize,7809.9,21867.7,2.8,5466.9,2343.0
+2021,Maharashtra,Aurangabad,Maize,7809.9,21867.7,2.8,5466.9,2343.0
+2022,Maharashtra,Aurangabad,Maize,7809.9,21867.7,2.8,5466.9,2343.0
+2023,Maharashtra,Aurangabad,Maize,7809.9,21867.7,2.8,5466.9,2343.0
+2024,Maharashtra,Aurangabad,Maize,7809.9,21867.7,2.8,5466.9,2343.0
+2019,Maharashtra,Aurangabad,Groundnut,24157.2,33820.1,1.4,16910.0,7247.2
+2020,Maharashtra,Aurangabad,Groundnut,24157.2,33820.1,1.4,16910.0,7247.2
+2021,Maharashtra,Aurangabad,Groundnut,24157.2,33820.1,1.4,16910.0,7247.2
+2022,Maharashtra,Aurangabad,Groundnut,24157.2,33820.1,1.4,16910.0,7247.2
+2023,Maharashtra,Aurangabad,Groundnut,24157.2,33820.1,1.4,16910.0,7247.2
+2024,Maharashtra,Aurangabad,Groundnut,24157.2,33820.1,1.4,16910.0,7247.2
+2019,Maharashtra,Aurangabad,Onion,8205.8,147704.4,18.0,5744.1,2461.7
+2020,Maharashtra,Aurangabad,Onion,8205.8,147704.4,18.0,5744.1,2461.7
+2021,Maharashtra,Aurangabad,Onion,8205.8,147704.4,18.0,5744.1,2461.7
+2022,Maharashtra,Aurangabad,Onion,8205.8,147704.4,18.0,5744.1,2461.7
+2023,Maharashtra,Aurangabad,Onion,8205.8,147704.4,18.0,5744.1,2461.7
+2024,Maharashtra,Aurangabad,Onion,8205.8,147704.4,18.0,5744.1,2461.7
+2019,Gujarat,Ahmedabad,Rice,68143.2,170358.0,2.5,47700.2,20443.0
+2020,Gujarat,Ahmedabad,Rice,68143.2,170358.0,2.5,47700.2,20443.0
+2021,Gujarat,Ahmedabad,Rice,68143.2,170358.0,2.5,47700.2,20443.0
+2022,Gujarat,Ahmedabad,Rice,68143.2,170358.0,2.5,47700.2,20443.0
+2023,Gujarat,Ahmedabad,Rice,68143.2,170358.0,2.5,47700.2,20443.0
+2024,Gujarat,Ahmedabad,Rice,68143.2,170358.0,2.5,47700.2,20443.0
+2019,Gujarat,Ahmedabad,Wheat,52159.0,166908.8,3.2,36511.3,15647.7
+2020,Gujarat,Ahmedabad,Wheat,52159.0,166908.8,3.2,36511.3,15647.7
+2021,Gujarat,Ahmedabad,Wheat,52159.0,166908.8,3.2,36511.3,15647.7
+2022,Gujarat,Ahmedabad,Wheat,52159.0,166908.8,3.2,36511.3,15647.7
+2023,Gujarat,Ahmedabad,Wheat,52159.0,166908.8,3.2,36511.3,15647.7
+2024,Gujarat,Ahmedabad,Wheat,52159.0,166908.8,3.2,36511.3,15647.7
+2019,Gujarat,Ahmedabad,Cotton,45156.8,22578.4,0.5,31609.8,13547.0
+2020,Gujarat,Ahmedabad,Cotton,45156.8,22578.4,0.5,31609.8,13547.0
+2021,Gujarat,Ahmedabad,Cotton,45156.8,22578.4,0.5,31609.8,13547.0
+2022,Gujarat,Ahmedabad,Cotton,45156.8,22578.4,0.5,31609.8,13547.0
+2023,Gujarat,Ahmedabad,Cotton,45156.8,22578.4,0.5,31609.8,13547.0
+2024,Gujarat,Ahmedabad,Cotton,45156.8,22578.4,0.5,31609.8,13547.0
+2019,Gujarat,Ahmedabad,Sugarcane,10189.2,713244.0,70.0,7132.4,3056.8
+2020,Gujarat,Ahmedabad,Sugarcane,10189.2,713244.0,70.0,7132.4,3056.8
+2021,Gujarat,Ahmedabad,Sugarcane,10189.2,713244.0,70.0,7132.4,3056.8
+2022,Gujarat,Ahmedabad,Sugarcane,10189.2,713244.0,70.0,7132.4,3056.8
+2023,Gujarat,Ahmedabad,Sugarcane,10189.2,713244.0,70.0,7132.4,3056.8
+2024,Gujarat,Ahmedabad,Sugarcane,10189.2,713244.0,70.0,7132.4,3056.8
+2019,Gujarat,Ahmedabad,Soybean,48732.3,53605.5,1.1,34112.6,14619.7
+2020,Gujarat,Ahmedabad,Soybean,48732.3,53605.5,1.1,34112.6,14619.7
+2021,Gujarat,Ahmedabad,Soybean,48732.3,53605.5,1.1,34112.6,14619.7
+2022,Gujarat,Ahmedabad,Soybean,48732.3,53605.5,1.1,34112.6,14619.7
+2023,Gujarat,Ahmedabad,Soybean,48732.3,53605.5,1.1,34112.6,14619.7
+2024,Gujarat,Ahmedabad,Soybean,48732.3,53605.5,1.1,34112.6,14619.7
+2019,Gujarat,Ahmedabad,Maize,37914.1,106159.5,2.8,26539.9,11374.2
+2020,Gujarat,Ahmedabad,Maize,37914.1,106159.5,2.8,26539.9,11374.2
+2021,Gujarat,Ahmedabad,Maize,37914.1,106159.5,2.8,26539.9,11374.2
+2022,Gujarat,Ahmedabad,Maize,37914.1,106159.5,2.8,26539.9,11374.2
+2023,Gujarat,Ahmedabad,Maize,37914.1,106159.5,2.8,26539.9,11374.2
+2024,Gujarat,Ahmedabad,Maize,37914.1,106159.5,2.8,26539.9,11374.2
+2019,Gujarat,Ahmedabad,Groundnut,25064.4,35090.2,1.4,17545.1,7519.3
+2020,Gujarat,Ahmedabad,Groundnut,25064.4,35090.2,1.4,17545.1,7519.3
+2021,Gujarat,Ahmedabad,Groundnut,25064.4,35090.2,1.4,17545.1,7519.3
+2022,Gujarat,Ahmedabad,Groundnut,25064.4,35090.2,1.4,17545.1,7519.3
+2023,Gujarat,Ahmedabad,Groundnut,25064.4,35090.2,1.4,17545.1,7519.3
+2024,Gujarat,Ahmedabad,Groundnut,25064.4,35090.2,1.4,17545.1,7519.3
+2019,Gujarat,Ahmedabad,Onion,11705.0,210690.0,18.0,8193.5,3511.5
+2020,Gujarat,Ahmedabad,Onion,11705.0,210690.0,18.0,8193.5,3511.5
+2021,Gujarat,Ahmedabad,Onion,11705.0,210690.0,18.0,8193.5,3511.5
+2022,Gujarat,Ahmedabad,Onion,11705.0,210690.0,18.0,8193.5,3511.5
+2023,Gujarat,Ahmedabad,Onion,11705.0,210690.0,18.0,8193.5,3511.5
+2024,Gujarat,Ahmedabad,Onion,11705.0,210690.0,18.0,8193.5,3511.5
+2019,Gujarat,Rajkot,Rice,49468.8,123672.0,2.5,34628.2,14840.6
+2020,Gujarat,Rajkot,Rice,49468.8,123672.0,2.5,34628.2,14840.6
+2021,Gujarat,Rajkot,Rice,49468.8,123672.0,2.5,34628.2,14840.6
+2022,Gujarat,Rajkot,Rice,49468.8,123672.0,2.5,34628.2,14840.6
+2023,Gujarat,Rajkot,Rice,49468.8,123672.0,2.5,34628.2,14840.6
+2024,Gujarat,Rajkot,Rice,49468.8,123672.0,2.5,34628.2,14840.6
+2019,Gujarat,Rajkot,Wheat,16087.0,51478.4,3.2,11260.9,4826.1
+2020,Gujarat,Rajkot,Wheat,16087.0,51478.4,3.2,11260.9,4826.1
+2021,Gujarat,Rajkot,Wheat,16087.0,51478.4,3.2,11260.9,4826.1
+2022,Gujarat,Rajkot,Wheat,16087.0,51478.4,3.2,11260.9,4826.1
+2023,Gujarat,Rajkot,Wheat,16087.0,51478.4,3.2,11260.9,4826.1
+2024,Gujarat,Rajkot,Wheat,16087.0,51478.4,3.2,11260.9,4826.1
+2019,Gujarat,Rajkot,Cotton,36826.4,18413.2,0.5,25778.5,11047.9
+2020,Gujarat,Rajkot,Cotton,36826.4,18413.2,0.5,25778.5,11047.9
+2021,Gujarat,Rajkot,Cotton,36826.4,18413.2,0.5,25778.5,11047.9
+2022,Gujarat,Rajkot,Cotton,36826.4,18413.2,0.5,25778.5,11047.9
+2023,Gujarat,Rajkot,Cotton,36826.4,18413.2,0.5,25778.5,11047.9
+2024,Gujarat,Rajkot,Cotton,36826.4,18413.2,0.5,25778.5,11047.9
+2019,Gujarat,Rajkot,Sugarcane,3663.0,256410.0,70.0,2564.1,1098.9
+2020,Gujarat,Rajkot,Sugarcane,3663.0,256410.0,70.0,2564.1,1098.9
+2021,Gujarat,Rajkot,Sugarcane,3663.0,256410.0,70.0,2564.1,1098.9
+2022,Gujarat,Rajkot,Sugarcane,3663.0,256410.0,70.0,2564.1,1098.9
+2023,Gujarat,Rajkot,Sugarcane,3663.0,256410.0,70.0,2564.1,1098.9
+2024,Gujarat,Rajkot,Sugarcane,3663.0,256410.0,70.0,2564.1,1098.9
+2019,Gujarat,Rajkot,Soybean,53545.5,58900.1,1.1,37481.8,16063.6
+2020,Gujarat,Rajkot,Soybean,53545.5,58900.1,1.1,37481.8,16063.6
+2021,Gujarat,Rajkot,Soybean,53545.5,58900.1,1.1,37481.8,16063.6
+2022,Gujarat,Rajkot,Soybean,53545.5,58900.1,1.1,37481.8,16063.6
+2023,Gujarat,Rajkot,Soybean,53545.5,58900.1,1.1,37481.8,16063.6
+2024,Gujarat,Rajkot,Soybean,53545.5,58900.1,1.1,37481.8,16063.6
+2019,Gujarat,Rajkot,Maize,36374.8,101849.4,2.8,25462.4,10912.4
+2020,Gujarat,Rajkot,Maize,36374.8,101849.4,2.8,25462.4,10912.4
+2021,Gujarat,Rajkot,Maize,36374.8,101849.4,2.8,25462.4,10912.4
+2022,Gujarat,Rajkot,Maize,36374.8,101849.4,2.8,25462.4,10912.4
+2023,Gujarat,Rajkot,Maize,36374.8,101849.4,2.8,25462.4,10912.4
+2024,Gujarat,Rajkot,Maize,36374.8,101849.4,2.8,25462.4,10912.4
+2019,Gujarat,Rajkot,Groundnut,12571.2,17599.7,1.4,8799.8,3771.4
+2020,Gujarat,Rajkot,Groundnut,12571.2,17599.7,1.4,8799.8,3771.4
+2021,Gujarat,Rajkot,Groundnut,12571.2,17599.7,1.4,8799.8,3771.4
+2022,Gujarat,Rajkot,Groundnut,12571.2,17599.7,1.4,8799.8,3771.4
+2023,Gujarat,Rajkot,Groundnut,12571.2,17599.7,1.4,8799.8,3771.4
+2024,Gujarat,Rajkot,Groundnut,12571.2,17599.7,1.4,8799.8,3771.4
+2019,Gujarat,Rajkot,Onion,11733.4,211201.2,18.0,8213.4,3520.0
+2020,Gujarat,Rajkot,Onion,11733.4,211201.2,18.0,8213.4,3520.0
+2021,Gujarat,Rajkot,Onion,11733.4,211201.2,18.0,8213.4,3520.0
+2022,Gujarat,Rajkot,Onion,11733.4,211201.2,18.0,8213.4,3520.0
+2023,Gujarat,Rajkot,Onion,11733.4,211201.2,18.0,8213.4,3520.0
+2024,Gujarat,Rajkot,Onion,11733.4,211201.2,18.0,8213.4,3520.0
+2019,Gujarat,Surat,Rice,66582.0,166455.0,2.5,46607.4,19974.6
+2020,Gujarat,Surat,Rice,66582.0,166455.0,2.5,46607.4,19974.6
+2021,Gujarat,Surat,Rice,66582.0,166455.0,2.5,46607.4,19974.6
+2022,Gujarat,Surat,Rice,66582.0,166455.0,2.5,46607.4,19974.6
+2023,Gujarat,Surat,Rice,66582.0,166455.0,2.5,46607.4,19974.6
+2024,Gujarat,Surat,Rice,66582.0,166455.0,2.5,46607.4,19974.6
+2019,Gujarat,Surat,Wheat,30501.0,97603.2,3.2,21350.7,9150.3
+2020,Gujarat,Surat,Wheat,30501.0,97603.2,3.2,21350.7,9150.3
+2021,Gujarat,Surat,Wheat,30501.0,97603.2,3.2,21350.7,9150.3
+2022,Gujarat,Surat,Wheat,30501.0,97603.2,3.2,21350.7,9150.3
+2023,Gujarat,Surat,Wheat,30501.0,97603.2,3.2,21350.7,9150.3
+2024,Gujarat,Surat,Wheat,30501.0,97603.2,3.2,21350.7,9150.3
+2019,Gujarat,Surat,Cotton,40372.8,20186.4,0.5,28261.0,12111.8
+2020,Gujarat,Surat,Cotton,40372.8,20186.4,0.5,28261.0,12111.8
+2021,Gujarat,Surat,Cotton,40372.8,20186.4,0.5,28261.0,12111.8
+2022,Gujarat,Surat,Cotton,40372.8,20186.4,0.5,28261.0,12111.8
+2023,Gujarat,Surat,Cotton,40372.8,20186.4,0.5,28261.0,12111.8
+2024,Gujarat,Surat,Cotton,40372.8,20186.4,0.5,28261.0,12111.8
+2019,Gujarat,Surat,Sugarcane,15759.6,1103172.0,70.0,11031.7,4727.9
+2020,Gujarat,Surat,Sugarcane,15759.6,1103172.0,70.0,11031.7,4727.9
+2021,Gujarat,Surat,Sugarcane,15759.6,1103172.0,70.0,11031.7,4727.9
+2022,Gujarat,Surat,Sugarcane,15759.6,1103172.0,70.0,11031.7,4727.9
+2023,Gujarat,Surat,Sugarcane,15759.6,1103172.0,70.0,11031.7,4727.9
+2024,Gujarat,Surat,Sugarcane,15759.6,1103172.0,70.0,11031.7,4727.9
+2019,Gujarat,Surat,Soybean,33135.3,36448.8,1.1,23194.7,9940.6
+2020,Gujarat,Surat,Soybean,33135.3,36448.8,1.1,23194.7,9940.6
+2021,Gujarat,Surat,Soybean,33135.3,36448.8,1.1,23194.7,9940.6
+2022,Gujarat,Surat,Soybean,33135.3,36448.8,1.1,23194.7,9940.6
+2023,Gujarat,Surat,Soybean,33135.3,36448.8,1.1,23194.7,9940.6
+2024,Gujarat,Surat,Soybean,33135.3,36448.8,1.1,23194.7,9940.6
+2019,Gujarat,Surat,Maize,8225.0,23030.0,2.8,5757.5,2467.5
+2020,Gujarat,Surat,Maize,8225.0,23030.0,2.8,5757.5,2467.5
+2021,Gujarat,Surat,Maize,8225.0,23030.0,2.8,5757.5,2467.5
+2022,Gujarat,Surat,Maize,8225.0,23030.0,2.8,5757.5,2467.5
+2023,Gujarat,Surat,Maize,8225.0,23030.0,2.8,5757.5,2467.5
+2024,Gujarat,Surat,Maize,8225.0,23030.0,2.8,5757.5,2467.5
+2019,Gujarat,Surat,Groundnut,13221.6,18510.2,1.4,9255.1,3966.5
+2020,Gujarat,Surat,Groundnut,13221.6,18510.2,1.4,9255.1,3966.5
+2021,Gujarat,Surat,Groundnut,13221.6,18510.2,1.4,9255.1,3966.5
+2022,Gujarat,Surat,Groundnut,13221.6,18510.2,1.4,9255.1,3966.5
+2023,Gujarat,Surat,Groundnut,13221.6,18510.2,1.4,9255.1,3966.5
+2024,Gujarat,Surat,Groundnut,13221.6,18510.2,1.4,9255.1,3966.5
+2019,Gujarat,Surat,Onion,10739.6,193312.8,18.0,7517.7,3221.9
+2020,Gujarat,Surat,Onion,10739.6,193312.8,18.0,7517.7,3221.9
+2021,Gujarat,Surat,Onion,10739.6,193312.8,18.0,7517.7,3221.9
+2022,Gujarat,Surat,Onion,10739.6,193312.8,18.0,7517.7,3221.9
+2023,Gujarat,Surat,Onion,10739.6,193312.8,18.0,7517.7,3221.9
+2024,Gujarat,Surat,Onion,10739.6,193312.8,18.0,7517.7,3221.9
+2019,Gujarat,Vadodara,Rice,69513.6,173784.0,2.5,48659.5,20854.1
+2020,Gujarat,Vadodara,Rice,69513.6,173784.0,2.5,48659.5,20854.1
+2021,Gujarat,Vadodara,Rice,69513.6,173784.0,2.5,48659.5,20854.1
+2022,Gujarat,Vadodara,Rice,69513.6,173784.0,2.5,48659.5,20854.1
+2023,Gujarat,Vadodara,Rice,69513.6,173784.0,2.5,48659.5,20854.1
+2024,Gujarat,Vadodara,Rice,69513.6,173784.0,2.5,48659.5,20854.1
+2019,Gujarat,Vadodara,Wheat,20794.0,66540.8,3.2,14555.8,6238.2
+2020,Gujarat,Vadodara,Wheat,20794.0,66540.8,3.2,14555.8,6238.2
+2021,Gujarat,Vadodara,Wheat,20794.0,66540.8,3.2,14555.8,6238.2
+2022,Gujarat,Vadodara,Wheat,20794.0,66540.8,3.2,14555.8,6238.2
+2023,Gujarat,Vadodara,Wheat,20794.0,66540.8,3.2,14555.8,6238.2
+2024,Gujarat,Vadodara,Wheat,20794.0,66540.8,3.2,14555.8,6238.2
+2019,Gujarat,Vadodara,Cotton,25151.2,12575.6,0.5,17605.8,7545.4
+2020,Gujarat,Vadodara,Cotton,25151.2,12575.6,0.5,17605.8,7545.4
+2021,Gujarat,Vadodara,Cotton,25151.2,12575.6,0.5,17605.8,7545.4
+2022,Gujarat,Vadodara,Cotton,25151.2,12575.6,0.5,17605.8,7545.4
+2023,Gujarat,Vadodara,Cotton,25151.2,12575.6,0.5,17605.8,7545.4
+2024,Gujarat,Vadodara,Cotton,25151.2,12575.6,0.5,17605.8,7545.4
+2019,Gujarat,Vadodara,Sugarcane,12237.9,856653.0,70.0,8566.5,3671.4
+2020,Gujarat,Vadodara,Sugarcane,12237.9,856653.0,70.0,8566.5,3671.4
+2021,Gujarat,Vadodara,Sugarcane,12237.9,856653.0,70.0,8566.5,3671.4
+2022,Gujarat,Vadodara,Sugarcane,12237.9,856653.0,70.0,8566.5,3671.4
+2023,Gujarat,Vadodara,Sugarcane,12237.9,856653.0,70.0,8566.5,3671.4
+2024,Gujarat,Vadodara,Sugarcane,12237.9,856653.0,70.0,8566.5,3671.4
+2019,Gujarat,Vadodara,Soybean,51624.0,56786.4,1.1,36136.8,15487.2
+2020,Gujarat,Vadodara,Soybean,51624.0,56786.4,1.1,36136.8,15487.2
+2021,Gujarat,Vadodara,Soybean,51624.0,56786.4,1.1,36136.8,15487.2
+2022,Gujarat,Vadodara,Soybean,51624.0,56786.4,1.1,36136.8,15487.2
+2023,Gujarat,Vadodara,Soybean,51624.0,56786.4,1.1,36136.8,15487.2
+2024,Gujarat,Vadodara,Soybean,51624.0,56786.4,1.1,36136.8,15487.2
+2019,Gujarat,Vadodara,Maize,19310.9,54070.5,2.8,13517.6,5793.3
+2020,Gujarat,Vadodara,Maize,19310.9,54070.5,2.8,13517.6,5793.3
+2021,Gujarat,Vadodara,Maize,19310.9,54070.5,2.8,13517.6,5793.3
+2022,Gujarat,Vadodara,Maize,19310.9,54070.5,2.8,13517.6,5793.3
+2023,Gujarat,Vadodara,Maize,19310.9,54070.5,2.8,13517.6,5793.3
+2024,Gujarat,Vadodara,Maize,19310.9,54070.5,2.8,13517.6,5793.3
+2019,Gujarat,Vadodara,Groundnut,7936.2,11110.7,1.4,5555.3,2380.9
+2020,Gujarat,Vadodara,Groundnut,7936.2,11110.7,1.4,5555.3,2380.9
+2021,Gujarat,Vadodara,Groundnut,7936.2,11110.7,1.4,5555.3,2380.9
+2022,Gujarat,Vadodara,Groundnut,7936.2,11110.7,1.4,5555.3,2380.9
+2023,Gujarat,Vadodara,Groundnut,7936.2,11110.7,1.4,5555.3,2380.9
+2024,Gujarat,Vadodara,Groundnut,7936.2,11110.7,1.4,5555.3,2380.9
+2019,Gujarat,Vadodara,Onion,3514.8,63266.4,18.0,2460.4,1054.4
+2020,Gujarat,Vadodara,Onion,3514.8,63266.4,18.0,2460.4,1054.4
+2021,Gujarat,Vadodara,Onion,3514.8,63266.4,18.0,2460.4,1054.4
+2022,Gujarat,Vadodara,Onion,3514.8,63266.4,18.0,2460.4,1054.4
+2023,Gujarat,Vadodara,Onion,3514.8,63266.4,18.0,2460.4,1054.4
+2024,Gujarat,Vadodara,Onion,3514.8,63266.4,18.0,2460.4,1054.4
+2019,Gujarat,Junagadh,Rice,17798.4,44496.0,2.5,12458.9,5339.5
+2020,Gujarat,Junagadh,Rice,17798.4,44496.0,2.5,12458.9,5339.5
+2021,Gujarat,Junagadh,Rice,17798.4,44496.0,2.5,12458.9,5339.5
+2022,Gujarat,Junagadh,Rice,17798.4,44496.0,2.5,12458.9,5339.5
+2023,Gujarat,Junagadh,Rice,17798.4,44496.0,2.5,12458.9,5339.5
+2024,Gujarat,Junagadh,Rice,17798.4,44496.0,2.5,12458.9,5339.5
+2019,Gujarat,Junagadh,Wheat,48546.0,155347.2,3.2,33982.2,14563.8
+2020,Gujarat,Junagadh,Wheat,48546.0,155347.2,3.2,33982.2,14563.8
+2021,Gujarat,Junagadh,Wheat,48546.0,155347.2,3.2,33982.2,14563.8
+2022,Gujarat,Junagadh,Wheat,48546.0,155347.2,3.2,33982.2,14563.8
+2023,Gujarat,Junagadh,Wheat,48546.0,155347.2,3.2,33982.2,14563.8
+2024,Gujarat,Junagadh,Wheat,48546.0,155347.2,3.2,33982.2,14563.8
+2019,Gujarat,Junagadh,Cotton,26046.4,13023.2,0.5,18232.5,7813.9
+2020,Gujarat,Junagadh,Cotton,26046.4,13023.2,0.5,18232.5,7813.9
+2021,Gujarat,Junagadh,Cotton,26046.4,13023.2,0.5,18232.5,7813.9
+2022,Gujarat,Junagadh,Cotton,26046.4,13023.2,0.5,18232.5,7813.9
+2023,Gujarat,Junagadh,Cotton,26046.4,13023.2,0.5,18232.5,7813.9
+2024,Gujarat,Junagadh,Cotton,26046.4,13023.2,0.5,18232.5,7813.9
+2019,Gujarat,Junagadh,Sugarcane,7818.0,547260.0,70.0,5472.6,2345.4
+2020,Gujarat,Junagadh,Sugarcane,7818.0,547260.0,70.0,5472.6,2345.4
+2021,Gujarat,Junagadh,Sugarcane,7818.0,547260.0,70.0,5472.6,2345.4
+2022,Gujarat,Junagadh,Sugarcane,7818.0,547260.0,70.0,5472.6,2345.4
+2023,Gujarat,Junagadh,Sugarcane,7818.0,547260.0,70.0,5472.6,2345.4
+2024,Gujarat,Junagadh,Sugarcane,7818.0,547260.0,70.0,5472.6,2345.4
+2019,Gujarat,Junagadh,Soybean,34167.6,37584.4,1.1,23917.3,10250.3
+2020,Gujarat,Junagadh,Soybean,34167.6,37584.4,1.1,23917.3,10250.3
+2021,Gujarat,Junagadh,Soybean,34167.6,37584.4,1.1,23917.3,10250.3
+2022,Gujarat,Junagadh,Soybean,34167.6,37584.4,1.1,23917.3,10250.3
+2023,Gujarat,Junagadh,Soybean,34167.6,37584.4,1.1,23917.3,10250.3
+2024,Gujarat,Junagadh,Soybean,34167.6,37584.4,1.1,23917.3,10250.3
+2019,Gujarat,Junagadh,Maize,29607.9,82902.1,2.8,20725.5,8882.4
+2020,Gujarat,Junagadh,Maize,29607.9,82902.1,2.8,20725.5,8882.4
+2021,Gujarat,Junagadh,Maize,29607.9,82902.1,2.8,20725.5,8882.4
+2022,Gujarat,Junagadh,Maize,29607.9,82902.1,2.8,20725.5,8882.4
+2023,Gujarat,Junagadh,Maize,29607.9,82902.1,2.8,20725.5,8882.4
+2024,Gujarat,Junagadh,Maize,29607.9,82902.1,2.8,20725.5,8882.4
+2019,Gujarat,Junagadh,Groundnut,27385.8,38340.1,1.4,19170.1,8215.7
+2020,Gujarat,Junagadh,Groundnut,27385.8,38340.1,1.4,19170.1,8215.7
+2021,Gujarat,Junagadh,Groundnut,27385.8,38340.1,1.4,19170.1,8215.7
+2022,Gujarat,Junagadh,Groundnut,27385.8,38340.1,1.4,19170.1,8215.7
+2023,Gujarat,Junagadh,Groundnut,27385.8,38340.1,1.4,19170.1,8215.7
+2024,Gujarat,Junagadh,Groundnut,27385.8,38340.1,1.4,19170.1,8215.7
+2019,Gujarat,Junagadh,Onion,9478.2,170607.6,18.0,6634.7,2843.5
+2020,Gujarat,Junagadh,Onion,9478.2,170607.6,18.0,6634.7,2843.5
+2021,Gujarat,Junagadh,Onion,9478.2,170607.6,18.0,6634.7,2843.5
+2022,Gujarat,Junagadh,Onion,9478.2,170607.6,18.0,6634.7,2843.5
+2023,Gujarat,Junagadh,Onion,9478.2,170607.6,18.0,6634.7,2843.5
+2024,Gujarat,Junagadh,Onion,9478.2,170607.6,18.0,6634.7,2843.5
+2019,Rajasthan,Jaipur,Rice,39224.4,98061.0,2.5,27457.1,11767.3
+2020,Rajasthan,Jaipur,Rice,39224.4,98061.0,2.5,27457.1,11767.3
+2021,Rajasthan,Jaipur,Rice,39224.4,98061.0,2.5,27457.1,11767.3
+2022,Rajasthan,Jaipur,Rice,39224.4,98061.0,2.5,27457.1,11767.3
+2023,Rajasthan,Jaipur,Rice,39224.4,98061.0,2.5,27457.1,11767.3
+2024,Rajasthan,Jaipur,Rice,39224.4,98061.0,2.5,27457.1,11767.3
+2019,Rajasthan,Jaipur,Wheat,39962.0,127878.4,3.2,27973.4,11988.6
+2020,Rajasthan,Jaipur,Wheat,39962.0,127878.4,3.2,27973.4,11988.6
+2021,Rajasthan,Jaipur,Wheat,39962.0,127878.4,3.2,27973.4,11988.6
+2022,Rajasthan,Jaipur,Wheat,39962.0,127878.4,3.2,27973.4,11988.6
+2023,Rajasthan,Jaipur,Wheat,39962.0,127878.4,3.2,27973.4,11988.6
+2024,Rajasthan,Jaipur,Wheat,39962.0,127878.4,3.2,27973.4,11988.6
+2019,Rajasthan,Jaipur,Cotton,27968.8,13984.4,0.5,19578.2,8390.6
+2020,Rajasthan,Jaipur,Cotton,27968.8,13984.4,0.5,19578.2,8390.6
+2021,Rajasthan,Jaipur,Cotton,27968.8,13984.4,0.5,19578.2,8390.6
+2022,Rajasthan,Jaipur,Cotton,27968.8,13984.4,0.5,19578.2,8390.6
+2023,Rajasthan,Jaipur,Cotton,27968.8,13984.4,0.5,19578.2,8390.6
+2024,Rajasthan,Jaipur,Cotton,27968.8,13984.4,0.5,19578.2,8390.6
+2019,Rajasthan,Jaipur,Sugarcane,11856.3,829941.0,70.0,8299.4,3556.9
+2020,Rajasthan,Jaipur,Sugarcane,11856.3,829941.0,70.0,8299.4,3556.9
+2021,Rajasthan,Jaipur,Sugarcane,11856.3,829941.0,70.0,8299.4,3556.9
+2022,Rajasthan,Jaipur,Sugarcane,11856.3,829941.0,70.0,8299.4,3556.9
+2023,Rajasthan,Jaipur,Sugarcane,11856.3,829941.0,70.0,8299.4,3556.9
+2024,Rajasthan,Jaipur,Sugarcane,11856.3,829941.0,70.0,8299.4,3556.9
+2019,Rajasthan,Jaipur,Soybean,42859.8,47145.8,1.1,30001.9,12857.9
+2020,Rajasthan,Jaipur,Soybean,42859.8,47145.8,1.1,30001.9,12857.9
+2021,Rajasthan,Jaipur,Soybean,42859.8,47145.8,1.1,30001.9,12857.9
+2022,Rajasthan,Jaipur,Soybean,42859.8,47145.8,1.1,30001.9,12857.9
+2023,Rajasthan,Jaipur,Soybean,42859.8,47145.8,1.1,30001.9,12857.9
+2024,Rajasthan,Jaipur,Soybean,42859.8,47145.8,1.1,30001.9,12857.9
+2019,Rajasthan,Jaipur,Maize,10926.3,30593.6,2.8,7648.4,3277.9
+2020,Rajasthan,Jaipur,Maize,10926.3,30593.6,2.8,7648.4,3277.9
+2021,Rajasthan,Jaipur,Maize,10926.3,30593.6,2.8,7648.4,3277.9
+2022,Rajasthan,Jaipur,Maize,10926.3,30593.6,2.8,7648.4,3277.9
+2023,Rajasthan,Jaipur,Maize,10926.3,30593.6,2.8,7648.4,3277.9
+2024,Rajasthan,Jaipur,Maize,10926.3,30593.6,2.8,7648.4,3277.9
+2019,Rajasthan,Jaipur,Groundnut,26145.6,36603.8,1.4,18301.9,7843.7
+2020,Rajasthan,Jaipur,Groundnut,26145.6,36603.8,1.4,18301.9,7843.7
+2021,Rajasthan,Jaipur,Groundnut,26145.6,36603.8,1.4,18301.9,7843.7
+2022,Rajasthan,Jaipur,Groundnut,26145.6,36603.8,1.4,18301.9,7843.7
+2023,Rajasthan,Jaipur,Groundnut,26145.6,36603.8,1.4,18301.9,7843.7
+2024,Rajasthan,Jaipur,Groundnut,26145.6,36603.8,1.4,18301.9,7843.7
+2019,Rajasthan,Jaipur,Onion,2076.8,37382.4,18.0,1453.8,623.0
+2020,Rajasthan,Jaipur,Onion,2076.8,37382.4,18.0,1453.8,623.0
+2021,Rajasthan,Jaipur,Onion,2076.8,37382.4,18.0,1453.8,623.0
+2022,Rajasthan,Jaipur,Onion,2076.8,37382.4,18.0,1453.8,623.0
+2023,Rajasthan,Jaipur,Onion,2076.8,37382.4,18.0,1453.8,623.0
+2024,Rajasthan,Jaipur,Onion,2076.8,37382.4,18.0,1453.8,623.0
+2019,Rajasthan,Jodhpur,Rice,54320.4,135801.0,2.5,38024.3,16296.1
+2020,Rajasthan,Jodhpur,Rice,54320.4,135801.0,2.5,38024.3,16296.1
+2021,Rajasthan,Jodhpur,Rice,54320.4,135801.0,2.5,38024.3,16296.1
+2022,Rajasthan,Jodhpur,Rice,54320.4,135801.0,2.5,38024.3,16296.1
+2023,Rajasthan,Jodhpur,Rice,54320.4,135801.0,2.5,38024.3,16296.1
+2024,Rajasthan,Jodhpur,Rice,54320.4,135801.0,2.5,38024.3,16296.1
+2019,Rajasthan,Jodhpur,Wheat,24961.0,79875.2,3.2,17472.7,7488.3
+2020,Rajasthan,Jodhpur,Wheat,24961.0,79875.2,3.2,17472.7,7488.3
+2021,Rajasthan,Jodhpur,Wheat,24961.0,79875.2,3.2,17472.7,7488.3
+2022,Rajasthan,Jodhpur,Wheat,24961.0,79875.2,3.2,17472.7,7488.3
+2023,Rajasthan,Jodhpur,Wheat,24961.0,79875.2,3.2,17472.7,7488.3
+2024,Rajasthan,Jodhpur,Wheat,24961.0,79875.2,3.2,17472.7,7488.3
+2019,Rajasthan,Jodhpur,Cotton,22288.8,11144.4,0.5,15602.2,6686.6
+2020,Rajasthan,Jodhpur,Cotton,22288.8,11144.4,0.5,15602.2,6686.6
+2021,Rajasthan,Jodhpur,Cotton,22288.8,11144.4,0.5,15602.2,6686.6
+2022,Rajasthan,Jodhpur,Cotton,22288.8,11144.4,0.5,15602.2,6686.6
+2023,Rajasthan,Jodhpur,Cotton,22288.8,11144.4,0.5,15602.2,6686.6
+2024,Rajasthan,Jodhpur,Cotton,22288.8,11144.4,0.5,15602.2,6686.6
+2019,Rajasthan,Jodhpur,Sugarcane,17210.4,1204728.0,70.0,12047.3,5163.1
+2020,Rajasthan,Jodhpur,Sugarcane,17210.4,1204728.0,70.0,12047.3,5163.1
+2021,Rajasthan,Jodhpur,Sugarcane,17210.4,1204728.0,70.0,12047.3,5163.1
+2022,Rajasthan,Jodhpur,Sugarcane,17210.4,1204728.0,70.0,12047.3,5163.1
+2023,Rajasthan,Jodhpur,Sugarcane,17210.4,1204728.0,70.0,12047.3,5163.1
+2024,Rajasthan,Jodhpur,Sugarcane,17210.4,1204728.0,70.0,12047.3,5163.1
+2019,Rajasthan,Jodhpur,Soybean,23667.3,26034.0,1.1,16567.1,7100.2
+2020,Rajasthan,Jodhpur,Soybean,23667.3,26034.0,1.1,16567.1,7100.2
+2021,Rajasthan,Jodhpur,Soybean,23667.3,26034.0,1.1,16567.1,7100.2
+2022,Rajasthan,Jodhpur,Soybean,23667.3,26034.0,1.1,16567.1,7100.2
+2023,Rajasthan,Jodhpur,Soybean,23667.3,26034.0,1.1,16567.1,7100.2
+2024,Rajasthan,Jodhpur,Soybean,23667.3,26034.0,1.1,16567.1,7100.2
+2019,Rajasthan,Jodhpur,Maize,9064.3,25380.0,2.8,6345.0,2719.3
+2020,Rajasthan,Jodhpur,Maize,9064.3,25380.0,2.8,6345.0,2719.3
+2021,Rajasthan,Jodhpur,Maize,9064.3,25380.0,2.8,6345.0,2719.3
+2022,Rajasthan,Jodhpur,Maize,9064.3,25380.0,2.8,6345.0,2719.3
+2023,Rajasthan,Jodhpur,Maize,9064.3,25380.0,2.8,6345.0,2719.3
+2024,Rajasthan,Jodhpur,Maize,9064.3,25380.0,2.8,6345.0,2719.3
+2019,Rajasthan,Jodhpur,Groundnut,9337.2,13072.1,1.4,6536.0,2801.2
+2020,Rajasthan,Jodhpur,Groundnut,9337.2,13072.1,1.4,6536.0,2801.2
+2021,Rajasthan,Jodhpur,Groundnut,9337.2,13072.1,1.4,6536.0,2801.2
+2022,Rajasthan,Jodhpur,Groundnut,9337.2,13072.1,1.4,6536.0,2801.2
+2023,Rajasthan,Jodhpur,Groundnut,9337.2,13072.1,1.4,6536.0,2801.2
+2024,Rajasthan,Jodhpur,Groundnut,9337.2,13072.1,1.4,6536.0,2801.2
+2019,Rajasthan,Jodhpur,Onion,11904.8,214286.4,18.0,8333.4,3571.4
+2020,Rajasthan,Jodhpur,Onion,11904.8,214286.4,18.0,8333.4,3571.4
+2021,Rajasthan,Jodhpur,Onion,11904.8,214286.4,18.0,8333.4,3571.4
+2022,Rajasthan,Jodhpur,Onion,11904.8,214286.4,18.0,8333.4,3571.4
+2023,Rajasthan,Jodhpur,Onion,11904.8,214286.4,18.0,8333.4,3571.4
+2024,Rajasthan,Jodhpur,Onion,11904.8,214286.4,18.0,8333.4,3571.4
+2019,Rajasthan,Kota,Rice,28720.8,71802.0,2.5,20104.6,8616.2
+2020,Rajasthan,Kota,Rice,28720.8,71802.0,2.5,20104.6,8616.2
+2021,Rajasthan,Kota,Rice,28720.8,71802.0,2.5,20104.6,8616.2
+2022,Rajasthan,Kota,Rice,28720.8,71802.0,2.5,20104.6,8616.2
+2023,Rajasthan,Kota,Rice,28720.8,71802.0,2.5,20104.6,8616.2
+2024,Rajasthan,Kota,Rice,28720.8,71802.0,2.5,20104.6,8616.2
+2019,Rajasthan,Kota,Wheat,33842.0,108294.4,3.2,23689.4,10152.6
+2020,Rajasthan,Kota,Wheat,33842.0,108294.4,3.2,23689.4,10152.6
+2021,Rajasthan,Kota,Wheat,33842.0,108294.4,3.2,23689.4,10152.6
+2022,Rajasthan,Kota,Wheat,33842.0,108294.4,3.2,23689.4,10152.6
+2023,Rajasthan,Kota,Wheat,33842.0,108294.4,3.2,23689.4,10152.6
+2024,Rajasthan,Kota,Wheat,33842.0,108294.4,3.2,23689.4,10152.6
+2019,Rajasthan,Kota,Cotton,40281.6,20140.8,0.5,28197.1,12084.5
+2020,Rajasthan,Kota,Cotton,40281.6,20140.8,0.5,28197.1,12084.5
+2021,Rajasthan,Kota,Cotton,40281.6,20140.8,0.5,28197.1,12084.5
+2022,Rajasthan,Kota,Cotton,40281.6,20140.8,0.5,28197.1,12084.5
+2023,Rajasthan,Kota,Cotton,40281.6,20140.8,0.5,28197.1,12084.5
+2024,Rajasthan,Kota,Cotton,40281.6,20140.8,0.5,28197.1,12084.5
+2019,Rajasthan,Kota,Sugarcane,9542.7,667989.0,70.0,6679.9,2862.8
+2020,Rajasthan,Kota,Sugarcane,9542.7,667989.0,70.0,6679.9,2862.8
+2021,Rajasthan,Kota,Sugarcane,9542.7,667989.0,70.0,6679.9,2862.8
+2022,Rajasthan,Kota,Sugarcane,9542.7,667989.0,70.0,6679.9,2862.8
+2023,Rajasthan,Kota,Sugarcane,9542.7,667989.0,70.0,6679.9,2862.8
+2024,Rajasthan,Kota,Sugarcane,9542.7,667989.0,70.0,6679.9,2862.8
+2019,Rajasthan,Kota,Soybean,49725.9,54698.5,1.1,34808.1,14917.8
+2020,Rajasthan,Kota,Soybean,49725.9,54698.5,1.1,34808.1,14917.8
+2021,Rajasthan,Kota,Soybean,49725.9,54698.5,1.1,34808.1,14917.8
+2022,Rajasthan,Kota,Soybean,49725.9,54698.5,1.1,34808.1,14917.8
+2023,Rajasthan,Kota,Soybean,49725.9,54698.5,1.1,34808.1,14917.8
+2024,Rajasthan,Kota,Soybean,49725.9,54698.5,1.1,34808.1,14917.8
+2019,Rajasthan,Kota,Maize,9363.9,26218.9,2.8,6554.7,2809.2
+2020,Rajasthan,Kota,Maize,9363.9,26218.9,2.8,6554.7,2809.2
+2021,Rajasthan,Kota,Maize,9363.9,26218.9,2.8,6554.7,2809.2
+2022,Rajasthan,Kota,Maize,9363.9,26218.9,2.8,6554.7,2809.2
+2023,Rajasthan,Kota,Maize,9363.9,26218.9,2.8,6554.7,2809.2
+2024,Rajasthan,Kota,Maize,9363.9,26218.9,2.8,6554.7,2809.2
+2019,Rajasthan,Kota,Groundnut,20469.6,28657.4,1.4,14328.7,6140.9
+2020,Rajasthan,Kota,Groundnut,20469.6,28657.4,1.4,14328.7,6140.9
+2021,Rajasthan,Kota,Groundnut,20469.6,28657.4,1.4,14328.7,6140.9
+2022,Rajasthan,Kota,Groundnut,20469.6,28657.4,1.4,14328.7,6140.9
+2023,Rajasthan,Kota,Groundnut,20469.6,28657.4,1.4,14328.7,6140.9
+2024,Rajasthan,Kota,Groundnut,20469.6,28657.4,1.4,14328.7,6140.9
+2019,Rajasthan,Kota,Onion,5647.2,101649.6,18.0,3953.0,1694.2
+2020,Rajasthan,Kota,Onion,5647.2,101649.6,18.0,3953.0,1694.2
+2021,Rajasthan,Kota,Onion,5647.2,101649.6,18.0,3953.0,1694.2
+2022,Rajasthan,Kota,Onion,5647.2,101649.6,18.0,3953.0,1694.2
+2023,Rajasthan,Kota,Onion,5647.2,101649.6,18.0,3953.0,1694.2
+2024,Rajasthan,Kota,Onion,5647.2,101649.6,18.0,3953.0,1694.2
+2019,Rajasthan,Bikaner,Rice,36669.6,91674.0,2.5,25668.7,11000.9
+2020,Rajasthan,Bikaner,Rice,36669.6,91674.0,2.5,25668.7,11000.9
+2021,Rajasthan,Bikaner,Rice,36669.6,91674.0,2.5,25668.7,11000.9
+2022,Rajasthan,Bikaner,Rice,36669.6,91674.0,2.5,25668.7,11000.9
+2023,Rajasthan,Bikaner,Rice,36669.6,91674.0,2.5,25668.7,11000.9
+2024,Rajasthan,Bikaner,Rice,36669.6,91674.0,2.5,25668.7,11000.9
+2019,Rajasthan,Bikaner,Wheat,26331.0,84259.2,3.2,18431.7,7899.3
+2020,Rajasthan,Bikaner,Wheat,26331.0,84259.2,3.2,18431.7,7899.3
+2021,Rajasthan,Bikaner,Wheat,26331.0,84259.2,3.2,18431.7,7899.3
+2022,Rajasthan,Bikaner,Wheat,26331.0,84259.2,3.2,18431.7,7899.3
+2023,Rajasthan,Bikaner,Wheat,26331.0,84259.2,3.2,18431.7,7899.3
+2024,Rajasthan,Bikaner,Wheat,26331.0,84259.2,3.2,18431.7,7899.3
+2019,Rajasthan,Bikaner,Cotton,41209.6,20604.8,0.5,28846.7,12362.9
+2020,Rajasthan,Bikaner,Cotton,41209.6,20604.8,0.5,28846.7,12362.9
+2021,Rajasthan,Bikaner,Cotton,41209.6,20604.8,0.5,28846.7,12362.9
+2022,Rajasthan,Bikaner,Cotton,41209.6,20604.8,0.5,28846.7,12362.9
+2023,Rajasthan,Bikaner,Cotton,41209.6,20604.8,0.5,28846.7,12362.9
+2024,Rajasthan,Bikaner,Cotton,41209.6,20604.8,0.5,28846.7,12362.9
+2019,Rajasthan,Bikaner,Sugarcane,12763.5,893445.0,70.0,8934.4,3829.0
+2020,Rajasthan,Bikaner,Sugarcane,12763.5,893445.0,70.0,8934.4,3829.0
+2021,Rajasthan,Bikaner,Sugarcane,12763.5,893445.0,70.0,8934.4,3829.0
+2022,Rajasthan,Bikaner,Sugarcane,12763.5,893445.0,70.0,8934.4,3829.0
+2023,Rajasthan,Bikaner,Sugarcane,12763.5,893445.0,70.0,8934.4,3829.0
+2024,Rajasthan,Bikaner,Sugarcane,12763.5,893445.0,70.0,8934.4,3829.0
+2019,Rajasthan,Bikaner,Soybean,32294.7,35524.2,1.1,22606.3,9688.4
+2020,Rajasthan,Bikaner,Soybean,32294.7,35524.2,1.1,22606.3,9688.4
+2021,Rajasthan,Bikaner,Soybean,32294.7,35524.2,1.1,22606.3,9688.4
+2022,Rajasthan,Bikaner,Soybean,32294.7,35524.2,1.1,22606.3,9688.4
+2023,Rajasthan,Bikaner,Soybean,32294.7,35524.2,1.1,22606.3,9688.4
+2024,Rajasthan,Bikaner,Soybean,32294.7,35524.2,1.1,22606.3,9688.4
+2019,Rajasthan,Bikaner,Maize,30765.0,86142.0,2.8,21535.5,9229.5
+2020,Rajasthan,Bikaner,Maize,30765.0,86142.0,2.8,21535.5,9229.5
+2021,Rajasthan,Bikaner,Maize,30765.0,86142.0,2.8,21535.5,9229.5
+2022,Rajasthan,Bikaner,Maize,30765.0,86142.0,2.8,21535.5,9229.5
+2023,Rajasthan,Bikaner,Maize,30765.0,86142.0,2.8,21535.5,9229.5
+2024,Rajasthan,Bikaner,Maize,30765.0,86142.0,2.8,21535.5,9229.5
+2019,Rajasthan,Bikaner,Groundnut,30770.4,43078.6,1.4,21539.3,9231.1
+2020,Rajasthan,Bikaner,Groundnut,30770.4,43078.6,1.4,21539.3,9231.1
+2021,Rajasthan,Bikaner,Groundnut,30770.4,43078.6,1.4,21539.3,9231.1
+2022,Rajasthan,Bikaner,Groundnut,30770.4,43078.6,1.4,21539.3,9231.1
+2023,Rajasthan,Bikaner,Groundnut,30770.4,43078.6,1.4,21539.3,9231.1
+2024,Rajasthan,Bikaner,Groundnut,30770.4,43078.6,1.4,21539.3,9231.1
+2019,Rajasthan,Bikaner,Onion,3508.4,63151.2,18.0,2455.9,1052.5
+2020,Rajasthan,Bikaner,Onion,3508.4,63151.2,18.0,2455.9,1052.5
+2021,Rajasthan,Bikaner,Onion,3508.4,63151.2,18.0,2455.9,1052.5
+2022,Rajasthan,Bikaner,Onion,3508.4,63151.2,18.0,2455.9,1052.5
+2023,Rajasthan,Bikaner,Onion,3508.4,63151.2,18.0,2455.9,1052.5
+2024,Rajasthan,Bikaner,Onion,3508.4,63151.2,18.0,2455.9,1052.5
+2019,Rajasthan,Udaipur,Rice,31814.4,79536.0,2.5,22270.1,9544.3
+2020,Rajasthan,Udaipur,Rice,31814.4,79536.0,2.5,22270.1,9544.3
+2021,Rajasthan,Udaipur,Rice,31814.4,79536.0,2.5,22270.1,9544.3
+2022,Rajasthan,Udaipur,Rice,31814.4,79536.0,2.5,22270.1,9544.3
+2023,Rajasthan,Udaipur,Rice,31814.4,79536.0,2.5,22270.1,9544.3
+2024,Rajasthan,Udaipur,Rice,31814.4,79536.0,2.5,22270.1,9544.3
+2019,Rajasthan,Udaipur,Wheat,22081.0,70659.2,3.2,15456.7,6624.3
+2020,Rajasthan,Udaipur,Wheat,22081.0,70659.2,3.2,15456.7,6624.3
+2021,Rajasthan,Udaipur,Wheat,22081.0,70659.2,3.2,15456.7,6624.3
+2022,Rajasthan,Udaipur,Wheat,22081.0,70659.2,3.2,15456.7,6624.3
+2023,Rajasthan,Udaipur,Wheat,22081.0,70659.2,3.2,15456.7,6624.3
+2024,Rajasthan,Udaipur,Wheat,22081.0,70659.2,3.2,15456.7,6624.3
+2019,Rajasthan,Udaipur,Cotton,21917.6,10958.8,0.5,15342.3,6575.3
+2020,Rajasthan,Udaipur,Cotton,21917.6,10958.8,0.5,15342.3,6575.3
+2021,Rajasthan,Udaipur,Cotton,21917.6,10958.8,0.5,15342.3,6575.3
+2022,Rajasthan,Udaipur,Cotton,21917.6,10958.8,0.5,15342.3,6575.3
+2023,Rajasthan,Udaipur,Cotton,21917.6,10958.8,0.5,15342.3,6575.3
+2024,Rajasthan,Udaipur,Cotton,21917.6,10958.8,0.5,15342.3,6575.3
+2019,Rajasthan,Udaipur,Sugarcane,9958.8,697116.0,70.0,6971.2,2987.6
+2020,Rajasthan,Udaipur,Sugarcane,9958.8,697116.0,70.0,6971.2,2987.6
+2021,Rajasthan,Udaipur,Sugarcane,9958.8,697116.0,70.0,6971.2,2987.6
+2022,Rajasthan,Udaipur,Sugarcane,9958.8,697116.0,70.0,6971.2,2987.6
+2023,Rajasthan,Udaipur,Sugarcane,9958.8,697116.0,70.0,6971.2,2987.6
+2024,Rajasthan,Udaipur,Sugarcane,9958.8,697116.0,70.0,6971.2,2987.6
+2019,Rajasthan,Udaipur,Soybean,41460.3,45606.3,1.1,29022.2,12438.1
+2020,Rajasthan,Udaipur,Soybean,41460.3,45606.3,1.1,29022.2,12438.1
+2021,Rajasthan,Udaipur,Soybean,41460.3,45606.3,1.1,29022.2,12438.1
+2022,Rajasthan,Udaipur,Soybean,41460.3,45606.3,1.1,29022.2,12438.1
+2023,Rajasthan,Udaipur,Soybean,41460.3,45606.3,1.1,29022.2,12438.1
+2024,Rajasthan,Udaipur,Soybean,41460.3,45606.3,1.1,29022.2,12438.1
+2019,Rajasthan,Udaipur,Maize,19932.5,55811.0,2.8,13952.8,5979.8
+2020,Rajasthan,Udaipur,Maize,19932.5,55811.0,2.8,13952.8,5979.8
+2021,Rajasthan,Udaipur,Maize,19932.5,55811.0,2.8,13952.8,5979.8
+2022,Rajasthan,Udaipur,Maize,19932.5,55811.0,2.8,13952.8,5979.8
+2023,Rajasthan,Udaipur,Maize,19932.5,55811.0,2.8,13952.8,5979.8
+2024,Rajasthan,Udaipur,Maize,19932.5,55811.0,2.8,13952.8,5979.8
+2019,Rajasthan,Udaipur,Groundnut,10557.0,14779.8,1.4,7389.9,3167.1
+2020,Rajasthan,Udaipur,Groundnut,10557.0,14779.8,1.4,7389.9,3167.1
+2021,Rajasthan,Udaipur,Groundnut,10557.0,14779.8,1.4,7389.9,3167.1
+2022,Rajasthan,Udaipur,Groundnut,10557.0,14779.8,1.4,7389.9,3167.1
+2023,Rajasthan,Udaipur,Groundnut,10557.0,14779.8,1.4,7389.9,3167.1
+2024,Rajasthan,Udaipur,Groundnut,10557.0,14779.8,1.4,7389.9,3167.1
+2019,Rajasthan,Udaipur,Onion,4705.0,84690.0,18.0,3293.5,1411.5
+2020,Rajasthan,Udaipur,Onion,4705.0,84690.0,18.0,3293.5,1411.5
+2021,Rajasthan,Udaipur,Onion,4705.0,84690.0,18.0,3293.5,1411.5
+2022,Rajasthan,Udaipur,Onion,4705.0,84690.0,18.0,3293.5,1411.5
+2023,Rajasthan,Udaipur,Onion,4705.0,84690.0,18.0,3293.5,1411.5
+2024,Rajasthan,Udaipur,Onion,4705.0,84690.0,18.0,3293.5,1411.5
+2019,Madhya Pradesh,Indore,Rice,65163.6,162909.0,2.5,45614.5,19549.1
+2020,Madhya Pradesh,Indore,Rice,65163.6,162909.0,2.5,45614.5,19549.1
+2021,Madhya Pradesh,Indore,Rice,65163.6,162909.0,2.5,45614.5,19549.1
+2022,Madhya Pradesh,Indore,Rice,65163.6,162909.0,2.5,45614.5,19549.1
+2023,Madhya Pradesh,Indore,Rice,65163.6,162909.0,2.5,45614.5,19549.1
+2024,Madhya Pradesh,Indore,Rice,65163.6,162909.0,2.5,45614.5,19549.1
+2019,Madhya Pradesh,Indore,Wheat,27216.0,87091.2,3.2,19051.2,8164.8
+2020,Madhya Pradesh,Indore,Wheat,27216.0,87091.2,3.2,19051.2,8164.8
+2021,Madhya Pradesh,Indore,Wheat,27216.0,87091.2,3.2,19051.2,8164.8
+2022,Madhya Pradesh,Indore,Wheat,27216.0,87091.2,3.2,19051.2,8164.8
+2023,Madhya Pradesh,Indore,Wheat,27216.0,87091.2,3.2,19051.2,8164.8
+2024,Madhya Pradesh,Indore,Wheat,27216.0,87091.2,3.2,19051.2,8164.8
+2019,Madhya Pradesh,Indore,Cotton,33057.6,16528.8,0.5,23140.3,9917.3
+2020,Madhya Pradesh,Indore,Cotton,33057.6,16528.8,0.5,23140.3,9917.3
+2021,Madhya Pradesh,Indore,Cotton,33057.6,16528.8,0.5,23140.3,9917.3
+2022,Madhya Pradesh,Indore,Cotton,33057.6,16528.8,0.5,23140.3,9917.3
+2023,Madhya Pradesh,Indore,Cotton,33057.6,16528.8,0.5,23140.3,9917.3
+2024,Madhya Pradesh,Indore,Cotton,33057.6,16528.8,0.5,23140.3,9917.3
+2019,Madhya Pradesh,Indore,Sugarcane,5894.7,412629.0,70.0,4126.3,1768.4
+2020,Madhya Pradesh,Indore,Sugarcane,5894.7,412629.0,70.0,4126.3,1768.4
+2021,Madhya Pradesh,Indore,Sugarcane,5894.7,412629.0,70.0,4126.3,1768.4
+2022,Madhya Pradesh,Indore,Sugarcane,5894.7,412629.0,70.0,4126.3,1768.4
+2023,Madhya Pradesh,Indore,Sugarcane,5894.7,412629.0,70.0,4126.3,1768.4
+2024,Madhya Pradesh,Indore,Sugarcane,5894.7,412629.0,70.0,4126.3,1768.4
+2019,Madhya Pradesh,Indore,Soybean,25546.5,28101.2,1.1,17882.5,7663.9
+2020,Madhya Pradesh,Indore,Soybean,25546.5,28101.2,1.1,17882.5,7663.9
+2021,Madhya Pradesh,Indore,Soybean,25546.5,28101.2,1.1,17882.5,7663.9
+2022,Madhya Pradesh,Indore,Soybean,25546.5,28101.2,1.1,17882.5,7663.9
+2023,Madhya Pradesh,Indore,Soybean,25546.5,28101.2,1.1,17882.5,7663.9
+2024,Madhya Pradesh,Indore,Soybean,25546.5,28101.2,1.1,17882.5,7663.9
+2019,Madhya Pradesh,Indore,Maize,26301.8,73645.0,2.8,18411.3,7890.5
+2020,Madhya Pradesh,Indore,Maize,26301.8,73645.0,2.8,18411.3,7890.5
+2021,Madhya Pradesh,Indore,Maize,26301.8,73645.0,2.8,18411.3,7890.5
+2022,Madhya Pradesh,Indore,Maize,26301.8,73645.0,2.8,18411.3,7890.5
+2023,Madhya Pradesh,Indore,Maize,26301.8,73645.0,2.8,18411.3,7890.5
+2024,Madhya Pradesh,Indore,Maize,26301.8,73645.0,2.8,18411.3,7890.5
+2019,Madhya Pradesh,Indore,Groundnut,16661.4,23326.0,1.4,11663.0,4998.4
+2020,Madhya Pradesh,Indore,Groundnut,16661.4,23326.0,1.4,11663.0,4998.4
+2021,Madhya Pradesh,Indore,Groundnut,16661.4,23326.0,1.4,11663.0,4998.4
+2022,Madhya Pradesh,Indore,Groundnut,16661.4,23326.0,1.4,11663.0,4998.4
+2023,Madhya Pradesh,Indore,Groundnut,16661.4,23326.0,1.4,11663.0,4998.4
+2024,Madhya Pradesh,Indore,Groundnut,16661.4,23326.0,1.4,11663.0,4998.4
+2019,Madhya Pradesh,Indore,Onion,9241.2,166341.6,18.0,6468.8,2772.4
+2020,Madhya Pradesh,Indore,Onion,9241.2,166341.6,18.0,6468.8,2772.4
+2021,Madhya Pradesh,Indore,Onion,9241.2,166341.6,18.0,6468.8,2772.4
+2022,Madhya Pradesh,Indore,Onion,9241.2,166341.6,18.0,6468.8,2772.4
+2023,Madhya Pradesh,Indore,Onion,9241.2,166341.6,18.0,6468.8,2772.4
+2024,Madhya Pradesh,Indore,Onion,9241.2,166341.6,18.0,6468.8,2772.4
+2019,Madhya Pradesh,Bhopal,Rice,48777.6,121944.0,2.5,34144.3,14633.3
+2020,Madhya Pradesh,Bhopal,Rice,48777.6,121944.0,2.5,34144.3,14633.3
+2021,Madhya Pradesh,Bhopal,Rice,48777.6,121944.0,2.5,34144.3,14633.3
+2022,Madhya Pradesh,Bhopal,Rice,48777.6,121944.0,2.5,34144.3,14633.3
+2023,Madhya Pradesh,Bhopal,Rice,48777.6,121944.0,2.5,34144.3,14633.3
+2024,Madhya Pradesh,Bhopal,Rice,48777.6,121944.0,2.5,34144.3,14633.3
+2019,Madhya Pradesh,Bhopal,Wheat,43405.0,138896.0,3.2,30383.5,13021.5
+2020,Madhya Pradesh,Bhopal,Wheat,43405.0,138896.0,3.2,30383.5,13021.5
+2021,Madhya Pradesh,Bhopal,Wheat,43405.0,138896.0,3.2,30383.5,13021.5
+2022,Madhya Pradesh,Bhopal,Wheat,43405.0,138896.0,3.2,30383.5,13021.5
+2023,Madhya Pradesh,Bhopal,Wheat,43405.0,138896.0,3.2,30383.5,13021.5
+2024,Madhya Pradesh,Bhopal,Wheat,43405.0,138896.0,3.2,30383.5,13021.5
+2019,Madhya Pradesh,Bhopal,Cotton,34628.8,17314.4,0.5,24240.2,10388.6
+2020,Madhya Pradesh,Bhopal,Cotton,34628.8,17314.4,0.5,24240.2,10388.6
+2021,Madhya Pradesh,Bhopal,Cotton,34628.8,17314.4,0.5,24240.2,10388.6
+2022,Madhya Pradesh,Bhopal,Cotton,34628.8,17314.4,0.5,24240.2,10388.6
+2023,Madhya Pradesh,Bhopal,Cotton,34628.8,17314.4,0.5,24240.2,10388.6
+2024,Madhya Pradesh,Bhopal,Cotton,34628.8,17314.4,0.5,24240.2,10388.6
+2019,Madhya Pradesh,Bhopal,Sugarcane,8910.3,623721.0,70.0,6237.2,2673.1
+2020,Madhya Pradesh,Bhopal,Sugarcane,8910.3,623721.0,70.0,6237.2,2673.1
+2021,Madhya Pradesh,Bhopal,Sugarcane,8910.3,623721.0,70.0,6237.2,2673.1
+2022,Madhya Pradesh,Bhopal,Sugarcane,8910.3,623721.0,70.0,6237.2,2673.1
+2023,Madhya Pradesh,Bhopal,Sugarcane,8910.3,623721.0,70.0,6237.2,2673.1
+2024,Madhya Pradesh,Bhopal,Sugarcane,8910.3,623721.0,70.0,6237.2,2673.1
+2019,Madhya Pradesh,Bhopal,Soybean,41227.2,45349.9,1.1,28859.0,12368.2
+2020,Madhya Pradesh,Bhopal,Soybean,41227.2,45349.9,1.1,28859.0,12368.2
+2021,Madhya Pradesh,Bhopal,Soybean,41227.2,45349.9,1.1,28859.0,12368.2
+2022,Madhya Pradesh,Bhopal,Soybean,41227.2,45349.9,1.1,28859.0,12368.2
+2023,Madhya Pradesh,Bhopal,Soybean,41227.2,45349.9,1.1,28859.0,12368.2
+2024,Madhya Pradesh,Bhopal,Soybean,41227.2,45349.9,1.1,28859.0,12368.2
+2019,Madhya Pradesh,Bhopal,Maize,23840.6,66753.7,2.8,16688.4,7152.2
+2020,Madhya Pradesh,Bhopal,Maize,23840.6,66753.7,2.8,16688.4,7152.2
+2021,Madhya Pradesh,Bhopal,Maize,23840.6,66753.7,2.8,16688.4,7152.2
+2022,Madhya Pradesh,Bhopal,Maize,23840.6,66753.7,2.8,16688.4,7152.2
+2023,Madhya Pradesh,Bhopal,Maize,23840.6,66753.7,2.8,16688.4,7152.2
+2024,Madhya Pradesh,Bhopal,Maize,23840.6,66753.7,2.8,16688.4,7152.2
+2019,Madhya Pradesh,Bhopal,Groundnut,9224.4,12914.2,1.4,6457.1,2767.3
+2020,Madhya Pradesh,Bhopal,Groundnut,9224.4,12914.2,1.4,6457.1,2767.3
+2021,Madhya Pradesh,Bhopal,Groundnut,9224.4,12914.2,1.4,6457.1,2767.3
+2022,Madhya Pradesh,Bhopal,Groundnut,9224.4,12914.2,1.4,6457.1,2767.3
+2023,Madhya Pradesh,Bhopal,Groundnut,9224.4,12914.2,1.4,6457.1,2767.3
+2024,Madhya Pradesh,Bhopal,Groundnut,9224.4,12914.2,1.4,6457.1,2767.3
+2019,Madhya Pradesh,Bhopal,Onion,3465.2,62373.6,18.0,2425.6,1039.6
+2020,Madhya Pradesh,Bhopal,Onion,3465.2,62373.6,18.0,2425.6,1039.6
+2021,Madhya Pradesh,Bhopal,Onion,3465.2,62373.6,18.0,2425.6,1039.6
+2022,Madhya Pradesh,Bhopal,Onion,3465.2,62373.6,18.0,2425.6,1039.6
+2023,Madhya Pradesh,Bhopal,Onion,3465.2,62373.6,18.0,2425.6,1039.6
+2024,Madhya Pradesh,Bhopal,Onion,3465.2,62373.6,18.0,2425.6,1039.6
+2019,Madhya Pradesh,Jabalpur,Rice,51738.0,129345.0,2.5,36216.6,15521.4
+2020,Madhya Pradesh,Jabalpur,Rice,51738.0,129345.0,2.5,36216.6,15521.4
+2021,Madhya Pradesh,Jabalpur,Rice,51738.0,129345.0,2.5,36216.6,15521.4
+2022,Madhya Pradesh,Jabalpur,Rice,51738.0,129345.0,2.5,36216.6,15521.4
+2023,Madhya Pradesh,Jabalpur,Rice,51738.0,129345.0,2.5,36216.6,15521.4
+2024,Madhya Pradesh,Jabalpur,Rice,51738.0,129345.0,2.5,36216.6,15521.4
+2019,Madhya Pradesh,Jabalpur,Wheat,54721.0,175107.2,3.2,38304.7,16416.3
+2020,Madhya Pradesh,Jabalpur,Wheat,54721.0,175107.2,3.2,38304.7,16416.3
+2021,Madhya Pradesh,Jabalpur,Wheat,54721.0,175107.2,3.2,38304.7,16416.3
+2022,Madhya Pradesh,Jabalpur,Wheat,54721.0,175107.2,3.2,38304.7,16416.3
+2023,Madhya Pradesh,Jabalpur,Wheat,54721.0,175107.2,3.2,38304.7,16416.3
+2024,Madhya Pradesh,Jabalpur,Wheat,54721.0,175107.2,3.2,38304.7,16416.3
+2019,Madhya Pradesh,Jabalpur,Cotton,43625.6,21812.8,0.5,30537.9,13087.7
+2020,Madhya Pradesh,Jabalpur,Cotton,43625.6,21812.8,0.5,30537.9,13087.7
+2021,Madhya Pradesh,Jabalpur,Cotton,43625.6,21812.8,0.5,30537.9,13087.7
+2022,Madhya Pradesh,Jabalpur,Cotton,43625.6,21812.8,0.5,30537.9,13087.7
+2023,Madhya Pradesh,Jabalpur,Cotton,43625.6,21812.8,0.5,30537.9,13087.7
+2024,Madhya Pradesh,Jabalpur,Cotton,43625.6,21812.8,0.5,30537.9,13087.7
+2019,Madhya Pradesh,Jabalpur,Sugarcane,9558.6,669102.0,70.0,6691.0,2867.6
+2020,Madhya Pradesh,Jabalpur,Sugarcane,9558.6,669102.0,70.0,6691.0,2867.6
+2021,Madhya Pradesh,Jabalpur,Sugarcane,9558.6,669102.0,70.0,6691.0,2867.6
+2022,Madhya Pradesh,Jabalpur,Sugarcane,9558.6,669102.0,70.0,6691.0,2867.6
+2023,Madhya Pradesh,Jabalpur,Sugarcane,9558.6,669102.0,70.0,6691.0,2867.6
+2024,Madhya Pradesh,Jabalpur,Sugarcane,9558.6,669102.0,70.0,6691.0,2867.6
+2019,Madhya Pradesh,Jabalpur,Soybean,31581.9,34740.1,1.1,22107.3,9474.6
+2020,Madhya Pradesh,Jabalpur,Soybean,31581.9,34740.1,1.1,22107.3,9474.6
+2021,Madhya Pradesh,Jabalpur,Soybean,31581.9,34740.1,1.1,22107.3,9474.6
+2022,Madhya Pradesh,Jabalpur,Soybean,31581.9,34740.1,1.1,22107.3,9474.6
+2023,Madhya Pradesh,Jabalpur,Soybean,31581.9,34740.1,1.1,22107.3,9474.6
+2024,Madhya Pradesh,Jabalpur,Soybean,31581.9,34740.1,1.1,22107.3,9474.6
+2019,Madhya Pradesh,Jabalpur,Maize,39757.2,111320.2,2.8,27830.0,11927.2
+2020,Madhya Pradesh,Jabalpur,Maize,39757.2,111320.2,2.8,27830.0,11927.2
+2021,Madhya Pradesh,Jabalpur,Maize,39757.2,111320.2,2.8,27830.0,11927.2
+2022,Madhya Pradesh,Jabalpur,Maize,39757.2,111320.2,2.8,27830.0,11927.2
+2023,Madhya Pradesh,Jabalpur,Maize,39757.2,111320.2,2.8,27830.0,11927.2
+2024,Madhya Pradesh,Jabalpur,Maize,39757.2,111320.2,2.8,27830.0,11927.2
+2019,Madhya Pradesh,Jabalpur,Groundnut,35950.2,50330.3,1.4,25165.1,10785.1
+2020,Madhya Pradesh,Jabalpur,Groundnut,35950.2,50330.3,1.4,25165.1,10785.1
+2021,Madhya Pradesh,Jabalpur,Groundnut,35950.2,50330.3,1.4,25165.1,10785.1
+2022,Madhya Pradesh,Jabalpur,Groundnut,35950.2,50330.3,1.4,25165.1,10785.1
+2023,Madhya Pradesh,Jabalpur,Groundnut,35950.2,50330.3,1.4,25165.1,10785.1
+2024,Madhya Pradesh,Jabalpur,Groundnut,35950.2,50330.3,1.4,25165.1,10785.1
+2019,Madhya Pradesh,Jabalpur,Onion,10738.8,193298.4,18.0,7517.2,3221.6
+2020,Madhya Pradesh,Jabalpur,Onion,10738.8,193298.4,18.0,7517.2,3221.6
+2021,Madhya Pradesh,Jabalpur,Onion,10738.8,193298.4,18.0,7517.2,3221.6
+2022,Madhya Pradesh,Jabalpur,Onion,10738.8,193298.4,18.0,7517.2,3221.6
+2023,Madhya Pradesh,Jabalpur,Onion,10738.8,193298.4,18.0,7517.2,3221.6
+2024,Madhya Pradesh,Jabalpur,Onion,10738.8,193298.4,18.0,7517.2,3221.6
+2019,Madhya Pradesh,Gwalior,Rice,42285.6,105714.0,2.5,29599.9,12685.7
+2020,Madhya Pradesh,Gwalior,Rice,42285.6,105714.0,2.5,29599.9,12685.7
+2021,Madhya Pradesh,Gwalior,Rice,42285.6,105714.0,2.5,29599.9,12685.7
+2022,Madhya Pradesh,Gwalior,Rice,42285.6,105714.0,2.5,29599.9,12685.7
+2023,Madhya Pradesh,Gwalior,Rice,42285.6,105714.0,2.5,29599.9,12685.7
+2024,Madhya Pradesh,Gwalior,Rice,42285.6,105714.0,2.5,29599.9,12685.7
+2019,Madhya Pradesh,Gwalior,Wheat,22917.0,73334.4,3.2,16041.9,6875.1
+2020,Madhya Pradesh,Gwalior,Wheat,22917.0,73334.4,3.2,16041.9,6875.1
+2021,Madhya Pradesh,Gwalior,Wheat,22917.0,73334.4,3.2,16041.9,6875.1
+2022,Madhya Pradesh,Gwalior,Wheat,22917.0,73334.4,3.2,16041.9,6875.1
+2023,Madhya Pradesh,Gwalior,Wheat,22917.0,73334.4,3.2,16041.9,6875.1
+2024,Madhya Pradesh,Gwalior,Wheat,22917.0,73334.4,3.2,16041.9,6875.1
+2019,Madhya Pradesh,Gwalior,Cotton,45650.4,22825.2,0.5,31955.3,13695.1
+2020,Madhya Pradesh,Gwalior,Cotton,45650.4,22825.2,0.5,31955.3,13695.1
+2021,Madhya Pradesh,Gwalior,Cotton,45650.4,22825.2,0.5,31955.3,13695.1
+2022,Madhya Pradesh,Gwalior,Cotton,45650.4,22825.2,0.5,31955.3,13695.1
+2023,Madhya Pradesh,Gwalior,Cotton,45650.4,22825.2,0.5,31955.3,13695.1
+2024,Madhya Pradesh,Gwalior,Cotton,45650.4,22825.2,0.5,31955.3,13695.1
+2019,Madhya Pradesh,Gwalior,Sugarcane,5470.2,382914.0,70.0,3829.1,1641.1
+2020,Madhya Pradesh,Gwalior,Sugarcane,5470.2,382914.0,70.0,3829.1,1641.1
+2021,Madhya Pradesh,Gwalior,Sugarcane,5470.2,382914.0,70.0,3829.1,1641.1
+2022,Madhya Pradesh,Gwalior,Sugarcane,5470.2,382914.0,70.0,3829.1,1641.1
+2023,Madhya Pradesh,Gwalior,Sugarcane,5470.2,382914.0,70.0,3829.1,1641.1
+2024,Madhya Pradesh,Gwalior,Sugarcane,5470.2,382914.0,70.0,3829.1,1641.1
+2019,Madhya Pradesh,Gwalior,Soybean,53658.0,59023.8,1.1,37560.6,16097.4
+2020,Madhya Pradesh,Gwalior,Soybean,53658.0,59023.8,1.1,37560.6,16097.4
+2021,Madhya Pradesh,Gwalior,Soybean,53658.0,59023.8,1.1,37560.6,16097.4
+2022,Madhya Pradesh,Gwalior,Soybean,53658.0,59023.8,1.1,37560.6,16097.4
+2023,Madhya Pradesh,Gwalior,Soybean,53658.0,59023.8,1.1,37560.6,16097.4
+2024,Madhya Pradesh,Gwalior,Soybean,53658.0,59023.8,1.1,37560.6,16097.4
+2019,Madhya Pradesh,Gwalior,Maize,10266.9,28747.3,2.8,7186.8,3080.1
+2020,Madhya Pradesh,Gwalior,Maize,10266.9,28747.3,2.8,7186.8,3080.1
+2021,Madhya Pradesh,Gwalior,Maize,10266.9,28747.3,2.8,7186.8,3080.1
+2022,Madhya Pradesh,Gwalior,Maize,10266.9,28747.3,2.8,7186.8,3080.1
+2023,Madhya Pradesh,Gwalior,Maize,10266.9,28747.3,2.8,7186.8,3080.1
+2024,Madhya Pradesh,Gwalior,Maize,10266.9,28747.3,2.8,7186.8,3080.1
+2019,Madhya Pradesh,Gwalior,Groundnut,10678.8,14950.3,1.4,7475.2,3203.6
+2020,Madhya Pradesh,Gwalior,Groundnut,10678.8,14950.3,1.4,7475.2,3203.6
+2021,Madhya Pradesh,Gwalior,Groundnut,10678.8,14950.3,1.4,7475.2,3203.6
+2022,Madhya Pradesh,Gwalior,Groundnut,10678.8,14950.3,1.4,7475.2,3203.6
+2023,Madhya Pradesh,Gwalior,Groundnut,10678.8,14950.3,1.4,7475.2,3203.6
+2024,Madhya Pradesh,Gwalior,Groundnut,10678.8,14950.3,1.4,7475.2,3203.6
+2019,Madhya Pradesh,Gwalior,Onion,7300.0,131400.0,18.0,5110.0,2190.0
+2020,Madhya Pradesh,Gwalior,Onion,7300.0,131400.0,18.0,5110.0,2190.0
+2021,Madhya Pradesh,Gwalior,Onion,7300.0,131400.0,18.0,5110.0,2190.0
+2022,Madhya Pradesh,Gwalior,Onion,7300.0,131400.0,18.0,5110.0,2190.0
+2023,Madhya Pradesh,Gwalior,Onion,7300.0,131400.0,18.0,5110.0,2190.0
+2024,Madhya Pradesh,Gwalior,Onion,7300.0,131400.0,18.0,5110.0,2190.0
+2019,Madhya Pradesh,Ujjain,Rice,17427.6,43569.0,2.5,12199.3,5228.3
+2020,Madhya Pradesh,Ujjain,Rice,17427.6,43569.0,2.5,12199.3,5228.3
+2021,Madhya Pradesh,Ujjain,Rice,17427.6,43569.0,2.5,12199.3,5228.3
+2022,Madhya Pradesh,Ujjain,Rice,17427.6,43569.0,2.5,12199.3,5228.3
+2023,Madhya Pradesh,Ujjain,Rice,17427.6,43569.0,2.5,12199.3,5228.3
+2024,Madhya Pradesh,Ujjain,Rice,17427.6,43569.0,2.5,12199.3,5228.3
+2019,Madhya Pradesh,Ujjain,Wheat,46334.0,148268.8,3.2,32433.8,13900.2
+2020,Madhya Pradesh,Ujjain,Wheat,46334.0,148268.8,3.2,32433.8,13900.2
+2021,Madhya Pradesh,Ujjain,Wheat,46334.0,148268.8,3.2,32433.8,13900.2
+2022,Madhya Pradesh,Ujjain,Wheat,46334.0,148268.8,3.2,32433.8,13900.2
+2023,Madhya Pradesh,Ujjain,Wheat,46334.0,148268.8,3.2,32433.8,13900.2
+2024,Madhya Pradesh,Ujjain,Wheat,46334.0,148268.8,3.2,32433.8,13900.2
+2019,Madhya Pradesh,Ujjain,Cotton,8264.0,4132.0,0.5,5784.8,2479.2
+2020,Madhya Pradesh,Ujjain,Cotton,8264.0,4132.0,0.5,5784.8,2479.2
+2021,Madhya Pradesh,Ujjain,Cotton,8264.0,4132.0,0.5,5784.8,2479.2
+2022,Madhya Pradesh,Ujjain,Cotton,8264.0,4132.0,0.5,5784.8,2479.2
+2023,Madhya Pradesh,Ujjain,Cotton,8264.0,4132.0,0.5,5784.8,2479.2
+2024,Madhya Pradesh,Ujjain,Cotton,8264.0,4132.0,0.5,5784.8,2479.2
+2019,Madhya Pradesh,Ujjain,Sugarcane,8416.5,589155.0,70.0,5891.5,2524.9
+2020,Madhya Pradesh,Ujjain,Sugarcane,8416.5,589155.0,70.0,5891.5,2524.9
+2021,Madhya Pradesh,Ujjain,Sugarcane,8416.5,589155.0,70.0,5891.5,2524.9
+2022,Madhya Pradesh,Ujjain,Sugarcane,8416.5,589155.0,70.0,5891.5,2524.9
+2023,Madhya Pradesh,Ujjain,Sugarcane,8416.5,589155.0,70.0,5891.5,2524.9
+2024,Madhya Pradesh,Ujjain,Sugarcane,8416.5,589155.0,70.0,5891.5,2524.9
+2019,Madhya Pradesh,Ujjain,Soybean,29740.5,32714.6,1.1,20818.3,8922.1
+2020,Madhya Pradesh,Ujjain,Soybean,29740.5,32714.6,1.1,20818.3,8922.1
+2021,Madhya Pradesh,Ujjain,Soybean,29740.5,32714.6,1.1,20818.3,8922.1
+2022,Madhya Pradesh,Ujjain,Soybean,29740.5,32714.6,1.1,20818.3,8922.1
+2023,Madhya Pradesh,Ujjain,Soybean,29740.5,32714.6,1.1,20818.3,8922.1
+2024,Madhya Pradesh,Ujjain,Soybean,29740.5,32714.6,1.1,20818.3,8922.1
+2019,Madhya Pradesh,Ujjain,Maize,7572.6,21203.3,2.8,5300.8,2271.8
+2020,Madhya Pradesh,Ujjain,Maize,7572.6,21203.3,2.8,5300.8,2271.8
+2021,Madhya Pradesh,Ujjain,Maize,7572.6,21203.3,2.8,5300.8,2271.8
+2022,Madhya Pradesh,Ujjain,Maize,7572.6,21203.3,2.8,5300.8,2271.8
+2023,Madhya Pradesh,Ujjain,Maize,7572.6,21203.3,2.8,5300.8,2271.8
+2024,Madhya Pradesh,Ujjain,Maize,7572.6,21203.3,2.8,5300.8,2271.8
+2019,Madhya Pradesh,Ujjain,Groundnut,6396.6,8955.2,1.4,4477.6,1919.0
+2020,Madhya Pradesh,Ujjain,Groundnut,6396.6,8955.2,1.4,4477.6,1919.0
+2021,Madhya Pradesh,Ujjain,Groundnut,6396.6,8955.2,1.4,4477.6,1919.0
+2022,Madhya Pradesh,Ujjain,Groundnut,6396.6,8955.2,1.4,4477.6,1919.0
+2023,Madhya Pradesh,Ujjain,Groundnut,6396.6,8955.2,1.4,4477.6,1919.0
+2024,Madhya Pradesh,Ujjain,Groundnut,6396.6,8955.2,1.4,4477.6,1919.0
+2019,Madhya Pradesh,Ujjain,Onion,3282.4,59083.2,18.0,2297.7,984.7
+2020,Madhya Pradesh,Ujjain,Onion,3282.4,59083.2,18.0,2297.7,984.7
+2021,Madhya Pradesh,Ujjain,Onion,3282.4,59083.2,18.0,2297.7,984.7
+2022,Madhya Pradesh,Ujjain,Onion,3282.4,59083.2,18.0,2297.7,984.7
+2023,Madhya Pradesh,Ujjain,Onion,3282.4,59083.2,18.0,2297.7,984.7
+2024,Madhya Pradesh,Ujjain,Onion,3282.4,59083.2,18.0,2297.7,984.7
+2019,Karnataka,Bangalore,Rice,60691.2,151728.0,2.5,42483.8,18207.4
+2020,Karnataka,Bangalore,Rice,60691.2,151728.0,2.5,42483.8,18207.4
+2021,Karnataka,Bangalore,Rice,60691.2,151728.0,2.5,42483.8,18207.4
+2022,Karnataka,Bangalore,Rice,60691.2,151728.0,2.5,42483.8,18207.4
+2023,Karnataka,Bangalore,Rice,60691.2,151728.0,2.5,42483.8,18207.4
+2024,Karnataka,Bangalore,Rice,60691.2,151728.0,2.5,42483.8,18207.4
+2019,Karnataka,Bangalore,Wheat,45736.0,146355.2,3.2,32015.2,13720.8
+2020,Karnataka,Bangalore,Wheat,45736.0,146355.2,3.2,32015.2,13720.8
+2021,Karnataka,Bangalore,Wheat,45736.0,146355.2,3.2,32015.2,13720.8
+2022,Karnataka,Bangalore,Wheat,45736.0,146355.2,3.2,32015.2,13720.8
+2023,Karnataka,Bangalore,Wheat,45736.0,146355.2,3.2,32015.2,13720.8
+2024,Karnataka,Bangalore,Wheat,45736.0,146355.2,3.2,32015.2,13720.8
+2019,Karnataka,Bangalore,Cotton,13082.4,6541.2,0.5,9157.7,3924.7
+2020,Karnataka,Bangalore,Cotton,13082.4,6541.2,0.5,9157.7,3924.7
+2021,Karnataka,Bangalore,Cotton,13082.4,6541.2,0.5,9157.7,3924.7
+2022,Karnataka,Bangalore,Cotton,13082.4,6541.2,0.5,9157.7,3924.7
+2023,Karnataka,Bangalore,Cotton,13082.4,6541.2,0.5,9157.7,3924.7
+2024,Karnataka,Bangalore,Cotton,13082.4,6541.2,0.5,9157.7,3924.7
+2019,Karnataka,Bangalore,Sugarcane,11596.5,811755.0,70.0,8117.5,3478.9
+2020,Karnataka,Bangalore,Sugarcane,11596.5,811755.0,70.0,8117.5,3478.9
+2021,Karnataka,Bangalore,Sugarcane,11596.5,811755.0,70.0,8117.5,3478.9
+2022,Karnataka,Bangalore,Sugarcane,11596.5,811755.0,70.0,8117.5,3478.9
+2023,Karnataka,Bangalore,Sugarcane,11596.5,811755.0,70.0,8117.5,3478.9
+2024,Karnataka,Bangalore,Sugarcane,11596.5,811755.0,70.0,8117.5,3478.9
+2019,Karnataka,Bangalore,Soybean,45202.5,49722.8,1.1,31641.7,13560.8
+2020,Karnataka,Bangalore,Soybean,45202.5,49722.8,1.1,31641.7,13560.8
+2021,Karnataka,Bangalore,Soybean,45202.5,49722.8,1.1,31641.7,13560.8
+2022,Karnataka,Bangalore,Soybean,45202.5,49722.8,1.1,31641.7,13560.8
+2023,Karnataka,Bangalore,Soybean,45202.5,49722.8,1.1,31641.7,13560.8
+2024,Karnataka,Bangalore,Soybean,45202.5,49722.8,1.1,31641.7,13560.8
+2019,Karnataka,Bangalore,Maize,11582.2,32430.2,2.8,8107.5,3474.7
+2020,Karnataka,Bangalore,Maize,11582.2,32430.2,2.8,8107.5,3474.7
+2021,Karnataka,Bangalore,Maize,11582.2,32430.2,2.8,8107.5,3474.7
+2022,Karnataka,Bangalore,Maize,11582.2,32430.2,2.8,8107.5,3474.7
+2023,Karnataka,Bangalore,Maize,11582.2,32430.2,2.8,8107.5,3474.7
+2024,Karnataka,Bangalore,Maize,11582.2,32430.2,2.8,8107.5,3474.7
+2019,Karnataka,Bangalore,Groundnut,12586.2,17620.7,1.4,8810.3,3775.9
+2020,Karnataka,Bangalore,Groundnut,12586.2,17620.7,1.4,8810.3,3775.9
+2021,Karnataka,Bangalore,Groundnut,12586.2,17620.7,1.4,8810.3,3775.9
+2022,Karnataka,Bangalore,Groundnut,12586.2,17620.7,1.4,8810.3,3775.9
+2023,Karnataka,Bangalore,Groundnut,12586.2,17620.7,1.4,8810.3,3775.9
+2024,Karnataka,Bangalore,Groundnut,12586.2,17620.7,1.4,8810.3,3775.9
+2019,Karnataka,Bangalore,Onion,8417.6,151516.8,18.0,5892.3,2525.3
+2020,Karnataka,Bangalore,Onion,8417.6,151516.8,18.0,5892.3,2525.3
+2021,Karnataka,Bangalore,Onion,8417.6,151516.8,18.0,5892.3,2525.3
+2022,Karnataka,Bangalore,Onion,8417.6,151516.8,18.0,5892.3,2525.3
+2023,Karnataka,Bangalore,Onion,8417.6,151516.8,18.0,5892.3,2525.3
+2024,Karnataka,Bangalore,Onion,8417.6,151516.8,18.0,5892.3,2525.3
+2019,Karnataka,Mysore,Rice,14714.4,36786.0,2.5,10300.1,4414.3
+2020,Karnataka,Mysore,Rice,14714.4,36786.0,2.5,10300.1,4414.3
+2021,Karnataka,Mysore,Rice,14714.4,36786.0,2.5,10300.1,4414.3
+2022,Karnataka,Mysore,Rice,14714.4,36786.0,2.5,10300.1,4414.3
+2023,Karnataka,Mysore,Rice,14714.4,36786.0,2.5,10300.1,4414.3
+2024,Karnataka,Mysore,Rice,14714.4,36786.0,2.5,10300.1,4414.3
+2019,Karnataka,Mysore,Wheat,22063.0,70601.6,3.2,15444.1,6618.9
+2020,Karnataka,Mysore,Wheat,22063.0,70601.6,3.2,15444.1,6618.9
+2021,Karnataka,Mysore,Wheat,22063.0,70601.6,3.2,15444.1,6618.9
+2022,Karnataka,Mysore,Wheat,22063.0,70601.6,3.2,15444.1,6618.9
+2023,Karnataka,Mysore,Wheat,22063.0,70601.6,3.2,15444.1,6618.9
+2024,Karnataka,Mysore,Wheat,22063.0,70601.6,3.2,15444.1,6618.9
+2019,Karnataka,Mysore,Cotton,23788.0,11894.0,0.5,16651.6,7136.4
+2020,Karnataka,Mysore,Cotton,23788.0,11894.0,0.5,16651.6,7136.4
+2021,Karnataka,Mysore,Cotton,23788.0,11894.0,0.5,16651.6,7136.4
+2022,Karnataka,Mysore,Cotton,23788.0,11894.0,0.5,16651.6,7136.4
+2023,Karnataka,Mysore,Cotton,23788.0,11894.0,0.5,16651.6,7136.4
+2024,Karnataka,Mysore,Cotton,23788.0,11894.0,0.5,16651.6,7136.4
+2019,Karnataka,Mysore,Sugarcane,13135.2,919464.0,70.0,9194.6,3940.6
+2020,Karnataka,Mysore,Sugarcane,13135.2,919464.0,70.0,9194.6,3940.6
+2021,Karnataka,Mysore,Sugarcane,13135.2,919464.0,70.0,9194.6,3940.6
+2022,Karnataka,Mysore,Sugarcane,13135.2,919464.0,70.0,9194.6,3940.6
+2023,Karnataka,Mysore,Sugarcane,13135.2,919464.0,70.0,9194.6,3940.6
+2024,Karnataka,Mysore,Sugarcane,13135.2,919464.0,70.0,9194.6,3940.6
+2019,Karnataka,Mysore,Soybean,28088.1,30896.9,1.1,19661.7,8426.4
+2020,Karnataka,Mysore,Soybean,28088.1,30896.9,1.1,19661.7,8426.4
+2021,Karnataka,Mysore,Soybean,28088.1,30896.9,1.1,19661.7,8426.4
+2022,Karnataka,Mysore,Soybean,28088.1,30896.9,1.1,19661.7,8426.4
+2023,Karnataka,Mysore,Soybean,28088.1,30896.9,1.1,19661.7,8426.4
+2024,Karnataka,Mysore,Soybean,28088.1,30896.9,1.1,19661.7,8426.4
+2019,Karnataka,Mysore,Maize,29821.4,83499.9,2.8,20875.0,8946.4
+2020,Karnataka,Mysore,Maize,29821.4,83499.9,2.8,20875.0,8946.4
+2021,Karnataka,Mysore,Maize,29821.4,83499.9,2.8,20875.0,8946.4
+2022,Karnataka,Mysore,Maize,29821.4,83499.9,2.8,20875.0,8946.4
+2023,Karnataka,Mysore,Maize,29821.4,83499.9,2.8,20875.0,8946.4
+2024,Karnataka,Mysore,Maize,29821.4,83499.9,2.8,20875.0,8946.4
+2019,Karnataka,Mysore,Groundnut,20135.4,28189.6,1.4,14094.8,6040.6
+2020,Karnataka,Mysore,Groundnut,20135.4,28189.6,1.4,14094.8,6040.6
+2021,Karnataka,Mysore,Groundnut,20135.4,28189.6,1.4,14094.8,6040.6
+2022,Karnataka,Mysore,Groundnut,20135.4,28189.6,1.4,14094.8,6040.6
+2023,Karnataka,Mysore,Groundnut,20135.4,28189.6,1.4,14094.8,6040.6
+2024,Karnataka,Mysore,Groundnut,20135.4,28189.6,1.4,14094.8,6040.6
+2019,Karnataka,Mysore,Onion,9743.6,175384.8,18.0,6820.5,2923.1
+2020,Karnataka,Mysore,Onion,9743.6,175384.8,18.0,6820.5,2923.1
+2021,Karnataka,Mysore,Onion,9743.6,175384.8,18.0,6820.5,2923.1
+2022,Karnataka,Mysore,Onion,9743.6,175384.8,18.0,6820.5,2923.1
+2023,Karnataka,Mysore,Onion,9743.6,175384.8,18.0,6820.5,2923.1
+2024,Karnataka,Mysore,Onion,9743.6,175384.8,18.0,6820.5,2923.1
+2019,Karnataka,Hubli,Rice,20814.0,52035.0,2.5,14569.8,6244.2
+2020,Karnataka,Hubli,Rice,20814.0,52035.0,2.5,14569.8,6244.2
+2021,Karnataka,Hubli,Rice,20814.0,52035.0,2.5,14569.8,6244.2
+2022,Karnataka,Hubli,Rice,20814.0,52035.0,2.5,14569.8,6244.2
+2023,Karnataka,Hubli,Rice,20814.0,52035.0,2.5,14569.8,6244.2
+2024,Karnataka,Hubli,Rice,20814.0,52035.0,2.5,14569.8,6244.2
+2019,Karnataka,Hubli,Wheat,56089.0,179484.8,3.2,39262.3,16826.7
+2020,Karnataka,Hubli,Wheat,56089.0,179484.8,3.2,39262.3,16826.7
+2021,Karnataka,Hubli,Wheat,56089.0,179484.8,3.2,39262.3,16826.7
+2022,Karnataka,Hubli,Wheat,56089.0,179484.8,3.2,39262.3,16826.7
+2023,Karnataka,Hubli,Wheat,56089.0,179484.8,3.2,39262.3,16826.7
+2024,Karnataka,Hubli,Wheat,56089.0,179484.8,3.2,39262.3,16826.7
+2019,Karnataka,Hubli,Cotton,32080.8,16040.4,0.5,22456.6,9624.2
+2020,Karnataka,Hubli,Cotton,32080.8,16040.4,0.5,22456.6,9624.2
+2021,Karnataka,Hubli,Cotton,32080.8,16040.4,0.5,22456.6,9624.2
+2022,Karnataka,Hubli,Cotton,32080.8,16040.4,0.5,22456.6,9624.2
+2023,Karnataka,Hubli,Cotton,32080.8,16040.4,0.5,22456.6,9624.2
+2024,Karnataka,Hubli,Cotton,32080.8,16040.4,0.5,22456.6,9624.2
+2019,Karnataka,Hubli,Sugarcane,11415.6,799092.0,70.0,7990.9,3424.7
+2020,Karnataka,Hubli,Sugarcane,11415.6,799092.0,70.0,7990.9,3424.7
+2021,Karnataka,Hubli,Sugarcane,11415.6,799092.0,70.0,7990.9,3424.7
+2022,Karnataka,Hubli,Sugarcane,11415.6,799092.0,70.0,7990.9,3424.7
+2023,Karnataka,Hubli,Sugarcane,11415.6,799092.0,70.0,7990.9,3424.7
+2024,Karnataka,Hubli,Sugarcane,11415.6,799092.0,70.0,7990.9,3424.7
+2019,Karnataka,Hubli,Soybean,46431.0,51074.1,1.1,32501.7,13929.3
+2020,Karnataka,Hubli,Soybean,46431.0,51074.1,1.1,32501.7,13929.3
+2021,Karnataka,Hubli,Soybean,46431.0,51074.1,1.1,32501.7,13929.3
+2022,Karnataka,Hubli,Soybean,46431.0,51074.1,1.1,32501.7,13929.3
+2023,Karnataka,Hubli,Soybean,46431.0,51074.1,1.1,32501.7,13929.3
+2024,Karnataka,Hubli,Soybean,46431.0,51074.1,1.1,32501.7,13929.3
+2019,Karnataka,Hubli,Maize,13662.6,38255.3,2.8,9563.8,4098.8
+2020,Karnataka,Hubli,Maize,13662.6,38255.3,2.8,9563.8,4098.8
+2021,Karnataka,Hubli,Maize,13662.6,38255.3,2.8,9563.8,4098.8
+2022,Karnataka,Hubli,Maize,13662.6,38255.3,2.8,9563.8,4098.8
+2023,Karnataka,Hubli,Maize,13662.6,38255.3,2.8,9563.8,4098.8
+2024,Karnataka,Hubli,Maize,13662.6,38255.3,2.8,9563.8,4098.8
+2019,Karnataka,Hubli,Groundnut,24273.0,33982.2,1.4,16991.1,7281.9
+2020,Karnataka,Hubli,Groundnut,24273.0,33982.2,1.4,16991.1,7281.9
+2021,Karnataka,Hubli,Groundnut,24273.0,33982.2,1.4,16991.1,7281.9
+2022,Karnataka,Hubli,Groundnut,24273.0,33982.2,1.4,16991.1,7281.9
+2023,Karnataka,Hubli,Groundnut,24273.0,33982.2,1.4,16991.1,7281.9
+2024,Karnataka,Hubli,Groundnut,24273.0,33982.2,1.4,16991.1,7281.9
+2019,Karnataka,Hubli,Onion,5446.6,98038.8,18.0,3812.6,1634.0
+2020,Karnataka,Hubli,Onion,5446.6,98038.8,18.0,3812.6,1634.0
+2021,Karnataka,Hubli,Onion,5446.6,98038.8,18.0,3812.6,1634.0
+2022,Karnataka,Hubli,Onion,5446.6,98038.8,18.0,3812.6,1634.0
+2023,Karnataka,Hubli,Onion,5446.6,98038.8,18.0,3812.6,1634.0
+2024,Karnataka,Hubli,Onion,5446.6,98038.8,18.0,3812.6,1634.0
+2019,Karnataka,Belgaum,Rice,49329.6,123324.0,2.5,34530.7,14798.9
+2020,Karnataka,Belgaum,Rice,49329.6,123324.0,2.5,34530.7,14798.9
+2021,Karnataka,Belgaum,Rice,49329.6,123324.0,2.5,34530.7,14798.9
+2022,Karnataka,Belgaum,Rice,49329.6,123324.0,2.5,34530.7,14798.9
+2023,Karnataka,Belgaum,Rice,49329.6,123324.0,2.5,34530.7,14798.9
+2024,Karnataka,Belgaum,Rice,49329.6,123324.0,2.5,34530.7,14798.9
+2019,Karnataka,Belgaum,Wheat,21186.0,67795.2,3.2,14830.2,6355.8
+2020,Karnataka,Belgaum,Wheat,21186.0,67795.2,3.2,14830.2,6355.8
+2021,Karnataka,Belgaum,Wheat,21186.0,67795.2,3.2,14830.2,6355.8
+2022,Karnataka,Belgaum,Wheat,21186.0,67795.2,3.2,14830.2,6355.8
+2023,Karnataka,Belgaum,Wheat,21186.0,67795.2,3.2,14830.2,6355.8
+2024,Karnataka,Belgaum,Wheat,21186.0,67795.2,3.2,14830.2,6355.8
+2019,Karnataka,Belgaum,Cotton,19340.0,9670.0,0.5,13538.0,5802.0
+2020,Karnataka,Belgaum,Cotton,19340.0,9670.0,0.5,13538.0,5802.0
+2021,Karnataka,Belgaum,Cotton,19340.0,9670.0,0.5,13538.0,5802.0
+2022,Karnataka,Belgaum,Cotton,19340.0,9670.0,0.5,13538.0,5802.0
+2023,Karnataka,Belgaum,Cotton,19340.0,9670.0,0.5,13538.0,5802.0
+2024,Karnataka,Belgaum,Cotton,19340.0,9670.0,0.5,13538.0,5802.0
+2019,Karnataka,Belgaum,Sugarcane,9725.1,680757.0,70.0,6807.6,2917.5
+2020,Karnataka,Belgaum,Sugarcane,9725.1,680757.0,70.0,6807.6,2917.5
+2021,Karnataka,Belgaum,Sugarcane,9725.1,680757.0,70.0,6807.6,2917.5
+2022,Karnataka,Belgaum,Sugarcane,9725.1,680757.0,70.0,6807.6,2917.5
+2023,Karnataka,Belgaum,Sugarcane,9725.1,680757.0,70.0,6807.6,2917.5
+2024,Karnataka,Belgaum,Sugarcane,9725.1,680757.0,70.0,6807.6,2917.5
+2019,Karnataka,Belgaum,Soybean,10434.6,11478.1,1.1,7304.2,3130.4
+2020,Karnataka,Belgaum,Soybean,10434.6,11478.1,1.1,7304.2,3130.4
+2021,Karnataka,Belgaum,Soybean,10434.6,11478.1,1.1,7304.2,3130.4
+2022,Karnataka,Belgaum,Soybean,10434.6,11478.1,1.1,7304.2,3130.4
+2023,Karnataka,Belgaum,Soybean,10434.6,11478.1,1.1,7304.2,3130.4
+2024,Karnataka,Belgaum,Soybean,10434.6,11478.1,1.1,7304.2,3130.4
+2019,Karnataka,Belgaum,Maize,20262.9,56736.1,2.8,14184.0,6078.9
+2020,Karnataka,Belgaum,Maize,20262.9,56736.1,2.8,14184.0,6078.9
+2021,Karnataka,Belgaum,Maize,20262.9,56736.1,2.8,14184.0,6078.9
+2022,Karnataka,Belgaum,Maize,20262.9,56736.1,2.8,14184.0,6078.9
+2023,Karnataka,Belgaum,Maize,20262.9,56736.1,2.8,14184.0,6078.9
+2024,Karnataka,Belgaum,Maize,20262.9,56736.1,2.8,14184.0,6078.9
+2019,Karnataka,Belgaum,Groundnut,14740.2,20636.3,1.4,10318.1,4422.1
+2020,Karnataka,Belgaum,Groundnut,14740.2,20636.3,1.4,10318.1,4422.1
+2021,Karnataka,Belgaum,Groundnut,14740.2,20636.3,1.4,10318.1,4422.1
+2022,Karnataka,Belgaum,Groundnut,14740.2,20636.3,1.4,10318.1,4422.1
+2023,Karnataka,Belgaum,Groundnut,14740.2,20636.3,1.4,10318.1,4422.1
+2024,Karnataka,Belgaum,Groundnut,14740.2,20636.3,1.4,10318.1,4422.1
+2019,Karnataka,Belgaum,Onion,5497.6,98956.8,18.0,3848.3,1649.3
+2020,Karnataka,Belgaum,Onion,5497.6,98956.8,18.0,3848.3,1649.3
+2021,Karnataka,Belgaum,Onion,5497.6,98956.8,18.0,3848.3,1649.3
+2022,Karnataka,Belgaum,Onion,5497.6,98956.8,18.0,3848.3,1649.3
+2023,Karnataka,Belgaum,Onion,5497.6,98956.8,18.0,3848.3,1649.3
+2024,Karnataka,Belgaum,Onion,5497.6,98956.8,18.0,3848.3,1649.3
+2019,Karnataka,Mangalore,Rice,46700.4,116751.0,2.5,32690.3,14010.1
+2020,Karnataka,Mangalore,Rice,46700.4,116751.0,2.5,32690.3,14010.1
+2021,Karnataka,Mangalore,Rice,46700.4,116751.0,2.5,32690.3,14010.1
+2022,Karnataka,Mangalore,Rice,46700.4,116751.0,2.5,32690.3,14010.1
+2023,Karnataka,Mangalore,Rice,46700.4,116751.0,2.5,32690.3,14010.1
+2024,Karnataka,Mangalore,Rice,46700.4,116751.0,2.5,32690.3,14010.1
+2019,Karnataka,Mangalore,Wheat,16700.0,53440.0,3.2,11690.0,5010.0
+2020,Karnataka,Mangalore,Wheat,16700.0,53440.0,3.2,11690.0,5010.0
+2021,Karnataka,Mangalore,Wheat,16700.0,53440.0,3.2,11690.0,5010.0
+2022,Karnataka,Mangalore,Wheat,16700.0,53440.0,3.2,11690.0,5010.0
+2023,Karnataka,Mangalore,Wheat,16700.0,53440.0,3.2,11690.0,5010.0
+2024,Karnataka,Mangalore,Wheat,16700.0,53440.0,3.2,11690.0,5010.0
+2019,Karnataka,Mangalore,Cotton,12151.2,6075.6,0.5,8505.8,3645.4
+2020,Karnataka,Mangalore,Cotton,12151.2,6075.6,0.5,8505.8,3645.4
+2021,Karnataka,Mangalore,Cotton,12151.2,6075.6,0.5,8505.8,3645.4
+2022,Karnataka,Mangalore,Cotton,12151.2,6075.6,0.5,8505.8,3645.4
+2023,Karnataka,Mangalore,Cotton,12151.2,6075.6,0.5,8505.8,3645.4
+2024,Karnataka,Mangalore,Cotton,12151.2,6075.6,0.5,8505.8,3645.4
+2019,Karnataka,Mangalore,Sugarcane,12254.1,857787.0,70.0,8577.9,3676.2
+2020,Karnataka,Mangalore,Sugarcane,12254.1,857787.0,70.0,8577.9,3676.2
+2021,Karnataka,Mangalore,Sugarcane,12254.1,857787.0,70.0,8577.9,3676.2
+2022,Karnataka,Mangalore,Sugarcane,12254.1,857787.0,70.0,8577.9,3676.2
+2023,Karnataka,Mangalore,Sugarcane,12254.1,857787.0,70.0,8577.9,3676.2
+2024,Karnataka,Mangalore,Sugarcane,12254.1,857787.0,70.0,8577.9,3676.2
+2019,Karnataka,Mangalore,Soybean,10422.0,11464.2,1.1,7295.4,3126.6
+2020,Karnataka,Mangalore,Soybean,10422.0,11464.2,1.1,7295.4,3126.6
+2021,Karnataka,Mangalore,Soybean,10422.0,11464.2,1.1,7295.4,3126.6
+2022,Karnataka,Mangalore,Soybean,10422.0,11464.2,1.1,7295.4,3126.6
+2023,Karnataka,Mangalore,Soybean,10422.0,11464.2,1.1,7295.4,3126.6
+2024,Karnataka,Mangalore,Soybean,10422.0,11464.2,1.1,7295.4,3126.6
+2019,Karnataka,Mangalore,Maize,24241.7,67876.8,2.8,16969.2,7272.5
+2020,Karnataka,Mangalore,Maize,24241.7,67876.8,2.8,16969.2,7272.5
+2021,Karnataka,Mangalore,Maize,24241.7,67876.8,2.8,16969.2,7272.5
+2022,Karnataka,Mangalore,Maize,24241.7,67876.8,2.8,16969.2,7272.5
+2023,Karnataka,Mangalore,Maize,24241.7,67876.8,2.8,16969.2,7272.5
+2024,Karnataka,Mangalore,Maize,24241.7,67876.8,2.8,16969.2,7272.5
+2019,Karnataka,Mangalore,Groundnut,7018.8,9826.3,1.4,4913.2,2105.6
+2020,Karnataka,Mangalore,Groundnut,7018.8,9826.3,1.4,4913.2,2105.6
+2021,Karnataka,Mangalore,Groundnut,7018.8,9826.3,1.4,4913.2,2105.6
+2022,Karnataka,Mangalore,Groundnut,7018.8,9826.3,1.4,4913.2,2105.6
+2023,Karnataka,Mangalore,Groundnut,7018.8,9826.3,1.4,4913.2,2105.6
+2024,Karnataka,Mangalore,Groundnut,7018.8,9826.3,1.4,4913.2,2105.6
+2019,Karnataka,Mangalore,Onion,10692.8,192470.4,18.0,7485.0,3207.8
+2020,Karnataka,Mangalore,Onion,10692.8,192470.4,18.0,7485.0,3207.8
+2021,Karnataka,Mangalore,Onion,10692.8,192470.4,18.0,7485.0,3207.8
+2022,Karnataka,Mangalore,Onion,10692.8,192470.4,18.0,7485.0,3207.8
+2023,Karnataka,Mangalore,Onion,10692.8,192470.4,18.0,7485.0,3207.8
+2024,Karnataka,Mangalore,Onion,10692.8,192470.4,18.0,7485.0,3207.8
+2019,Tamil Nadu,Chennai,Rice,31840.8,79602.0,2.5,22288.6,9552.2
+2020,Tamil Nadu,Chennai,Rice,31840.8,79602.0,2.5,22288.6,9552.2
+2021,Tamil Nadu,Chennai,Rice,31840.8,79602.0,2.5,22288.6,9552.2
+2022,Tamil Nadu,Chennai,Rice,31840.8,79602.0,2.5,22288.6,9552.2
+2023,Tamil Nadu,Chennai,Rice,31840.8,79602.0,2.5,22288.6,9552.2
+2024,Tamil Nadu,Chennai,Rice,31840.8,79602.0,2.5,22288.6,9552.2
+2019,Tamil Nadu,Chennai,Wheat,14770.0,47264.0,3.2,10339.0,4431.0
+2020,Tamil Nadu,Chennai,Wheat,14770.0,47264.0,3.2,10339.0,4431.0
+2021,Tamil Nadu,Chennai,Wheat,14770.0,47264.0,3.2,10339.0,4431.0
+2022,Tamil Nadu,Chennai,Wheat,14770.0,47264.0,3.2,10339.0,4431.0
+2023,Tamil Nadu,Chennai,Wheat,14770.0,47264.0,3.2,10339.0,4431.0
+2024,Tamil Nadu,Chennai,Wheat,14770.0,47264.0,3.2,10339.0,4431.0
+2019,Tamil Nadu,Chennai,Cotton,20642.4,10321.2,0.5,14449.7,6192.7
+2020,Tamil Nadu,Chennai,Cotton,20642.4,10321.2,0.5,14449.7,6192.7
+2021,Tamil Nadu,Chennai,Cotton,20642.4,10321.2,0.5,14449.7,6192.7
+2022,Tamil Nadu,Chennai,Cotton,20642.4,10321.2,0.5,14449.7,6192.7
+2023,Tamil Nadu,Chennai,Cotton,20642.4,10321.2,0.5,14449.7,6192.7
+2024,Tamil Nadu,Chennai,Cotton,20642.4,10321.2,0.5,14449.7,6192.7
+2019,Tamil Nadu,Chennai,Sugarcane,17118.3,1198281.0,70.0,11982.8,5135.5
+2020,Tamil Nadu,Chennai,Sugarcane,17118.3,1198281.0,70.0,11982.8,5135.5
+2021,Tamil Nadu,Chennai,Sugarcane,17118.3,1198281.0,70.0,11982.8,5135.5
+2022,Tamil Nadu,Chennai,Sugarcane,17118.3,1198281.0,70.0,11982.8,5135.5
+2023,Tamil Nadu,Chennai,Sugarcane,17118.3,1198281.0,70.0,11982.8,5135.5
+2024,Tamil Nadu,Chennai,Sugarcane,17118.3,1198281.0,70.0,11982.8,5135.5
+2019,Tamil Nadu,Chennai,Soybean,38157.3,41973.0,1.1,26710.1,11447.2
+2020,Tamil Nadu,Chennai,Soybean,38157.3,41973.0,1.1,26710.1,11447.2
+2021,Tamil Nadu,Chennai,Soybean,38157.3,41973.0,1.1,26710.1,11447.2
+2022,Tamil Nadu,Chennai,Soybean,38157.3,41973.0,1.1,26710.1,11447.2
+2023,Tamil Nadu,Chennai,Soybean,38157.3,41973.0,1.1,26710.1,11447.2
+2024,Tamil Nadu,Chennai,Soybean,38157.3,41973.0,1.1,26710.1,11447.2
+2019,Tamil Nadu,Chennai,Maize,11202.1,31365.9,2.8,7841.5,3360.6
+2020,Tamil Nadu,Chennai,Maize,11202.1,31365.9,2.8,7841.5,3360.6
+2021,Tamil Nadu,Chennai,Maize,11202.1,31365.9,2.8,7841.5,3360.6
+2022,Tamil Nadu,Chennai,Maize,11202.1,31365.9,2.8,7841.5,3360.6
+2023,Tamil Nadu,Chennai,Maize,11202.1,31365.9,2.8,7841.5,3360.6
+2024,Tamil Nadu,Chennai,Maize,11202.1,31365.9,2.8,7841.5,3360.6
+2019,Tamil Nadu,Chennai,Groundnut,13864.2,19409.9,1.4,9704.9,4159.3
+2020,Tamil Nadu,Chennai,Groundnut,13864.2,19409.9,1.4,9704.9,4159.3
+2021,Tamil Nadu,Chennai,Groundnut,13864.2,19409.9,1.4,9704.9,4159.3
+2022,Tamil Nadu,Chennai,Groundnut,13864.2,19409.9,1.4,9704.9,4159.3
+2023,Tamil Nadu,Chennai,Groundnut,13864.2,19409.9,1.4,9704.9,4159.3
+2024,Tamil Nadu,Chennai,Groundnut,13864.2,19409.9,1.4,9704.9,4159.3
+2019,Tamil Nadu,Chennai,Onion,5752.4,103543.2,18.0,4026.7,1725.7
+2020,Tamil Nadu,Chennai,Onion,5752.4,103543.2,18.0,4026.7,1725.7
+2021,Tamil Nadu,Chennai,Onion,5752.4,103543.2,18.0,4026.7,1725.7
+2022,Tamil Nadu,Chennai,Onion,5752.4,103543.2,18.0,4026.7,1725.7
+2023,Tamil Nadu,Chennai,Onion,5752.4,103543.2,18.0,4026.7,1725.7
+2024,Tamil Nadu,Chennai,Onion,5752.4,103543.2,18.0,4026.7,1725.7
+2019,Tamil Nadu,Coimbatore,Rice,13188.0,32970.0,2.5,9231.6,3956.4
+2020,Tamil Nadu,Coimbatore,Rice,13188.0,32970.0,2.5,9231.6,3956.4
+2021,Tamil Nadu,Coimbatore,Rice,13188.0,32970.0,2.5,9231.6,3956.4
+2022,Tamil Nadu,Coimbatore,Rice,13188.0,32970.0,2.5,9231.6,3956.4
+2023,Tamil Nadu,Coimbatore,Rice,13188.0,32970.0,2.5,9231.6,3956.4
+2024,Tamil Nadu,Coimbatore,Rice,13188.0,32970.0,2.5,9231.6,3956.4
+2019,Tamil Nadu,Coimbatore,Wheat,48997.0,156790.4,3.2,34297.9,14699.1
+2020,Tamil Nadu,Coimbatore,Wheat,48997.0,156790.4,3.2,34297.9,14699.1
+2021,Tamil Nadu,Coimbatore,Wheat,48997.0,156790.4,3.2,34297.9,14699.1
+2022,Tamil Nadu,Coimbatore,Wheat,48997.0,156790.4,3.2,34297.9,14699.1
+2023,Tamil Nadu,Coimbatore,Wheat,48997.0,156790.4,3.2,34297.9,14699.1
+2024,Tamil Nadu,Coimbatore,Wheat,48997.0,156790.4,3.2,34297.9,14699.1
+2019,Tamil Nadu,Coimbatore,Cotton,40929.6,20464.8,0.5,28650.7,12278.9
+2020,Tamil Nadu,Coimbatore,Cotton,40929.6,20464.8,0.5,28650.7,12278.9
+2021,Tamil Nadu,Coimbatore,Cotton,40929.6,20464.8,0.5,28650.7,12278.9
+2022,Tamil Nadu,Coimbatore,Cotton,40929.6,20464.8,0.5,28650.7,12278.9
+2023,Tamil Nadu,Coimbatore,Cotton,40929.6,20464.8,0.5,28650.7,12278.9
+2024,Tamil Nadu,Coimbatore,Cotton,40929.6,20464.8,0.5,28650.7,12278.9
+2019,Tamil Nadu,Coimbatore,Sugarcane,13699.2,958944.0,70.0,9589.4,4109.8
+2020,Tamil Nadu,Coimbatore,Sugarcane,13699.2,958944.0,70.0,9589.4,4109.8
+2021,Tamil Nadu,Coimbatore,Sugarcane,13699.2,958944.0,70.0,9589.4,4109.8
+2022,Tamil Nadu,Coimbatore,Sugarcane,13699.2,958944.0,70.0,9589.4,4109.8
+2023,Tamil Nadu,Coimbatore,Sugarcane,13699.2,958944.0,70.0,9589.4,4109.8
+2024,Tamil Nadu,Coimbatore,Sugarcane,13699.2,958944.0,70.0,9589.4,4109.8
+2019,Tamil Nadu,Coimbatore,Soybean,14059.8,15465.8,1.1,9841.9,4217.9
+2020,Tamil Nadu,Coimbatore,Soybean,14059.8,15465.8,1.1,9841.9,4217.9
+2021,Tamil Nadu,Coimbatore,Soybean,14059.8,15465.8,1.1,9841.9,4217.9
+2022,Tamil Nadu,Coimbatore,Soybean,14059.8,15465.8,1.1,9841.9,4217.9
+2023,Tamil Nadu,Coimbatore,Soybean,14059.8,15465.8,1.1,9841.9,4217.9
+2024,Tamil Nadu,Coimbatore,Soybean,14059.8,15465.8,1.1,9841.9,4217.9
+2019,Tamil Nadu,Coimbatore,Maize,12159.7,34047.2,2.8,8511.8,3647.9
+2020,Tamil Nadu,Coimbatore,Maize,12159.7,34047.2,2.8,8511.8,3647.9
+2021,Tamil Nadu,Coimbatore,Maize,12159.7,34047.2,2.8,8511.8,3647.9
+2022,Tamil Nadu,Coimbatore,Maize,12159.7,34047.2,2.8,8511.8,3647.9
+2023,Tamil Nadu,Coimbatore,Maize,12159.7,34047.2,2.8,8511.8,3647.9
+2024,Tamil Nadu,Coimbatore,Maize,12159.7,34047.2,2.8,8511.8,3647.9
+2019,Tamil Nadu,Coimbatore,Groundnut,27382.2,38335.1,1.4,19167.5,8214.7
+2020,Tamil Nadu,Coimbatore,Groundnut,27382.2,38335.1,1.4,19167.5,8214.7
+2021,Tamil Nadu,Coimbatore,Groundnut,27382.2,38335.1,1.4,19167.5,8214.7
+2022,Tamil Nadu,Coimbatore,Groundnut,27382.2,38335.1,1.4,19167.5,8214.7
+2023,Tamil Nadu,Coimbatore,Groundnut,27382.2,38335.1,1.4,19167.5,8214.7
+2024,Tamil Nadu,Coimbatore,Groundnut,27382.2,38335.1,1.4,19167.5,8214.7
+2019,Tamil Nadu,Coimbatore,Onion,10845.4,195217.2,18.0,7591.8,3253.6
+2020,Tamil Nadu,Coimbatore,Onion,10845.4,195217.2,18.0,7591.8,3253.6
+2021,Tamil Nadu,Coimbatore,Onion,10845.4,195217.2,18.0,7591.8,3253.6
+2022,Tamil Nadu,Coimbatore,Onion,10845.4,195217.2,18.0,7591.8,3253.6
+2023,Tamil Nadu,Coimbatore,Onion,10845.4,195217.2,18.0,7591.8,3253.6
+2024,Tamil Nadu,Coimbatore,Onion,10845.4,195217.2,18.0,7591.8,3253.6
+2019,Tamil Nadu,Madurai,Rice,52771.2,131928.0,2.5,36939.8,15831.4
+2020,Tamil Nadu,Madurai,Rice,52771.2,131928.0,2.5,36939.8,15831.4
+2021,Tamil Nadu,Madurai,Rice,52771.2,131928.0,2.5,36939.8,15831.4
+2022,Tamil Nadu,Madurai,Rice,52771.2,131928.0,2.5,36939.8,15831.4
+2023,Tamil Nadu,Madurai,Rice,52771.2,131928.0,2.5,36939.8,15831.4
+2024,Tamil Nadu,Madurai,Rice,52771.2,131928.0,2.5,36939.8,15831.4
+2019,Tamil Nadu,Madurai,Wheat,11348.0,36313.6,3.2,7943.6,3404.4
+2020,Tamil Nadu,Madurai,Wheat,11348.0,36313.6,3.2,7943.6,3404.4
+2021,Tamil Nadu,Madurai,Wheat,11348.0,36313.6,3.2,7943.6,3404.4
+2022,Tamil Nadu,Madurai,Wheat,11348.0,36313.6,3.2,7943.6,3404.4
+2023,Tamil Nadu,Madurai,Wheat,11348.0,36313.6,3.2,7943.6,3404.4
+2024,Tamil Nadu,Madurai,Wheat,11348.0,36313.6,3.2,7943.6,3404.4
+2019,Tamil Nadu,Madurai,Cotton,16868.8,8434.4,0.5,11808.2,5060.6
+2020,Tamil Nadu,Madurai,Cotton,16868.8,8434.4,0.5,11808.2,5060.6
+2021,Tamil Nadu,Madurai,Cotton,16868.8,8434.4,0.5,11808.2,5060.6
+2022,Tamil Nadu,Madurai,Cotton,16868.8,8434.4,0.5,11808.2,5060.6
+2023,Tamil Nadu,Madurai,Cotton,16868.8,8434.4,0.5,11808.2,5060.6
+2024,Tamil Nadu,Madurai,Cotton,16868.8,8434.4,0.5,11808.2,5060.6
+2019,Tamil Nadu,Madurai,Sugarcane,9803.7,686259.0,70.0,6862.6,2941.1
+2020,Tamil Nadu,Madurai,Sugarcane,9803.7,686259.0,70.0,6862.6,2941.1
+2021,Tamil Nadu,Madurai,Sugarcane,9803.7,686259.0,70.0,6862.6,2941.1
+2022,Tamil Nadu,Madurai,Sugarcane,9803.7,686259.0,70.0,6862.6,2941.1
+2023,Tamil Nadu,Madurai,Sugarcane,9803.7,686259.0,70.0,6862.6,2941.1
+2024,Tamil Nadu,Madurai,Sugarcane,9803.7,686259.0,70.0,6862.6,2941.1
+2019,Tamil Nadu,Madurai,Soybean,38776.5,42654.2,1.1,27143.5,11632.9
+2020,Tamil Nadu,Madurai,Soybean,38776.5,42654.2,1.1,27143.5,11632.9
+2021,Tamil Nadu,Madurai,Soybean,38776.5,42654.2,1.1,27143.5,11632.9
+2022,Tamil Nadu,Madurai,Soybean,38776.5,42654.2,1.1,27143.5,11632.9
+2023,Tamil Nadu,Madurai,Soybean,38776.5,42654.2,1.1,27143.5,11632.9
+2024,Tamil Nadu,Madurai,Soybean,38776.5,42654.2,1.1,27143.5,11632.9
+2019,Tamil Nadu,Madurai,Maize,40380.9,113066.5,2.8,28266.6,12114.3
+2020,Tamil Nadu,Madurai,Maize,40380.9,113066.5,2.8,28266.6,12114.3
+2021,Tamil Nadu,Madurai,Maize,40380.9,113066.5,2.8,28266.6,12114.3
+2022,Tamil Nadu,Madurai,Maize,40380.9,113066.5,2.8,28266.6,12114.3
+2023,Tamil Nadu,Madurai,Maize,40380.9,113066.5,2.8,28266.6,12114.3
+2024,Tamil Nadu,Madurai,Maize,40380.9,113066.5,2.8,28266.6,12114.3
+2019,Tamil Nadu,Madurai,Groundnut,14064.6,19690.4,1.4,9845.2,4219.4
+2020,Tamil Nadu,Madurai,Groundnut,14064.6,19690.4,1.4,9845.2,4219.4
+2021,Tamil Nadu,Madurai,Groundnut,14064.6,19690.4,1.4,9845.2,4219.4
+2022,Tamil Nadu,Madurai,Groundnut,14064.6,19690.4,1.4,9845.2,4219.4
+2023,Tamil Nadu,Madurai,Groundnut,14064.6,19690.4,1.4,9845.2,4219.4
+2024,Tamil Nadu,Madurai,Groundnut,14064.6,19690.4,1.4,9845.2,4219.4
+2019,Tamil Nadu,Madurai,Onion,7225.6,130060.8,18.0,5057.9,2167.7
+2020,Tamil Nadu,Madurai,Onion,7225.6,130060.8,18.0,5057.9,2167.7
+2021,Tamil Nadu,Madurai,Onion,7225.6,130060.8,18.0,5057.9,2167.7
+2022,Tamil Nadu,Madurai,Onion,7225.6,130060.8,18.0,5057.9,2167.7
+2023,Tamil Nadu,Madurai,Onion,7225.6,130060.8,18.0,5057.9,2167.7
+2024,Tamil Nadu,Madurai,Onion,7225.6,130060.8,18.0,5057.9,2167.7
+2019,Tamil Nadu,Salem,Rice,35276.4,88191.0,2.5,24693.5,10582.9
+2020,Tamil Nadu,Salem,Rice,35276.4,88191.0,2.5,24693.5,10582.9
+2021,Tamil Nadu,Salem,Rice,35276.4,88191.0,2.5,24693.5,10582.9
+2022,Tamil Nadu,Salem,Rice,35276.4,88191.0,2.5,24693.5,10582.9
+2023,Tamil Nadu,Salem,Rice,35276.4,88191.0,2.5,24693.5,10582.9
+2024,Tamil Nadu,Salem,Rice,35276.4,88191.0,2.5,24693.5,10582.9
+2019,Tamil Nadu,Salem,Wheat,12042.0,38534.4,3.2,8429.4,3612.6
+2020,Tamil Nadu,Salem,Wheat,12042.0,38534.4,3.2,8429.4,3612.6
+2021,Tamil Nadu,Salem,Wheat,12042.0,38534.4,3.2,8429.4,3612.6
+2022,Tamil Nadu,Salem,Wheat,12042.0,38534.4,3.2,8429.4,3612.6
+2023,Tamil Nadu,Salem,Wheat,12042.0,38534.4,3.2,8429.4,3612.6
+2024,Tamil Nadu,Salem,Wheat,12042.0,38534.4,3.2,8429.4,3612.6
+2019,Tamil Nadu,Salem,Cotton,21215.2,10607.6,0.5,14850.6,6364.6
+2020,Tamil Nadu,Salem,Cotton,21215.2,10607.6,0.5,14850.6,6364.6
+2021,Tamil Nadu,Salem,Cotton,21215.2,10607.6,0.5,14850.6,6364.6
+2022,Tamil Nadu,Salem,Cotton,21215.2,10607.6,0.5,14850.6,6364.6
+2023,Tamil Nadu,Salem,Cotton,21215.2,10607.6,0.5,14850.6,6364.6
+2024,Tamil Nadu,Salem,Cotton,21215.2,10607.6,0.5,14850.6,6364.6
+2019,Tamil Nadu,Salem,Sugarcane,11373.9,796173.0,70.0,7961.7,3412.2
+2020,Tamil Nadu,Salem,Sugarcane,11373.9,796173.0,70.0,7961.7,3412.2
+2021,Tamil Nadu,Salem,Sugarcane,11373.9,796173.0,70.0,7961.7,3412.2
+2022,Tamil Nadu,Salem,Sugarcane,11373.9,796173.0,70.0,7961.7,3412.2
+2023,Tamil Nadu,Salem,Sugarcane,11373.9,796173.0,70.0,7961.7,3412.2
+2024,Tamil Nadu,Salem,Sugarcane,11373.9,796173.0,70.0,7961.7,3412.2
+2019,Tamil Nadu,Salem,Soybean,52520.4,57772.4,1.1,36764.3,15756.1
+2020,Tamil Nadu,Salem,Soybean,52520.4,57772.4,1.1,36764.3,15756.1
+2021,Tamil Nadu,Salem,Soybean,52520.4,57772.4,1.1,36764.3,15756.1
+2022,Tamil Nadu,Salem,Soybean,52520.4,57772.4,1.1,36764.3,15756.1
+2023,Tamil Nadu,Salem,Soybean,52520.4,57772.4,1.1,36764.3,15756.1
+2024,Tamil Nadu,Salem,Soybean,52520.4,57772.4,1.1,36764.3,15756.1
+2019,Tamil Nadu,Salem,Maize,23045.4,64527.1,2.8,16131.8,6913.6
+2020,Tamil Nadu,Salem,Maize,23045.4,64527.1,2.8,16131.8,6913.6
+2021,Tamil Nadu,Salem,Maize,23045.4,64527.1,2.8,16131.8,6913.6
+2022,Tamil Nadu,Salem,Maize,23045.4,64527.1,2.8,16131.8,6913.6
+2023,Tamil Nadu,Salem,Maize,23045.4,64527.1,2.8,16131.8,6913.6
+2024,Tamil Nadu,Salem,Maize,23045.4,64527.1,2.8,16131.8,6913.6
+2019,Tamil Nadu,Salem,Groundnut,8404.2,11765.9,1.4,5882.9,2521.3
+2020,Tamil Nadu,Salem,Groundnut,8404.2,11765.9,1.4,5882.9,2521.3
+2021,Tamil Nadu,Salem,Groundnut,8404.2,11765.9,1.4,5882.9,2521.3
+2022,Tamil Nadu,Salem,Groundnut,8404.2,11765.9,1.4,5882.9,2521.3
+2023,Tamil Nadu,Salem,Groundnut,8404.2,11765.9,1.4,5882.9,2521.3
+2024,Tamil Nadu,Salem,Groundnut,8404.2,11765.9,1.4,5882.9,2521.3
+2019,Tamil Nadu,Salem,Onion,2087.2,37569.6,18.0,1461.0,626.2
+2020,Tamil Nadu,Salem,Onion,2087.2,37569.6,18.0,1461.0,626.2
+2021,Tamil Nadu,Salem,Onion,2087.2,37569.6,18.0,1461.0,626.2
+2022,Tamil Nadu,Salem,Onion,2087.2,37569.6,18.0,1461.0,626.2
+2023,Tamil Nadu,Salem,Onion,2087.2,37569.6,18.0,1461.0,626.2
+2024,Tamil Nadu,Salem,Onion,2087.2,37569.6,18.0,1461.0,626.2
+2019,Tamil Nadu,Tiruchirappalli,Rice,42249.6,105624.0,2.5,29574.7,12674.9
+2020,Tamil Nadu,Tiruchirappalli,Rice,42249.6,105624.0,2.5,29574.7,12674.9
+2021,Tamil Nadu,Tiruchirappalli,Rice,42249.6,105624.0,2.5,29574.7,12674.9
+2022,Tamil Nadu,Tiruchirappalli,Rice,42249.6,105624.0,2.5,29574.7,12674.9
+2023,Tamil Nadu,Tiruchirappalli,Rice,42249.6,105624.0,2.5,29574.7,12674.9
+2024,Tamil Nadu,Tiruchirappalli,Rice,42249.6,105624.0,2.5,29574.7,12674.9
+2019,Tamil Nadu,Tiruchirappalli,Wheat,55739.0,178364.8,3.2,39017.3,16721.7
+2020,Tamil Nadu,Tiruchirappalli,Wheat,55739.0,178364.8,3.2,39017.3,16721.7
+2021,Tamil Nadu,Tiruchirappalli,Wheat,55739.0,178364.8,3.2,39017.3,16721.7
+2022,Tamil Nadu,Tiruchirappalli,Wheat,55739.0,178364.8,3.2,39017.3,16721.7
+2023,Tamil Nadu,Tiruchirappalli,Wheat,55739.0,178364.8,3.2,39017.3,16721.7
+2024,Tamil Nadu,Tiruchirappalli,Wheat,55739.0,178364.8,3.2,39017.3,16721.7
+2019,Tamil Nadu,Tiruchirappalli,Cotton,44595.2,22297.6,0.5,31216.6,13378.6
+2020,Tamil Nadu,Tiruchirappalli,Cotton,44595.2,22297.6,0.5,31216.6,13378.6
+2021,Tamil Nadu,Tiruchirappalli,Cotton,44595.2,22297.6,0.5,31216.6,13378.6
+2022,Tamil Nadu,Tiruchirappalli,Cotton,44595.2,22297.6,0.5,31216.6,13378.6
+2023,Tamil Nadu,Tiruchirappalli,Cotton,44595.2,22297.6,0.5,31216.6,13378.6
+2024,Tamil Nadu,Tiruchirappalli,Cotton,44595.2,22297.6,0.5,31216.6,13378.6
+2019,Tamil Nadu,Tiruchirappalli,Sugarcane,3058.2,214074.0,70.0,2140.7,917.5
+2020,Tamil Nadu,Tiruchirappalli,Sugarcane,3058.2,214074.0,70.0,2140.7,917.5
+2021,Tamil Nadu,Tiruchirappalli,Sugarcane,3058.2,214074.0,70.0,2140.7,917.5
+2022,Tamil Nadu,Tiruchirappalli,Sugarcane,3058.2,214074.0,70.0,2140.7,917.5
+2023,Tamil Nadu,Tiruchirappalli,Sugarcane,3058.2,214074.0,70.0,2140.7,917.5
+2024,Tamil Nadu,Tiruchirappalli,Sugarcane,3058.2,214074.0,70.0,2140.7,917.5
+2019,Tamil Nadu,Tiruchirappalli,Soybean,30209.4,33230.3,1.1,21146.6,9062.8
+2020,Tamil Nadu,Tiruchirappalli,Soybean,30209.4,33230.3,1.1,21146.6,9062.8
+2021,Tamil Nadu,Tiruchirappalli,Soybean,30209.4,33230.3,1.1,21146.6,9062.8
+2022,Tamil Nadu,Tiruchirappalli,Soybean,30209.4,33230.3,1.1,21146.6,9062.8
+2023,Tamil Nadu,Tiruchirappalli,Soybean,30209.4,33230.3,1.1,21146.6,9062.8
+2024,Tamil Nadu,Tiruchirappalli,Soybean,30209.4,33230.3,1.1,21146.6,9062.8
+2019,Tamil Nadu,Tiruchirappalli,Maize,19426.4,54393.9,2.8,13598.5,5827.9
+2020,Tamil Nadu,Tiruchirappalli,Maize,19426.4,54393.9,2.8,13598.5,5827.9
+2021,Tamil Nadu,Tiruchirappalli,Maize,19426.4,54393.9,2.8,13598.5,5827.9
+2022,Tamil Nadu,Tiruchirappalli,Maize,19426.4,54393.9,2.8,13598.5,5827.9
+2023,Tamil Nadu,Tiruchirappalli,Maize,19426.4,54393.9,2.8,13598.5,5827.9
+2024,Tamil Nadu,Tiruchirappalli,Maize,19426.4,54393.9,2.8,13598.5,5827.9
+2019,Tamil Nadu,Tiruchirappalli,Groundnut,8299.8,11619.7,1.4,5809.9,2489.9
+2020,Tamil Nadu,Tiruchirappalli,Groundnut,8299.8,11619.7,1.4,5809.9,2489.9
+2021,Tamil Nadu,Tiruchirappalli,Groundnut,8299.8,11619.7,1.4,5809.9,2489.9
+2022,Tamil Nadu,Tiruchirappalli,Groundnut,8299.8,11619.7,1.4,5809.9,2489.9
+2023,Tamil Nadu,Tiruchirappalli,Groundnut,8299.8,11619.7,1.4,5809.9,2489.9
+2024,Tamil Nadu,Tiruchirappalli,Groundnut,8299.8,11619.7,1.4,5809.9,2489.9
+2019,Tamil Nadu,Tiruchirappalli,Onion,7212.4,129823.2,18.0,5048.7,2163.7
+2020,Tamil Nadu,Tiruchirappalli,Onion,7212.4,129823.2,18.0,5048.7,2163.7
+2021,Tamil Nadu,Tiruchirappalli,Onion,7212.4,129823.2,18.0,5048.7,2163.7
+2022,Tamil Nadu,Tiruchirappalli,Onion,7212.4,129823.2,18.0,5048.7,2163.7
+2023,Tamil Nadu,Tiruchirappalli,Onion,7212.4,129823.2,18.0,5048.7,2163.7
+2024,Tamil Nadu,Tiruchirappalli,Onion,7212.4,129823.2,18.0,5048.7,2163.7
+2019,Andhra Pradesh,Vijayawada,Rice,63318.0,158295.0,2.5,44322.6,18995.4
+2020,Andhra Pradesh,Vijayawada,Rice,63318.0,158295.0,2.5,44322.6,18995.4
+2021,Andhra Pradesh,Vijayawada,Rice,63318.0,158295.0,2.5,44322.6,18995.4
+2022,Andhra Pradesh,Vijayawada,Rice,63318.0,158295.0,2.5,44322.6,18995.4
+2023,Andhra Pradesh,Vijayawada,Rice,63318.0,158295.0,2.5,44322.6,18995.4
+2024,Andhra Pradesh,Vijayawada,Rice,63318.0,158295.0,2.5,44322.6,18995.4
+2019,Andhra Pradesh,Vijayawada,Wheat,18568.0,59417.6,3.2,12997.6,5570.4
+2020,Andhra Pradesh,Vijayawada,Wheat,18568.0,59417.6,3.2,12997.6,5570.4
+2021,Andhra Pradesh,Vijayawada,Wheat,18568.0,59417.6,3.2,12997.6,5570.4
+2022,Andhra Pradesh,Vijayawada,Wheat,18568.0,59417.6,3.2,12997.6,5570.4
+2023,Andhra Pradesh,Vijayawada,Wheat,18568.0,59417.6,3.2,12997.6,5570.4
+2024,Andhra Pradesh,Vijayawada,Wheat,18568.0,59417.6,3.2,12997.6,5570.4
+2019,Andhra Pradesh,Vijayawada,Cotton,25633.6,12816.8,0.5,17943.5,7690.1
+2020,Andhra Pradesh,Vijayawada,Cotton,25633.6,12816.8,0.5,17943.5,7690.1
+2021,Andhra Pradesh,Vijayawada,Cotton,25633.6,12816.8,0.5,17943.5,7690.1
+2022,Andhra Pradesh,Vijayawada,Cotton,25633.6,12816.8,0.5,17943.5,7690.1
+2023,Andhra Pradesh,Vijayawada,Cotton,25633.6,12816.8,0.5,17943.5,7690.1
+2024,Andhra Pradesh,Vijayawada,Cotton,25633.6,12816.8,0.5,17943.5,7690.1
+2019,Andhra Pradesh,Vijayawada,Sugarcane,8744.4,612108.0,70.0,6121.1,2623.3
+2020,Andhra Pradesh,Vijayawada,Sugarcane,8744.4,612108.0,70.0,6121.1,2623.3
+2021,Andhra Pradesh,Vijayawada,Sugarcane,8744.4,612108.0,70.0,6121.1,2623.3
+2022,Andhra Pradesh,Vijayawada,Sugarcane,8744.4,612108.0,70.0,6121.1,2623.3
+2023,Andhra Pradesh,Vijayawada,Sugarcane,8744.4,612108.0,70.0,6121.1,2623.3
+2024,Andhra Pradesh,Vijayawada,Sugarcane,8744.4,612108.0,70.0,6121.1,2623.3
+2019,Andhra Pradesh,Vijayawada,Soybean,28350.9,31186.0,1.1,19845.6,8505.3
+2020,Andhra Pradesh,Vijayawada,Soybean,28350.9,31186.0,1.1,19845.6,8505.3
+2021,Andhra Pradesh,Vijayawada,Soybean,28350.9,31186.0,1.1,19845.6,8505.3
+2022,Andhra Pradesh,Vijayawada,Soybean,28350.9,31186.0,1.1,19845.6,8505.3
+2023,Andhra Pradesh,Vijayawada,Soybean,28350.9,31186.0,1.1,19845.6,8505.3
+2024,Andhra Pradesh,Vijayawada,Soybean,28350.9,31186.0,1.1,19845.6,8505.3
+2019,Andhra Pradesh,Vijayawada,Maize,41274.8,115569.4,2.8,28892.4,12382.4
+2020,Andhra Pradesh,Vijayawada,Maize,41274.8,115569.4,2.8,28892.4,12382.4
+2021,Andhra Pradesh,Vijayawada,Maize,41274.8,115569.4,2.8,28892.4,12382.4
+2022,Andhra Pradesh,Vijayawada,Maize,41274.8,115569.4,2.8,28892.4,12382.4
+2023,Andhra Pradesh,Vijayawada,Maize,41274.8,115569.4,2.8,28892.4,12382.4
+2024,Andhra Pradesh,Vijayawada,Maize,41274.8,115569.4,2.8,28892.4,12382.4
+2019,Andhra Pradesh,Vijayawada,Groundnut,16929.0,23700.6,1.4,11850.3,5078.7
+2020,Andhra Pradesh,Vijayawada,Groundnut,16929.0,23700.6,1.4,11850.3,5078.7
+2021,Andhra Pradesh,Vijayawada,Groundnut,16929.0,23700.6,1.4,11850.3,5078.7
+2022,Andhra Pradesh,Vijayawada,Groundnut,16929.0,23700.6,1.4,11850.3,5078.7
+2023,Andhra Pradesh,Vijayawada,Groundnut,16929.0,23700.6,1.4,11850.3,5078.7
+2024,Andhra Pradesh,Vijayawada,Groundnut,16929.0,23700.6,1.4,11850.3,5078.7
+2019,Andhra Pradesh,Vijayawada,Onion,2547.4,45853.2,18.0,1783.2,764.2
+2020,Andhra Pradesh,Vijayawada,Onion,2547.4,45853.2,18.0,1783.2,764.2
+2021,Andhra Pradesh,Vijayawada,Onion,2547.4,45853.2,18.0,1783.2,764.2
+2022,Andhra Pradesh,Vijayawada,Onion,2547.4,45853.2,18.0,1783.2,764.2
+2023,Andhra Pradesh,Vijayawada,Onion,2547.4,45853.2,18.0,1783.2,764.2
+2024,Andhra Pradesh,Vijayawada,Onion,2547.4,45853.2,18.0,1783.2,764.2
+2019,Andhra Pradesh,Visakhapatnam,Rice,68760.0,171900.0,2.5,48132.0,20628.0
+2020,Andhra Pradesh,Visakhapatnam,Rice,68760.0,171900.0,2.5,48132.0,20628.0
+2021,Andhra Pradesh,Visakhapatnam,Rice,68760.0,171900.0,2.5,48132.0,20628.0
+2022,Andhra Pradesh,Visakhapatnam,Rice,68760.0,171900.0,2.5,48132.0,20628.0
+2023,Andhra Pradesh,Visakhapatnam,Rice,68760.0,171900.0,2.5,48132.0,20628.0
+2024,Andhra Pradesh,Visakhapatnam,Rice,68760.0,171900.0,2.5,48132.0,20628.0
+2019,Andhra Pradesh,Visakhapatnam,Wheat,55952.0,179046.4,3.2,39166.4,16785.6
+2020,Andhra Pradesh,Visakhapatnam,Wheat,55952.0,179046.4,3.2,39166.4,16785.6
+2021,Andhra Pradesh,Visakhapatnam,Wheat,55952.0,179046.4,3.2,39166.4,16785.6
+2022,Andhra Pradesh,Visakhapatnam,Wheat,55952.0,179046.4,3.2,39166.4,16785.6
+2023,Andhra Pradesh,Visakhapatnam,Wheat,55952.0,179046.4,3.2,39166.4,16785.6
+2024,Andhra Pradesh,Visakhapatnam,Wheat,55952.0,179046.4,3.2,39166.4,16785.6
+2019,Andhra Pradesh,Visakhapatnam,Cotton,23496.0,11748.0,0.5,16447.2,7048.8
+2020,Andhra Pradesh,Visakhapatnam,Cotton,23496.0,11748.0,0.5,16447.2,7048.8
+2021,Andhra Pradesh,Visakhapatnam,Cotton,23496.0,11748.0,0.5,16447.2,7048.8
+2022,Andhra Pradesh,Visakhapatnam,Cotton,23496.0,11748.0,0.5,16447.2,7048.8
+2023,Andhra Pradesh,Visakhapatnam,Cotton,23496.0,11748.0,0.5,16447.2,7048.8
+2024,Andhra Pradesh,Visakhapatnam,Cotton,23496.0,11748.0,0.5,16447.2,7048.8
+2019,Andhra Pradesh,Visakhapatnam,Sugarcane,16739.1,1171737.0,70.0,11717.4,5021.7
+2020,Andhra Pradesh,Visakhapatnam,Sugarcane,16739.1,1171737.0,70.0,11717.4,5021.7
+2021,Andhra Pradesh,Visakhapatnam,Sugarcane,16739.1,1171737.0,70.0,11717.4,5021.7
+2022,Andhra Pradesh,Visakhapatnam,Sugarcane,16739.1,1171737.0,70.0,11717.4,5021.7
+2023,Andhra Pradesh,Visakhapatnam,Sugarcane,16739.1,1171737.0,70.0,11717.4,5021.7
+2024,Andhra Pradesh,Visakhapatnam,Sugarcane,16739.1,1171737.0,70.0,11717.4,5021.7
+2019,Andhra Pradesh,Visakhapatnam,Soybean,19772.1,21749.3,1.1,13840.5,5931.6
+2020,Andhra Pradesh,Visakhapatnam,Soybean,19772.1,21749.3,1.1,13840.5,5931.6
+2021,Andhra Pradesh,Visakhapatnam,Soybean,19772.1,21749.3,1.1,13840.5,5931.6
+2022,Andhra Pradesh,Visakhapatnam,Soybean,19772.1,21749.3,1.1,13840.5,5931.6
+2023,Andhra Pradesh,Visakhapatnam,Soybean,19772.1,21749.3,1.1,13840.5,5931.6
+2024,Andhra Pradesh,Visakhapatnam,Soybean,19772.1,21749.3,1.1,13840.5,5931.6
+2019,Andhra Pradesh,Visakhapatnam,Maize,23429.0,65601.2,2.8,16400.3,7028.7
+2020,Andhra Pradesh,Visakhapatnam,Maize,23429.0,65601.2,2.8,16400.3,7028.7
+2021,Andhra Pradesh,Visakhapatnam,Maize,23429.0,65601.2,2.8,16400.3,7028.7
+2022,Andhra Pradesh,Visakhapatnam,Maize,23429.0,65601.2,2.8,16400.3,7028.7
+2023,Andhra Pradesh,Visakhapatnam,Maize,23429.0,65601.2,2.8,16400.3,7028.7
+2024,Andhra Pradesh,Visakhapatnam,Maize,23429.0,65601.2,2.8,16400.3,7028.7
+2019,Andhra Pradesh,Visakhapatnam,Groundnut,30693.6,42971.0,1.4,21485.5,9208.1
+2020,Andhra Pradesh,Visakhapatnam,Groundnut,30693.6,42971.0,1.4,21485.5,9208.1
+2021,Andhra Pradesh,Visakhapatnam,Groundnut,30693.6,42971.0,1.4,21485.5,9208.1
+2022,Andhra Pradesh,Visakhapatnam,Groundnut,30693.6,42971.0,1.4,21485.5,9208.1
+2023,Andhra Pradesh,Visakhapatnam,Groundnut,30693.6,42971.0,1.4,21485.5,9208.1
+2024,Andhra Pradesh,Visakhapatnam,Groundnut,30693.6,42971.0,1.4,21485.5,9208.1
+2019,Andhra Pradesh,Visakhapatnam,Onion,2253.4,40561.2,18.0,1577.4,676.0
+2020,Andhra Pradesh,Visakhapatnam,Onion,2253.4,40561.2,18.0,1577.4,676.0
+2021,Andhra Pradesh,Visakhapatnam,Onion,2253.4,40561.2,18.0,1577.4,676.0
+2022,Andhra Pradesh,Visakhapatnam,Onion,2253.4,40561.2,18.0,1577.4,676.0
+2023,Andhra Pradesh,Visakhapatnam,Onion,2253.4,40561.2,18.0,1577.4,676.0
+2024,Andhra Pradesh,Visakhapatnam,Onion,2253.4,40561.2,18.0,1577.4,676.0
+2019,Andhra Pradesh,Guntur,Rice,63882.0,159705.0,2.5,44717.4,19164.6
+2020,Andhra Pradesh,Guntur,Rice,63882.0,159705.0,2.5,44717.4,19164.6
+2021,Andhra Pradesh,Guntur,Rice,63882.0,159705.0,2.5,44717.4,19164.6
+2022,Andhra Pradesh,Guntur,Rice,63882.0,159705.0,2.5,44717.4,19164.6
+2023,Andhra Pradesh,Guntur,Rice,63882.0,159705.0,2.5,44717.4,19164.6
+2024,Andhra Pradesh,Guntur,Rice,63882.0,159705.0,2.5,44717.4,19164.6
+2019,Andhra Pradesh,Guntur,Wheat,27387.0,87638.4,3.2,19170.9,8216.1
+2020,Andhra Pradesh,Guntur,Wheat,27387.0,87638.4,3.2,19170.9,8216.1
+2021,Andhra Pradesh,Guntur,Wheat,27387.0,87638.4,3.2,19170.9,8216.1
+2022,Andhra Pradesh,Guntur,Wheat,27387.0,87638.4,3.2,19170.9,8216.1
+2023,Andhra Pradesh,Guntur,Wheat,27387.0,87638.4,3.2,19170.9,8216.1
+2024,Andhra Pradesh,Guntur,Wheat,27387.0,87638.4,3.2,19170.9,8216.1
+2019,Andhra Pradesh,Guntur,Cotton,37592.8,18796.4,0.5,26315.0,11277.8
+2020,Andhra Pradesh,Guntur,Cotton,37592.8,18796.4,0.5,26315.0,11277.8
+2021,Andhra Pradesh,Guntur,Cotton,37592.8,18796.4,0.5,26315.0,11277.8
+2022,Andhra Pradesh,Guntur,Cotton,37592.8,18796.4,0.5,26315.0,11277.8
+2023,Andhra Pradesh,Guntur,Cotton,37592.8,18796.4,0.5,26315.0,11277.8
+2024,Andhra Pradesh,Guntur,Cotton,37592.8,18796.4,0.5,26315.0,11277.8
+2019,Andhra Pradesh,Guntur,Sugarcane,9007.8,630546.0,70.0,6305.5,2702.3
+2020,Andhra Pradesh,Guntur,Sugarcane,9007.8,630546.0,70.0,6305.5,2702.3
+2021,Andhra Pradesh,Guntur,Sugarcane,9007.8,630546.0,70.0,6305.5,2702.3
+2022,Andhra Pradesh,Guntur,Sugarcane,9007.8,630546.0,70.0,6305.5,2702.3
+2023,Andhra Pradesh,Guntur,Sugarcane,9007.8,630546.0,70.0,6305.5,2702.3
+2024,Andhra Pradesh,Guntur,Sugarcane,9007.8,630546.0,70.0,6305.5,2702.3
+2019,Andhra Pradesh,Guntur,Soybean,43550.1,47905.1,1.1,30485.1,13065.0
+2020,Andhra Pradesh,Guntur,Soybean,43550.1,47905.1,1.1,30485.1,13065.0
+2021,Andhra Pradesh,Guntur,Soybean,43550.1,47905.1,1.1,30485.1,13065.0
+2022,Andhra Pradesh,Guntur,Soybean,43550.1,47905.1,1.1,30485.1,13065.0
+2023,Andhra Pradesh,Guntur,Soybean,43550.1,47905.1,1.1,30485.1,13065.0
+2024,Andhra Pradesh,Guntur,Soybean,43550.1,47905.1,1.1,30485.1,13065.0
+2019,Andhra Pradesh,Guntur,Maize,38987.2,109164.2,2.8,27291.0,11696.2
+2020,Andhra Pradesh,Guntur,Maize,38987.2,109164.2,2.8,27291.0,11696.2
+2021,Andhra Pradesh,Guntur,Maize,38987.2,109164.2,2.8,27291.0,11696.2
+2022,Andhra Pradesh,Guntur,Maize,38987.2,109164.2,2.8,27291.0,11696.2
+2023,Andhra Pradesh,Guntur,Maize,38987.2,109164.2,2.8,27291.0,11696.2
+2024,Andhra Pradesh,Guntur,Maize,38987.2,109164.2,2.8,27291.0,11696.2
+2019,Andhra Pradesh,Guntur,Groundnut,24967.8,34954.9,1.4,17477.5,7490.3
+2020,Andhra Pradesh,Guntur,Groundnut,24967.8,34954.9,1.4,17477.5,7490.3
+2021,Andhra Pradesh,Guntur,Groundnut,24967.8,34954.9,1.4,17477.5,7490.3
+2022,Andhra Pradesh,Guntur,Groundnut,24967.8,34954.9,1.4,17477.5,7490.3
+2023,Andhra Pradesh,Guntur,Groundnut,24967.8,34954.9,1.4,17477.5,7490.3
+2024,Andhra Pradesh,Guntur,Groundnut,24967.8,34954.9,1.4,17477.5,7490.3
+2019,Andhra Pradesh,Guntur,Onion,8411.2,151401.6,18.0,5887.8,2523.4
+2020,Andhra Pradesh,Guntur,Onion,8411.2,151401.6,18.0,5887.8,2523.4
+2021,Andhra Pradesh,Guntur,Onion,8411.2,151401.6,18.0,5887.8,2523.4
+2022,Andhra Pradesh,Guntur,Onion,8411.2,151401.6,18.0,5887.8,2523.4
+2023,Andhra Pradesh,Guntur,Onion,8411.2,151401.6,18.0,5887.8,2523.4
+2024,Andhra Pradesh,Guntur,Onion,8411.2,151401.6,18.0,5887.8,2523.4
+2019,Andhra Pradesh,Nellore,Rice,39919.2,99798.0,2.5,27943.4,11975.8
+2020,Andhra Pradesh,Nellore,Rice,39919.2,99798.0,2.5,27943.4,11975.8
+2021,Andhra Pradesh,Nellore,Rice,39919.2,99798.0,2.5,27943.4,11975.8
+2022,Andhra Pradesh,Nellore,Rice,39919.2,99798.0,2.5,27943.4,11975.8
+2023,Andhra Pradesh,Nellore,Rice,39919.2,99798.0,2.5,27943.4,11975.8
+2024,Andhra Pradesh,Nellore,Rice,39919.2,99798.0,2.5,27943.4,11975.8
+2019,Andhra Pradesh,Nellore,Wheat,25264.0,80844.8,3.2,17684.8,7579.2
+2020,Andhra Pradesh,Nellore,Wheat,25264.0,80844.8,3.2,17684.8,7579.2
+2021,Andhra Pradesh,Nellore,Wheat,25264.0,80844.8,3.2,17684.8,7579.2
+2022,Andhra Pradesh,Nellore,Wheat,25264.0,80844.8,3.2,17684.8,7579.2
+2023,Andhra Pradesh,Nellore,Wheat,25264.0,80844.8,3.2,17684.8,7579.2
+2024,Andhra Pradesh,Nellore,Wheat,25264.0,80844.8,3.2,17684.8,7579.2
+2019,Andhra Pradesh,Nellore,Cotton,35896.0,17948.0,0.5,25127.2,10768.8
+2020,Andhra Pradesh,Nellore,Cotton,35896.0,17948.0,0.5,25127.2,10768.8
+2021,Andhra Pradesh,Nellore,Cotton,35896.0,17948.0,0.5,25127.2,10768.8
+2022,Andhra Pradesh,Nellore,Cotton,35896.0,17948.0,0.5,25127.2,10768.8
+2023,Andhra Pradesh,Nellore,Cotton,35896.0,17948.0,0.5,25127.2,10768.8
+2024,Andhra Pradesh,Nellore,Cotton,35896.0,17948.0,0.5,25127.2,10768.8
+2019,Andhra Pradesh,Nellore,Sugarcane,8616.6,603162.0,70.0,6031.6,2585.0
+2020,Andhra Pradesh,Nellore,Sugarcane,8616.6,603162.0,70.0,6031.6,2585.0
+2021,Andhra Pradesh,Nellore,Sugarcane,8616.6,603162.0,70.0,6031.6,2585.0
+2022,Andhra Pradesh,Nellore,Sugarcane,8616.6,603162.0,70.0,6031.6,2585.0
+2023,Andhra Pradesh,Nellore,Sugarcane,8616.6,603162.0,70.0,6031.6,2585.0
+2024,Andhra Pradesh,Nellore,Sugarcane,8616.6,603162.0,70.0,6031.6,2585.0
+2019,Andhra Pradesh,Nellore,Soybean,16029.0,17631.9,1.1,11220.3,4808.7
+2020,Andhra Pradesh,Nellore,Soybean,16029.0,17631.9,1.1,11220.3,4808.7
+2021,Andhra Pradesh,Nellore,Soybean,16029.0,17631.9,1.1,11220.3,4808.7
+2022,Andhra Pradesh,Nellore,Soybean,16029.0,17631.9,1.1,11220.3,4808.7
+2023,Andhra Pradesh,Nellore,Soybean,16029.0,17631.9,1.1,11220.3,4808.7
+2024,Andhra Pradesh,Nellore,Soybean,16029.0,17631.9,1.1,11220.3,4808.7
+2019,Andhra Pradesh,Nellore,Maize,20386.1,57081.1,2.8,14270.3,6115.8
+2020,Andhra Pradesh,Nellore,Maize,20386.1,57081.1,2.8,14270.3,6115.8
+2021,Andhra Pradesh,Nellore,Maize,20386.1,57081.1,2.8,14270.3,6115.8
+2022,Andhra Pradesh,Nellore,Maize,20386.1,57081.1,2.8,14270.3,6115.8
+2023,Andhra Pradesh,Nellore,Maize,20386.1,57081.1,2.8,14270.3,6115.8
+2024,Andhra Pradesh,Nellore,Maize,20386.1,57081.1,2.8,14270.3,6115.8
+2019,Andhra Pradesh,Nellore,Groundnut,24300.6,34020.8,1.4,17010.4,7290.2
+2020,Andhra Pradesh,Nellore,Groundnut,24300.6,34020.8,1.4,17010.4,7290.2
+2021,Andhra Pradesh,Nellore,Groundnut,24300.6,34020.8,1.4,17010.4,7290.2
+2022,Andhra Pradesh,Nellore,Groundnut,24300.6,34020.8,1.4,17010.4,7290.2
+2023,Andhra Pradesh,Nellore,Groundnut,24300.6,34020.8,1.4,17010.4,7290.2
+2024,Andhra Pradesh,Nellore,Groundnut,24300.6,34020.8,1.4,17010.4,7290.2
+2019,Andhra Pradesh,Nellore,Onion,8790.6,158230.8,18.0,6153.4,2637.2
+2020,Andhra Pradesh,Nellore,Onion,8790.6,158230.8,18.0,6153.4,2637.2
+2021,Andhra Pradesh,Nellore,Onion,8790.6,158230.8,18.0,6153.4,2637.2
+2022,Andhra Pradesh,Nellore,Onion,8790.6,158230.8,18.0,6153.4,2637.2
+2023,Andhra Pradesh,Nellore,Onion,8790.6,158230.8,18.0,6153.4,2637.2
+2024,Andhra Pradesh,Nellore,Onion,8790.6,158230.8,18.0,6153.4,2637.2
+2019,Andhra Pradesh,Kurnool,Rice,61483.2,153708.0,2.5,43038.2,18445.0
+2020,Andhra Pradesh,Kurnool,Rice,61483.2,153708.0,2.5,43038.2,18445.0
+2021,Andhra Pradesh,Kurnool,Rice,61483.2,153708.0,2.5,43038.2,18445.0
+2022,Andhra Pradesh,Kurnool,Rice,61483.2,153708.0,2.5,43038.2,18445.0
+2023,Andhra Pradesh,Kurnool,Rice,61483.2,153708.0,2.5,43038.2,18445.0
+2024,Andhra Pradesh,Kurnool,Rice,61483.2,153708.0,2.5,43038.2,18445.0
+2019,Andhra Pradesh,Kurnool,Wheat,50513.0,161641.6,3.2,35359.1,15153.9
+2020,Andhra Pradesh,Kurnool,Wheat,50513.0,161641.6,3.2,35359.1,15153.9
+2021,Andhra Pradesh,Kurnool,Wheat,50513.0,161641.6,3.2,35359.1,15153.9
+2022,Andhra Pradesh,Kurnool,Wheat,50513.0,161641.6,3.2,35359.1,15153.9
+2023,Andhra Pradesh,Kurnool,Wheat,50513.0,161641.6,3.2,35359.1,15153.9
+2024,Andhra Pradesh,Kurnool,Wheat,50513.0,161641.6,3.2,35359.1,15153.9
+2019,Andhra Pradesh,Kurnool,Cotton,12424.0,6212.0,0.5,8696.8,3727.2
+2020,Andhra Pradesh,Kurnool,Cotton,12424.0,6212.0,0.5,8696.8,3727.2
+2021,Andhra Pradesh,Kurnool,Cotton,12424.0,6212.0,0.5,8696.8,3727.2
+2022,Andhra Pradesh,Kurnool,Cotton,12424.0,6212.0,0.5,8696.8,3727.2
+2023,Andhra Pradesh,Kurnool,Cotton,12424.0,6212.0,0.5,8696.8,3727.2
+2024,Andhra Pradesh,Kurnool,Cotton,12424.0,6212.0,0.5,8696.8,3727.2
+2019,Andhra Pradesh,Kurnool,Sugarcane,16040.1,1122807.0,70.0,11228.1,4812.0
+2020,Andhra Pradesh,Kurnool,Sugarcane,16040.1,1122807.0,70.0,11228.1,4812.0
+2021,Andhra Pradesh,Kurnool,Sugarcane,16040.1,1122807.0,70.0,11228.1,4812.0
+2022,Andhra Pradesh,Kurnool,Sugarcane,16040.1,1122807.0,70.0,11228.1,4812.0
+2023,Andhra Pradesh,Kurnool,Sugarcane,16040.1,1122807.0,70.0,11228.1,4812.0
+2024,Andhra Pradesh,Kurnool,Sugarcane,16040.1,1122807.0,70.0,11228.1,4812.0
+2019,Andhra Pradesh,Kurnool,Soybean,40637.7,44701.5,1.1,28446.4,12191.3
+2020,Andhra Pradesh,Kurnool,Soybean,40637.7,44701.5,1.1,28446.4,12191.3
+2021,Andhra Pradesh,Kurnool,Soybean,40637.7,44701.5,1.1,28446.4,12191.3
+2022,Andhra Pradesh,Kurnool,Soybean,40637.7,44701.5,1.1,28446.4,12191.3
+2023,Andhra Pradesh,Kurnool,Soybean,40637.7,44701.5,1.1,28446.4,12191.3
+2024,Andhra Pradesh,Kurnool,Soybean,40637.7,44701.5,1.1,28446.4,12191.3
+2019,Andhra Pradesh,Kurnool,Maize,41776.0,116972.8,2.8,29243.2,12532.8
+2020,Andhra Pradesh,Kurnool,Maize,41776.0,116972.8,2.8,29243.2,12532.8
+2021,Andhra Pradesh,Kurnool,Maize,41776.0,116972.8,2.8,29243.2,12532.8
+2022,Andhra Pradesh,Kurnool,Maize,41776.0,116972.8,2.8,29243.2,12532.8
+2023,Andhra Pradesh,Kurnool,Maize,41776.0,116972.8,2.8,29243.2,12532.8
+2024,Andhra Pradesh,Kurnool,Maize,41776.0,116972.8,2.8,29243.2,12532.8
+2019,Andhra Pradesh,Kurnool,Groundnut,8467.2,11854.1,1.4,5927.0,2540.2
+2020,Andhra Pradesh,Kurnool,Groundnut,8467.2,11854.1,1.4,5927.0,2540.2
+2021,Andhra Pradesh,Kurnool,Groundnut,8467.2,11854.1,1.4,5927.0,2540.2
+2022,Andhra Pradesh,Kurnool,Groundnut,8467.2,11854.1,1.4,5927.0,2540.2
+2023,Andhra Pradesh,Kurnool,Groundnut,8467.2,11854.1,1.4,5927.0,2540.2
+2024,Andhra Pradesh,Kurnool,Groundnut,8467.2,11854.1,1.4,5927.0,2540.2
+2019,Andhra Pradesh,Kurnool,Onion,6556.0,118008.0,18.0,4589.2,1966.8
+2020,Andhra Pradesh,Kurnool,Onion,6556.0,118008.0,18.0,4589.2,1966.8
+2021,Andhra Pradesh,Kurnool,Onion,6556.0,118008.0,18.0,4589.2,1966.8
+2022,Andhra Pradesh,Kurnool,Onion,6556.0,118008.0,18.0,4589.2,1966.8
+2023,Andhra Pradesh,Kurnool,Onion,6556.0,118008.0,18.0,4589.2,1966.8
+2024,Andhra Pradesh,Kurnool,Onion,6556.0,118008.0,18.0,4589.2,1966.8
