@@ -137,7 +137,6 @@ D:\SIH\farmer-ai-system\data\
 - Kannada (kn): ~1.5 GB
 - Odia (or): ~1.2 GB
 - Malayalam (ml): ~1.2 GB
-
 ---
 
 ### 📂 `data/speech/openslr_compact/`
